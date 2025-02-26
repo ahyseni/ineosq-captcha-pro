@@ -1,0 +1,127 @@
+.ineosq-modal {
+    position: fixed;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 100000;
+    display: none;
+    background: rgba(0, 0, 0, 0.6);
+}
+.ineosq-modal.active {
+    display: block;
+}
+.ineosq-modal.active:before {
+    display: block;
+}
+.ineosq-modal .ineosq-modal-dialog {
+    background: transparent;
+    position: absolute;
+    left: 50%;
+    margin-left: -298px;
+    padding-bottom: 30px;
+    top: -100%;
+    z-index: 100001;
+    width: 596px;
+}
+.ineosq-modal.active .ineosq-modal-dialog {
+    top: 10%;
+}
+.ineosq-modal .ineosq-modal-body,
+.ineosq-modal .ineosq-modal-footer {
+    border: 0;
+    background: #fff;
+    padding: 25px 25px 15px;
+}
+.ineosq-modal .ineosq-modal-body {
+    border-bottom: 0;
+}
+.ineosq-modal .ineosq-modal-body p {
+    font-size: 1.3em;
+}
+.ineosq-modal .ineosq-modal-body h2 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 0;
+}
+.ineosq-modal .ineosq-modal-footer {
+    border-top: #eeeeee solid 1px;
+}
+.ineosq-modal .ineosq-modal-footer .ineosq-modal-skip-link {
+    text-decoration: none;
+    float: right;
+    display: inline-block;
+    padding: 7px;
+}
+.ineosq-modal .ineosq-modal-footer .button {
+    margin: 0 7px;    
+    float: left;
+}
+.rtl .ineosq-modal .ineosq-modal-footer .ineosq-modal-skip-link {
+    float: left;
+}
+.rtl .ineosq-modal .ineosq-modal-footer .button {
+    float: right;
+}
+.ineosq-modal .ineosq-modal-footer .button:first-child {
+    margin: 0;
+}
+.ineosq-modal .ineosq-modal-panel>.notice.inline {
+    margin: 0;
+    display: none;
+}
+.ineosq-modal .ineosq-modal-panel:not(.active) {
+    display: none;
+}
+body.has-ineosq-modal {
+    overflow: hidden;
+}
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-reason-input,
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-internal-message {
+    margin: 3px 0 3px 22px;
+}
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-reason-input input,
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-reason-input textarea,
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-internal-message input,
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-internal-message textarea,
+.ineosq-modal.ineosq-modal-request-feature textarea {
+    width: 100%;
+}
+.ineosq-modal.ineosq-modal-deactivation-feedback li.ineosq-modal-reason.has-internal-message .ineosq-modal-internal-message {
+    border: 1px solid #ccc;
+    padding: 7px;
+    display: none;
+}
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-anonymous-label {
+    padding-top: 15px;
+}
+.ineosq-modal.ineosq-modal-deactivation-feedback .ineosq-modal-panel {
+    margin-top: 0 !important;
+}
+
+@media (max-width: 650px) {
+    .ineosq-modal .ineosq-modal-dialog {
+        margin-left: -50%;
+        box-sizing: border-box;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 100%;
+    }
+    .ineosq-modal .ineosq-modal-dialog .ineosq-modal-panel>h3>strong {
+        font-size: 1.3em;
+    }
+    .ineosq-modal.ineosq-modal-deactivation-feedback li.ineosq-modal-reason li.ineosq-modal-reason {
+        margin-bottom: 10px;
+    }
+    .ineosq-modal.ineosq-modal-deactivation-feedback li.ineosq-modal-reason li.ineosq-modal-reason .ineosq-modal-reason-input,
+    .ineosq-modal.ineosq-modal-deactivation-feedback li.ineosq-modal-reason li.ineosq-modal-reason .ineosq-modal-internal-message {
+        margin-left: 29px;
+    }
+    .ineosq-modal.ineosq-modal-deactivation-feedback li.ineosq-modal-reason li.ineosq-modal-reason label {
+        display: table;
+    }
+    .ineosq-modal.ineosq-modal-deactivation-feedback li.ineosq-modal-reason li.ineosq-modal-reason label>span {
+        display: table-cell;
+        font-size: 1.3em;
+    }
+}

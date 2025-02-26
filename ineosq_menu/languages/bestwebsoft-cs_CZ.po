@@ -1,0 +1,1689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ineosq\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-15 10:46+0200\n"
+"PO-Revision-Date: 2021-02-15 10:46+0200\n"
+"Last-Translator: Mik013\n"
+"Language-Team: Mik013\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: ineosq_functions.php:73 ineosq_functions.php:239
+msgid "requires"
+msgstr "vyžaduje"
+
+#: ineosq_functions.php:75
+msgid ""
+"or higher, that is why it has been deactivated! Please upgrade WordPress and "
+"try again."
+msgstr ""
+"nebo vyšší, to je důvod, proč byl deaktivován! Proveďte upgrade WordPressu a "
+"zkuste to znovu."
+
+#: ineosq_functions.php:76
+msgid "Back to the WordPress"
+msgstr "Zpět do WordPressu"
+
+#: ineosq_functions.php:78
+msgid "Plugins page"
+msgstr "Stránka pluginů"
+
+#: ineosq_functions.php:92
+msgid "Like the plugin?"
+msgstr "Líbí se vám plugin?"
+
+#: ineosq_functions.php:93
+#, php-format
+msgid "%s reviews"
+msgstr "%s hodnocení"
+
+#: ineosq_functions.php:94
+msgid "Rate it"
+msgstr "Ohodnoťte jej"
+
+#: ineosq_functions.php:103
+msgid "Need help?"
+msgstr "Potřebujete pomoci?"
+
+#: ineosq_functions.php:104 ineosq_functions.php:949 class-ineosq-settings.php:1127
+msgid "Visit Help Center"
+msgstr "Navštivte Centrum pomoci"
+
+#: ineosq_functions.php:107
+msgid "Want to support the plugin?"
+msgstr "Chcete podpořit plugin?"
+
+#: ineosq_functions.php:108 ineosq_menu.php:556
+msgid "Donate"
+msgstr "Darujte"
+
+#: ineosq_functions.php:128
+msgid "WARNING: Illegal use notification"
+msgstr "POZOR: upozornění na neoprávněné užívání"
+
+#: ineosq_functions.php:128
+msgid ""
+"You can use one license of the Pro plugin for one domain only. Please check "
+"and edit your license or domain if necessary using your personal Client "
+"Area. We strongly recommend you to solve the problem within 24 hours, "
+"otherwise the Pro plugin will be deactivated."
+msgstr ""
+"Pro licenci pluginu můžete používat pouze pro jednu doménu. Prosím "
+"zkontrolujte a případně upravte Váš licenční klíč či doménu na vaší osobní "
+"stránce - Klientské zóně. Důrazně doporučujeme, aby jste tento problém "
+"odstranili během 24 hodin, jinak bude Pro plugin deaktivován."
+
+#: ineosq_functions.php:128 ineosq_functions.php:208 ineosq_menu.php:627
+#: class-ineosq-settings.php:179 deprecated.php:781
+msgid "Learn More"
+msgstr "Dozvědět se více"
+
+#: ineosq_functions.php:145
+msgid ""
+"Notice: Your Pro Trial license has expired. To continue using the plugin, "
+"you should buy a Pro license"
+msgstr ""
+"Poznámka: Vaše zkušební Pro verze pluginu vypršela. Pro další používání "
+"pluginu bude nutné zakoupit PRO licenci"
+
+#: ineosq_functions.php:147
+msgid ""
+"Your license has expired. To continue getting top-priority support and "
+"plugin updates, you should extend it."
+msgstr ""
+"Vaše licence vypršela. Pro přístup k top-prioritní podpoře a aktualizacím "
+"pluginu ji budete muset prodloužit."
+
+#: ineosq_functions.php:147 ineosq_functions.php:226 deprecated.php:586
+#: deprecated.php:834
+msgid "Learn more"
+msgstr "Dozvědět se více"
+
+#: ineosq_functions.php:165
+#, php-format
+msgid "Notice: You are using the Pro Trial license of %s plugin."
+msgstr "Poznámka: Používáte zkušební Pro verzi pluginu %s."
+
+#: ineosq_functions.php:167
+msgid "Notice: You are using the Pro Trial license of plugin."
+msgstr "Poznámka: Používáte zkušební Pro verzi pluginu."
+
+#: ineosq_functions.php:170
+msgid "The Pro Trial license will expire on"
+msgstr "Zkušební Pro licence vyprší"
+
+#: ineosq_functions.php:199 ineosq_functions.php:222 ineosq_functions.php:266
+#: ineosq_functions.php:276 ineosq_functions.php:475 deprecated.php:772
+#: deprecated.php:830
+msgid "Close notice"
+msgstr "Zavřít poznámku"
+
+#: ineosq_functions.php:204 deprecated.php:777
+msgid "It’s time to upgrade your"
+msgstr "Je čas na aktualizaci vašeho"
+
+#: ineosq_functions.php:204 deprecated.php:777
+msgid "to"
+msgstr "na"
+
+#: ineosq_functions.php:204 deprecated.php:777
+msgid "version!"
+msgstr "verzi!"
+
+#: ineosq_functions.php:205 deprecated.php:778
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Rozšiřuje standardní funkce pluginu novými skvělými možnostmi."
+
+#: ineosq_functions.php:226 deprecated.php:834
+#, php-format
+msgid ""
+"Your license key for %s expires on %s and you won't be granted TOP-PRIORITY "
+"SUPPORT or UPDATES."
+msgstr ""
+"Váš licenční klíč pro %s vyprší dne %s a nebudou vám poskytovány TOP-"
+"PRIOROTNÍ PODPORA a AKTUALIZACE."
+
+#: ineosq_functions.php:241
+msgid ""
+"or higher! We do not guarantee that our plugin will work correctly. Please "
+"upgrade to WordPress latest version."
+msgstr ""
+"nebo vyšší! Nezaručujeme, že náš plugin bude fungovat správně. Prosím "
+"aktualizujte na nejnovější verzi WordPressu."
+
+#: ineosq_functions.php:256
+#, php-format
+msgid "Thank you for installing %s plugin!"
+msgstr "Děkujeme vám za instalaci pluginu %s!"
+
+#: ineosq_functions.php:258
+msgid "Let's get started"
+msgstr "Začněme"
+
+#: ineosq_functions.php:259 ineosq_functions.php:292 ineosq_menu.php:560
+#: ineosq_menu.php:562
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ineosq_functions.php:261 ineosq_menu.php:327 class-ineosq-settings.php:795
+#: class-ineosq-settings.php:1129 class-ineosq-settings.php:1139 deprecated.php:697
+msgid "or"
+msgstr "nebo"
+
+#: ineosq_functions.php:262 ineosq_functions.php:294
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: ineosq_functions.php:281
+msgid "Thank you for installing plugins by IneosQ!"
+msgstr "Děkujeme vám za instalaci pluginů od IneosQ!"
+
+#: ineosq_functions.php:283
+msgid "More Details"
+msgstr "Více detailů"
+
+#: ineosq_functions.php:284
+msgid "Less Details"
+msgstr "Méně detailů"
+
+#: ineosq_functions.php:312
+msgid "Deprecated function(-s) is used on the site here:"
+msgstr "Zastaralé funkce se používají na stránkách zde:"
+
+#: ineosq_functions.php:326
+msgid ""
+"This function(-s) will be removed over time. Please update the product(-s)."
+msgstr ""
+"Tato funkce, bude  v průběhu času odstraněna. Prosím aktualizujte produkt."
+
+#: ineosq_functions.php:470
+#, php-format
+msgid "Thank you for choosing %s plugin!"
+msgstr "Děkujeme, že jste si vybrali plugin %s!"
+
+#: ineosq_functions.php:471
+msgid ""
+"If you have a feature, suggestion or idea you'd like to see in the plugin, "
+"we'd love to hear about it!"
+msgstr ""
+"Máte-li nápad, nebo doporučení na novou vlastnost, kterou by jste v pluginu "
+"chtěli vidět, rádi o něm uslyšíme!"
+
+#: ineosq_functions.php:472
+msgid "Suggest a Feature"
+msgstr "Navrhnout vlastnost"
+
+#: ineosq_functions.php:488 class-ineosq-settings.php:580 class-ineosq-settings.php:583
+#: class-ineosq-settings.php:635 class-ineosq-settings.php:638
+msgid "Notice"
+msgstr "Poznámka"
+
+#: ineosq_functions.php:488
+msgid "The plugin's settings have been changed."
+msgstr "Nastavení pluginu bylo změněno."
+
+#: ineosq_functions.php:489 class-ineosq-settings.php:222 class-ineosq-settings.php:242
+#: deprecated.php:642
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: ineosq_functions.php:503
+msgid ""
+"You can always look at premium options by checking the \"Pro Options\" in "
+"the \"Misc\" tab."
+msgstr ""
+"Vždy se můžete podívat na možnosti prémiové verze, kliknutím na \"PRO "
+"nastavení\" na \"Go PRO\" záložce."
+
+#: ineosq_functions.php:679
+msgid "Add shortcode"
+msgstr "Přidat zkrácený kód"
+
+#: ineosq_functions.php:679
+msgid "Add IneosQ plugins' shortcodes using this button."
+msgstr ""
+"Pomocí tohoto tlačítka můžete přidávat zkrácené kódy IneosQ pluginů."
+
+#: ineosq_functions.php:765
+msgid "Close"
+msgstr "Zavřít"
+
+#: ineosq_functions.php:851
+msgid "Are you sure you want to restore default settings?"
+msgstr "Jste si jisti, že chcete obnovit výchozí nastavení?"
+
+#: ineosq_functions.php:854
+msgid "Yes, restore all settings"
+msgstr "Ano, obnovit veškerá nastavení"
+
+#: ineosq_functions.php:855
+msgid "No, go back to the settings page"
+msgstr "Ne, vrátit se zpět na stránku nastavení"
+
+#: ineosq_functions.php:897
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ineosq_functions.php:906
+msgid "Shortcode settings"
+msgstr "Nastavení zkrácených kódů"
+
+#: ineosq_functions.php:911
+msgid "The shortcode will be inserted"
+msgstr "Bude vložen zkrácený kód"
+
+#: ineosq_functions.php:954
+msgid "FAQ"
+msgstr ""
+"Časté dotazy <acronym title=\"Frequently asked questions\">(FAQ)</acronym>"
+
+#: ineosq_functions.php:960
+msgid "For more information:"
+msgstr "Pro více informací:"
+
+#: ineosq_functions.php:961
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: ineosq_functions.php:962
+msgid "Video Instructions"
+msgstr "Video instrukce"
+
+#: ineosq_functions.php:963
+msgid "Submit a Request"
+msgstr "Odeslat požadavek"
+
+#: ineosq_menu.php:101 class-ineosq-settings.php:845 deprecated.php:323
+msgid "Wrong license key"
+msgstr "Špatný licenční klíč"
+
+#: ineosq_menu.php:122 class-ineosq-settings.php:872 class-ineosq-settings.php:951
+#: class-ineosq-settings.php:989 deprecated.php:133 deprecated.php:199
+#: deprecated.php:353
+msgid ""
+"Something went wrong. Please try again later. If the error appears again, "
+"please contact us"
+msgstr ""
+"Něco se pokazilo. Prosím zkuste to znovu později. Pokud se chyba objeví "
+"znovu, obraťte se na nás"
+
+#: ineosq_menu.php:122 class-ineosq-settings.php:872 class-ineosq-settings.php:951
+#: class-ineosq-settings.php:989 deprecated.php:133 deprecated.php:199
+#: deprecated.php:353
+msgid "We are sorry for inconvenience."
+msgstr "Omlouváme se za nepříjemnosti."
+
+#: ineosq_menu.php:129 class-ineosq-settings.php:878 class-ineosq-settings.php:995
+#: deprecated.php:139 deprecated.php:359
+msgid "Wrong license key."
+msgstr "Neplatný licenční klíč."
+
+#: ineosq_menu.php:131
+msgid ""
+"This license key is bound to another site. Change it via personal Client "
+"Area."
+msgstr ""
+"Tento licenční klíč je přidružen k jinému webu. Změňte jej prostřednictvím "
+"osobní Klientské zóny."
+
+#: ineosq_menu.php:131
+msgid "Log in"
+msgstr "Přihlášení"
+
+#: ineosq_menu.php:133 ineosq_menu.php:333 deprecated.php:261
+msgid "Unfortunately, you have exceeded the number of available tries per day."
+msgstr "Bohužel, překročili jste dostupný počet pokusů pro daný den."
+
+#: ineosq_menu.php:135 deprecated.php:365
+#, php-format
+msgid ""
+"Unfortunately, Your license has expired. To continue getting top-priority "
+"support and plugin updates, you should extend it in your %s"
+msgstr ""
+"Bohužel, Vaše licence vypršela. Chcete-li pokračovat v získávání top-"
+"prioritní podpory a aktualizace pluginu měli byste ji prodloužit ve vašem %s"
+
+#: ineosq_menu.php:137 class-ineosq-settings.php:1003 deprecated.php:367
+msgid ""
+"Unfortunately, the Pro licence was already installed to this domain. The Pro "
+"Trial license can be installed only once."
+msgstr ""
+"Bohužel, pro tuto doménu již byla použita Pro licence. Zkušební Pro licence "
+"může být instalována pouze jedenkrát."
+
+#: ineosq_menu.php:143 class-ineosq-settings.php:893 deprecated.php:153
+msgid "The license key is valid."
+msgstr "Licenční klíč je platný."
+
+#: ineosq_menu.php:145 class-ineosq-settings.php:897 deprecated.php:156
+msgid "Your license will expire on"
+msgstr "Vaše licence vyprší"
+
+#: ineosq_menu.php:147
+msgid "Congratulations! Pro Membership license is activated successfully."
+msgstr "Gratulujeme! PRO členství bylo úspěšně aktivováno."
+
+#: ineosq_menu.php:154 class-ineosq-settings.php:1073 deprecated.php:436
+msgid ""
+"Something went wrong. Try again later or upload the plugin manually. We are "
+"sorry for inconvenience."
+msgstr ""
+"Něco se pokazilo. Zkuste to později, nebo nahrajte plugin ručně. Omlouváme "
+"se za nepříjemnosti."
+
+#: ineosq_menu.php:164
+msgid "Please enter your license key."
+msgstr "Prosím vložte váš licenční klíč."
+
+#: ineosq_menu.php:175
+msgid "Not set"
+msgstr "Nenastaveno"
+
+#: ineosq_menu.php:177
+msgid "On"
+msgstr "Zapnout"
+
+# vypnout, nebo vypnuto
+#: ineosq_menu.php:177
+msgid "Off"
+msgstr "Vypnout"
+
+#: ineosq_menu.php:178 ineosq_menu.php:179 ineosq_menu.php:180 ineosq_menu.php:181
+#: ineosq_menu.php:182 ineosq_menu.php:183 ineosq_menu.php:192
+msgid "N/A"
+msgstr "N/A"
+
+#: ineosq_menu.php:183
+msgid "Mb"
+msgstr "Mb"
+
+#: ineosq_menu.php:184 ineosq_menu.php:185 ineosq_menu.php:186 ineosq_menu.php:190
+msgid "Yes"
+msgstr "Ano"
+
+#: ineosq_menu.php:184 ineosq_menu.php:185 ineosq_menu.php:186 ineosq_menu.php:190
+msgid "No"
+msgstr "Ne"
+
+#: ineosq_menu.php:197
+msgid "WordPress Environment"
+msgstr "WordPress prostředí"
+
+#: ineosq_menu.php:199
+msgid "Home URL"
+msgstr "Domovská URL"
+
+#: ineosq_menu.php:200
+msgid "Website URL"
+msgstr "URL webových stránek"
+
+#: ineosq_menu.php:201
+msgid "WP Version"
+msgstr "WP Verze"
+
+#: ineosq_menu.php:202
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: ineosq_menu.php:203
+msgid "WP Memory Limit"
+msgstr "WP pamětový limit (memory limit)"
+
+#: ineosq_menu.php:204
+msgid "Active Theme"
+msgstr "Aktivovat šablonu"
+
+#: ineosq_menu.php:204 ineosq_menu.php:249 ineosq_menu.php:252
+#, php-format
+msgid "by %s"
+msgstr "od %s"
+
+#: ineosq_menu.php:208
+msgid "Server Environment"
+msgstr "Prostředí"
+
+#: ineosq_menu.php:210
+msgid "Operating System"
+msgstr "Operační systém"
+
+#: ineosq_menu.php:211
+msgid "Server"
+msgstr "Server"
+
+#: ineosq_menu.php:212
+msgid "PHP Version"
+msgstr "PHP Verze"
+
+# copy
+#: ineosq_menu.php:213
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: ineosq_menu.php:214
+msgid "PHP Memory Limit"
+msgstr "PHP Limit paměti"
+
+#: ineosq_menu.php:215
+msgid "Memory Usage"
+msgstr "Využití paměti"
+
+# copy
+#: ineosq_menu.php:216
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+# copy
+#: ineosq_menu.php:217
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+# copy
+#: ineosq_menu.php:218
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+#: ineosq_menu.php:219
+msgid "PHP Exif support"
+msgstr "PHP podpora Exif"
+
+#: ineosq_menu.php:220
+msgid "PHP IPTC support"
+msgstr "PHP podpora IPTC"
+
+#: ineosq_menu.php:221
+msgid "PHP XML support"
+msgstr "PHP podpora XML"
+
+#: ineosq_menu.php:227
+msgid "Database"
+msgstr "Databáze"
+
+#: ineosq_menu.php:229
+msgid "WP DB version"
+msgstr "WP verze DB"
+
+#: ineosq_menu.php:230
+msgid "MySQL version"
+msgstr "Verze MYSQL"
+
+#: ineosq_menu.php:231
+msgid "SQL Mode"
+msgstr "Mód SQL"
+
+#: ineosq_menu.php:235
+msgid "Active Plugins"
+msgstr "Aktivní pluginy"
+
+#: ineosq_menu.php:240
+msgid "Inactive Plugins"
+msgstr "Neaktivní pluginy"
+
+#: ineosq_menu.php:261
+msgid "Please enter a valid email address."
+msgstr "Prosím vložte platnou e-mailovou adresu."
+
+#: ineosq_menu.php:263
+#, php-format
+msgid "Email with system info is sent to %s."
+msgstr "E-mail s informacemi o systému byl odeslán na %s."
+
+#: ineosq_menu.php:267
+msgid "Thank you for contacting us."
+msgstr "Děkujeme, že jste nás kontaktovali."
+
+#: ineosq_menu.php:290
+msgid "Sorry, email message could not be delivered."
+msgstr "Je nám líto, ale e-mail nemohl být doručen."
+
+#: ineosq_menu.php:306 ineosq_menu.php:310 ineosq_menu.php:359 deprecated.php:91
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: ineosq_menu.php:307 ineosq_menu.php:311 ineosq_menu.php:614 deprecated.php:92
+msgid "Themes"
+msgstr "Šablony"
+
+#: ineosq_menu.php:308 ineosq_menu.php:312 ineosq_menu.php:644
+msgid "System status"
+msgstr "Stav systému"
+
+#: ineosq_menu.php:316
+msgid "Support"
+msgstr "Podpora"
+
+#: ineosq_menu.php:317
+msgid "Manage purchased licenses & subscriptions"
+msgstr "Spravovat zakoupené licence a předplatné"
+
+#: ineosq_menu.php:325
+#, php-format
+msgid "Get Access to %s+ Premium Plugins"
+msgstr "Získejte přístup k %s+ Premiovým pluginům"
+
+#: ineosq_menu.php:327
+msgid "Subscribe to Pro Membership"
+msgstr "Přihlaste se k PRO členství"
+
+#: ineosq_menu.php:335 ineosq_menu.php:346 class-ineosq-settings.php:807
+#: deprecated.php:227
+msgid "Check license key"
+msgstr "Zkontrolovat licenční klíč"
+
+#: ineosq_menu.php:338
+msgid "Enter your license key"
+msgstr "Vložte váš licenční klíč"
+
+#: ineosq_menu.php:344 ineosq_menu.php:566 ineosq_menu.php:575
+#: class-ineosq-settings.php:787 deprecated.php:259 deprecated.php:267
+#: deprecated.php:631 deprecated.php:703 deprecated.php:712
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: ineosq_menu.php:360
+msgid "Upload Plugin"
+msgstr "Nahrát plugin"
+
+#: ineosq_menu.php:364
+#, php-format
+msgid ""
+"The plugin generated %d characters of <strong>unexpected output</strong> "
+"during activation. If you notice &#8220;headers already sent&#8221; "
+"messages, problems with syndication feeds or other issues, try deactivating "
+"or removing this plugin."
+msgstr ""
+"Plugin generoval %d znaků <strong>neočekávaný výstup</strong> v průběhu "
+"aktivace. If you notice &#8220;headers already sent&#8221; messages, "
+"problems with syndication feeds or other issues, pokuste se deaktivovat, "
+"nebo odstranit tento plugin."
+
+#: ineosq_menu.php:366
+msgid ""
+"Plugin could not be activated because it triggered a <strong>fatal error</"
+"strong>."
+msgstr ""
+"Plugin nemůže být aktivován, neboť způsobil <strong>závažnou chybu</strong>."
+
+#: ineosq_menu.php:369
+msgid "Plugin <strong>activated</strong>."
+msgstr "Plugin <strong>aktivován</strong>."
+
+#: ineosq_menu.php:376
+msgid "Installing Plugin"
+msgstr "Instalace pluginu"
+
+#: ineosq_menu.php:382
+msgid "Downloading install package from"
+msgstr "Stahování instalačního balíčku z"
+
+#: ineosq_menu.php:394 ineosq_menu.php:425 ineosq_menu.php:436 deprecated.php:388
+#: deprecated.php:410 deprecated.php:432
+msgid "Failed to download the zip archive. Please, upload the plugin manually"
+msgstr "Stažení zip archivu selhalo. Prosíme, nahrajte plugin ručně"
+
+#: ineosq_menu.php:402
+msgid "Unpacking the package"
+msgstr "Rozbalování balíčku"
+
+#: ineosq_menu.php:407 ineosq_menu.php:415
+msgid "Installing the plugin"
+msgstr "Instalace pluginu"
+
+#: ineosq_menu.php:411 deprecated.php:400
+msgid "Failed to open the zip archive. Please, upload the plugin manually"
+msgstr "Otevření zip archivu selhalo. Prosíme, nahrajte plugin ručně"
+
+#: ineosq_menu.php:418 deprecated.php:406
+msgid ""
+"Your server does not support either ZipArchive or Phar. Please, upload the "
+"plugin manually"
+msgstr ""
+"Váš server nepodporuje buď ZipArchive nebo Phar. Prosím, nahrajte plugin "
+"ručně"
+
+#: ineosq_menu.php:421
+#, php-format
+msgid "The plugin %s is successfully installed."
+msgstr "Plugin %s úspěšně nainstalován."
+
+#: ineosq_menu.php:428 deprecated.php:413
+msgid "UploadDir is not writable. Please, upload the plugin manually"
+msgstr "Nelze zapisovat do UploadDir. Prosím, nahrajte plugin ručně"
+
+#: ineosq_menu.php:433
+msgid "Activate Plugin"
+msgstr "Aktivovat plugin"
+
+#: ineosq_menu.php:433 ineosq_menu.php:439
+msgid "Return to IneosQ Panel"
+msgstr "Návrat na IneosQ panel"
+
+#: ineosq_menu.php:447 ineosq_menu.php:467 ineosq_menu.php:596
+msgid "All"
+msgstr "Vše"
+
+#: ineosq_menu.php:450 ineosq_menu.php:633
+msgid "Installed"
+msgstr "Instalováno"
+
+#: ineosq_menu.php:453
+msgid "Not Installed"
+msgstr "Neninstalováno"
+
+#: ineosq_menu.php:460
+msgid "Filter results"
+msgstr "Výsledky filtrování"
+
+#: ineosq_menu.php:463 ineosq_menu.php:592
+msgid "Category"
+msgstr "Rubriky"
+
+#: ineosq_menu.php:527
+msgid "Not installed"
+msgstr "Neninstalováno"
+
+#: ineosq_menu.php:531
+msgid "Renew to get updates"
+msgstr "Obnovit pro získání aktualizací"
+
+#: ineosq_menu.php:534
+#, php-format
+msgid "Update to v %s"
+msgstr "Aktualizovat na %s"
+
+#: ineosq_menu.php:546 ineosq_menu.php:569 ineosq_menu.php:578
+msgid "Install Now"
+msgstr "Instalovat nyní"
+
+#: ineosq_menu.php:552 class-ineosq-settings.php:192 class-ineosq-settings.php:1136
+msgid "Upgrade to Pro"
+msgstr "Aktualizovat na Pro"
+
+#: ineosq_menu.php:566 ineosq_menu.php:575
+msgid "Activate this plugin"
+msgstr "Aktivovat tento plugin"
+
+#: ineosq_menu.php:578
+msgid "Install this plugin"
+msgstr "Instalovat tento plugin"
+
+#: ineosq_menu.php:587
+msgid "Nothing found. Try another criteria."
+msgstr "Nic nenalezeno. Zkuste jiná kritéria."
+
+# podle, nebo taky od
+#: ineosq_menu.php:624
+#, php-format
+msgid "By %s"
+msgstr "podle %s"
+
+#: ineosq_menu.php:631
+msgid "Already Installed"
+msgstr "Již instalováno"
+
+#: ineosq_menu.php:641
+msgid "Browse More WordPress Themes"
+msgstr "Procházet další WordPress šablony"
+
+#: ineosq_menu.php:650
+msgid "Send to support"
+msgstr "Odeslat podpoře"
+
+#: ineosq_menu.php:657
+msgid "Send to custom email &#187;"
+msgstr "Odeslat na vlastní e-mail &#187;"
+
+#: class-ineosq-settings.php:167
+msgid "Information"
+msgstr "Informace"
+
+#: class-ineosq-settings.php:179
+msgid "Inactive"
+msgstr "Neaktivní"
+
+#: class-ineosq-settings.php:187
+msgid "Expired"
+msgstr "Expirované"
+
+#: class-ineosq-settings.php:190
+#, php-format
+msgid "%s day(-s) left"
+msgstr "%s dnů zbývá"
+
+#: class-ineosq-settings.php:196
+#, php-format
+msgid "Expired on %s"
+msgstr "Vypršela dne %s"
+
+#: class-ineosq-settings.php:196
+msgid "Renew Now"
+msgstr "Obnovit nyní"
+
+#: class-ineosq-settings.php:198
+msgid "Active"
+msgstr "Aktivní"
+
+#: class-ineosq-settings.php:203
+msgid "License"
+msgstr "Licence"
+
+#: class-ineosq-settings.php:206
+msgid "Status"
+msgstr "Stav"
+
+#: class-ineosq-settings.php:210
+msgid "Version"
+msgstr "Verze"
+
+#: class-ineosq-settings.php:323
+msgid "All plugin settings were restored."
+msgstr "Všechna nastavení pluginu byla obnovena."
+
+#: class-ineosq-settings.php:463
+msgid "Custom Code"
+msgstr "Vlastní kód"
+
+#: class-ineosq-settings.php:467 deprecated.php:498
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr "Nemáte dostatečná oprávnění pro úpravu pluginů tohoto webu."
+
+#: class-ineosq-settings.php:472 deprecated.php:620
+msgid "These styles will be added to the header on all pages of your site."
+msgstr "Tyto styly budou přidány do hlaviček všech stránek vašeho webu."
+
+#: class-ineosq-settings.php:475 deprecated.php:622
+#, php-format
+msgid ""
+"This PHP code will be hooked to the %s action and will be printed on front "
+"end only."
+msgstr ""
+"Tento PHP kód bude závislý na %s akci a bude zobrazen pouze na front endu."
+
+#: class-ineosq-settings.php:478
+msgid "These code will be added to the header on all pages of your site."
+msgstr "Tento kód bude přidán do záhlaví všech stránek vašeho webu."
+
+#: class-ineosq-settings.php:486 deprecated.php:646
+#, php-format
+msgid ""
+"You need to make this files writable before you can save your changes. See "
+"%s the Codex %s for more information."
+msgstr ""
+"Před tím, než budete moci vaše změny uložit, nastavte těmto souborům "
+"oprávnění pro zápis. Podívejte se %s na Kodex %s pro více informací."
+
+#: class-ineosq-settings.php:496 deprecated.php:628
+msgid "Browsing"
+msgstr "Procházení"
+
+#: class-ineosq-settings.php:501
+#, php-format
+msgid "Activate custom %s code."
+msgstr "Aktivovat vlastní %s kód."
+
+#: class-ineosq-settings.php:509 deprecated.php:635
+#, php-format
+msgid "Learn more about %s"
+msgstr "Dozvědět se více o %s"
+
+#: class-ineosq-settings.php:571
+msgid "Miscellaneous Settings"
+msgstr "Různá nastavení"
+
+#: class-ineosq-settings.php:580 class-ineosq-settings.php:635
+#, php-format
+msgid ""
+"It is prohibited to change %s settings on this site in the %s network "
+"settings."
+msgstr "Je zakázáno měnit nastavení %s na této stránce v %s nastavení sítě."
+
+#: class-ineosq-settings.php:583 class-ineosq-settings.php:638
+#, php-format
+msgid ""
+"It is prohibited to view %s settings on this site in the %s network settings."
+msgstr "Je zobrazit nastavení %s na této stránce v %s nastavení sítě."
+
+#: class-ineosq-settings.php:592
+msgid "Pro Options"
+msgstr "PRO nastavení"
+
+#: class-ineosq-settings.php:596
+msgid "Enable to display plugin Pro options."
+msgstr "Povolit zobrazení PRO voleb pluginu."
+
+#: class-ineosq-settings.php:602
+msgid "Track Usage"
+msgstr "Sběr statistik"
+
+#: class-ineosq-settings.php:606
+msgid ""
+"Enable to allow tracking plugin usage anonymously in order to make it better."
+msgstr ""
+"Umožnit anonymní sledování využití pluginu tak, aby mohl být dále vylepšován."
+
+#: class-ineosq-settings.php:611
+msgid "Default Settings"
+msgstr "Výchozí nastavení"
+
+#: class-ineosq-settings.php:613
+msgid "Restore Settings"
+msgstr "Obnovit nastavení"
+
+#: class-ineosq-settings.php:614
+msgid "This will restore plugin settings to defaults."
+msgstr "Toto obnoví veškerá nastavení pluginu na výchozí hodnoty."
+
+#: class-ineosq-settings.php:626
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: class-ineosq-settings.php:744
+msgid "License Key"
+msgstr "Licenční klíč"
+
+#: class-ineosq-settings.php:769
+#, fuzzy, php-format
+#| msgid "Congratulations! Pro license is activated successfully."
+msgid "Congratulations! %s license is activated successfully."
+msgstr "Gratulujeme! PRO licence byla úspěšně aktivována."
+
+#: class-ineosq-settings.php:770
+#, php-format
+msgid "You will be automatically redirected to the %s in %s seconds."
+msgstr "Budete automaticky přesměrováni na %s za %s sekund."
+
+#: class-ineosq-settings.php:770
+msgid "Settings page"
+msgstr "Stránka nastavení"
+
+#: class-ineosq-settings.php:789
+#, php-format
+msgid "Enter your license key to activate %s and get premium plugin features."
+msgstr ""
+"Vložte váš licenční klíč pro aktivaci %s a získejte tak prémiové fukcе "
+"pluginu."
+
+#: class-ineosq-settings.php:792 class-ineosq-settings.php:999 deprecated.php:363
+#: deprecated.php:706
+msgid ""
+"Unfortunately, you have exceeded the number of available tries per day. "
+"Please, upload the plugin manually."
+msgstr ""
+"Bohužel, jste překročili počet dostupných pokusů za den. Prosím, nahrejte "
+"plugin ručně."
+
+#: class-ineosq-settings.php:795 deprecated.php:697
+#, php-format
+msgid "Start Your Free %s-Day Trial Now"
+msgstr "Vyzkoušejte %s-denní zkušební verzi zdarma nyní"
+
+#: class-ineosq-settings.php:809
+msgid ""
+"If necessary, you can check if the license key is correct or reenter it in "
+"the field below."
+msgstr ""
+"V případě potřeby zkontrolujte, je-li licenční klíč správně zadán, případně "
+"jej do pole níže vložte znova."
+
+#: class-ineosq-settings.php:818
+msgid "Manage License Settings"
+msgstr "Správa nastavení licencí"
+
+#: class-ineosq-settings.php:820
+msgid "Login to Client Area"
+msgstr "Přihlášení do klientská zóny"
+
+#: class-ineosq-settings.php:822
+msgid ""
+"Manage active licenses, download INEOSQ products, and view your payment history "
+"using IneosQ Client Area."
+msgstr ""
+"Správa aktivních licencí, stahování INEOSQ produktů a zobrazení historie plateb "
+"v IneosQ klientské zóně."
+
+#: class-ineosq-settings.php:880 class-ineosq-settings.php:997 deprecated.php:141
+#: deprecated.php:361
+msgid "This license key is bound to another site."
+msgstr "Tento licenční klíč je přidružen k jinému webu."
+
+#: class-ineosq-settings.php:882 deprecated.php:143
+msgid ""
+"This license key is valid, but Your license has expired. If you want to "
+"update our plugin in future, you should extend the license."
+msgstr ""
+"Tento licenční klíč je platný, ale vaše licence vypršela. Chcete-li náš "
+"plugin v budoucnosti aktualizovat, měli by jste licenci prodloužit."
+
+#: class-ineosq-settings.php:884 deprecated.php:145
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr "Bohužel, překročili jste dostupný počet pokusů."
+
+#: class-ineosq-settings.php:886 deprecated.php:147
+msgid ""
+"Unfortunately, the Pro Trial licence was already installed to this domain. "
+"The Pro Trial license can be installed only once."
+msgstr ""
+"Bohužel, tato zkušební Pro licence již pro tuto doménu byla použita. "
+"Zkušební Pro licence může být instalována pouze jedenkrát."
+
+#: class-ineosq-settings.php:891 deprecated.php:151
+msgid "The Pro Trial license key is valid."
+msgstr "Licenční klíč zkušební Pro verze je platný."
+
+#: class-ineosq-settings.php:904 deprecated.php:159 deprecated.php:246
+#, php-format
+msgid ""
+"In order to continue using the plugin it is necessary to buy a %s license."
+msgstr ""
+"Pokud chcete nadále využívat tento plugin, je nutné zakoupit %s licenci."
+
+#: class-ineosq-settings.php:1001
+#, php-format
+msgid ""
+"Unfortunately, Your license has expired. To continue getting top-priority "
+"support and plugin updates, you should extend it in your %s."
+msgstr ""
+"Bohužel, Vaše licence vypršela. Chcete-li mít nadále přístup k top-prioritní "
+"podpoře a aktualizacím pluginu měli byste ji prodloužit ve vašem %s."
+
+#: class-ineosq-settings.php:1025 class-ineosq-settings.php:1047
+#: class-ineosq-settings.php:1069
+msgid "Failed to download the zip archive. Please, upload the plugin manually."
+msgstr "Stažení zip archivu selhalo. Nahrajte prosím plugin ručně."
+
+#: class-ineosq-settings.php:1037
+msgid "Failed to open the zip archive. Please, upload the plugin manually."
+msgstr "Otevření zip archivu selhalo. Nahrajte prosím plugin ručně."
+
+#: class-ineosq-settings.php:1043
+msgid ""
+"Your server does not support either ZipArchive or Phar. Please, upload the "
+"plugin manually."
+msgstr ""
+"Váš server nepodporuje buď ZipArchive nebo Phar. Prosím, nahrajte plugin "
+"ručně."
+
+#: class-ineosq-settings.php:1050
+msgid "UploadDir is not writable. Please, upload the plugin manually."
+msgstr "Nelze zapisovat do UploadDir. Prosím, nahrajte plugin ručně."
+
+#: class-ineosq-settings.php:1110 deprecated.php:464
+msgid "Please, enter Your license key"
+msgstr "Prosím, vložte váš licenční klíč"
+
+#: class-ineosq-settings.php:1123
+msgid "Need Help?"
+msgstr "Potřebujete pomoci?"
+
+#: class-ineosq-settings.php:1125
+msgid "Read the Instruction"
+msgstr "Přečíst si instrukce"
+
+#: class-ineosq-settings.php:1129
+msgid "Watch the Video"
+msgstr "Přehrát video"
+
+#: class-ineosq-settings.php:1140
+msgid "Start Your Free Trial"
+msgstr "Vyzkoušejte po omezenou dobu"
+
+#: class-ineosq-settings.php:1175
+#, fuzzy
+#| msgid "Suggest a Feature"
+msgid "Request a Feature"
+msgstr "Navrhnout vlastnost"
+
+#: class-ineosq-settings.php:1180
+#, php-format
+msgid "How can we improve %s?"
+msgstr ""
+
+#: class-ineosq-settings.php:1182
+msgid "We look forward to hear your ideas."
+msgstr ""
+
+#: class-ineosq-settings.php:1184
+msgid "Describe your idea"
+msgstr ""
+
+#: class-ineosq-settings.php:1187 deactivation-form.php:120
+msgid "Send website data and allow to contact me back"
+msgstr "Odeslat data webu a umožnit zpětně mě kontaktovat"
+
+#: class-ineosq-settings.php:1192
+msgid "Submit"
+msgstr ""
+
+#: class-ineosq-settings.php:1193 deactivation-form.php:127
+msgid "Processing"
+msgstr "Zpracovává se"
+
+#: class-ineosq-settings.php:1194
+msgid "Thank you!"
+msgstr ""
+
+#: deactivation-form.php:22
+msgid "Need help? We are ready to answer your questions."
+msgstr "Potřebujete pomoc? Rádi zodpovíme Vaše dotazy."
+
+#: deactivation-form.php:22
+msgid "Contact Support"
+msgstr "Kontaktujte podporu"
+
+#: deactivation-form.php:27
+msgid "The plugin is not working"
+msgstr "Plugin nefunguje"
+
+#: deactivation-form.php:33
+msgid "The plugin didn't work as expected"
+msgstr "Plugin nefungoval podle mých očekávání"
+
+#: deactivation-form.php:39
+msgid "The plugin suddenly stopped working"
+msgstr "Plugin přestal náhle pracovat"
+
+#: deactivation-form.php:46
+msgid "The plugin broke my site"
+msgstr "Plugin mi rozbil web"
+
+#: deactivation-form.php:53
+msgid "I couldn't understand how to get it work"
+msgstr "Nemohl jsem pochopit, jak to zprovoznit"
+
+#: deactivation-form.php:60
+msgid "I found a better plugin"
+msgstr "Našel jsem lepší plugin"
+
+#: deactivation-form.php:66
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+"Plugin je skvělý, ale já potřebuji specifickou funkci, kterou nepodporuje"
+
+#: deactivation-form.php:72
+msgid "I no longer need the plugin"
+msgstr "Nadále již tento plugin nepotřebuji"
+
+#: deactivation-form.php:78
+msgid "It's a temporary deactivation, I'm just debugging an issue"
+msgstr "Jedná se o dočasnou deaktivaci, pouze ladím problém"
+
+#: deactivation-form.php:84
+msgid "Other"
+msgstr "Ostatní"
+
+#: deactivation-form.php:93
+msgid "Quick Feedback"
+msgstr "Rychlá zpětná vazba"
+
+#: deactivation-form.php:95
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Máte-li chvilku, sdělte nám důvod, proč deaktivujete tento plugin"
+
+#: deactivation-form.php:125
+#, fuzzy
+#| msgid "Submit & Deactivate"
+msgid "Submit and Deactivate"
+msgstr "Odeslat a vypnout"
+
+#: deactivation-form.php:126
+#, fuzzy
+#| msgid "Submit & Deactivate"
+msgid "Skip and Deactivate"
+msgstr "Odeslat a vypnout"
+
+#: deactivation-form.php:272
+msgid "Please tell us the reason so we can improve it."
+msgstr "Prosím, prozraďte nám důvod, abychom jej mohli zlepšit."
+
+#: deprecated.php:93
+msgid "System Status"
+msgstr "Stav systému"
+
+#: deprecated.php:204
+msgid "Please, enter your license key"
+msgstr "Prosím, vložte váš licenční klíč"
+
+#: deprecated.php:223
+msgid ""
+"If necessary, you can check if the license key is correct or reenter it in "
+"the field below. You can find your license key on your personal page - "
+"Client Area - on our website"
+msgstr ""
+"V případě potřeby zkontrolujte, je-li licenční klíč správně zadán, případně "
+"jej do pole níže vložte znova. Váš licenční klíč najdete na vaší osobní "
+"stránce - Klientská zóna - na našem webu"
+
+#: deprecated.php:223
+msgid ""
+"(your username is the email address specified during the purchase). If "
+"necessary, please submit \"Lost your password?\" request."
+msgstr ""
+"(vaše uživatelské jméno je e-mailová adresa uvedena při nákupu). Pokud je to "
+"nutné, prosím odešlete \"Lost your password?\" požadavek."
+
+#: deprecated.php:246
+msgid "After that, you can activate it by entering your license key."
+msgstr "Poté jej lze snadno aktivovat zadáním licenčního klíče."
+
+#: deprecated.php:249 deprecated.php:691
+msgid "License key can be found in the"
+msgstr "Licenční klíč najdete v"
+
+#: deprecated.php:251 deprecated.php:693
+msgid "(your username is the email address specified during the purchase)."
+msgstr "(vaše uživatelské jméno je e-mailová adresa uvedená při nákupu)."
+
+#: deprecated.php:279
+msgid ""
+"Congratulations! The Pro license of the plugin is activated successfully."
+msgstr "Gratulujeme! PRO licence pluginu je úspěšně aktivována."
+
+#: deprecated.php:281 deprecated.php:672
+msgid "Please, go to"
+msgstr "Prosím, přejděte na"
+
+#: deprecated.php:281 deprecated.php:672
+msgid "the setting page"
+msgstr "stránka nastavení"
+
+#: deprecated.php:282 deprecated.php:673
+msgid "You will be redirected automatically in 5 seconds."
+msgstr "Budete automaticky přesměrováni za 5 sekund."
+
+#: deprecated.php:316
+msgid "Check premium options on the plugin settings page!"
+msgstr "Zkontrolujte prémiové možnosti na stránce nastavení pluginů!"
+
+#: deprecated.php:479
+msgid "Restore all plugin settings to defaults"
+msgstr "Obnovit veškerá nastavení pluginu na výchozí hodnoty"
+
+#: deprecated.php:481
+msgid "Restore settings"
+msgstr "Obnovit nastavení"
+
+#: deprecated.php:550 deprecated.php:577
+#, php-format
+msgid "File %s edited successfully."
+msgstr "Soubor %s byl úspěšně upraven."
+
+#: deprecated.php:552 deprecated.php:579
+msgid "Not enough permissions to create or update the file"
+msgstr "Nedostatečná oprávnění pro vytvoření či úpravu souboru"
+
+#: deprecated.php:582
+msgid "Not enough permissions to create the file"
+msgstr "Nedostatečná oprávnění pro vytvoření souboru"
+
+#: deprecated.php:626
+msgid "Editing"
+msgstr "Úprava"
+
+#: deprecated.php:670
+msgid ""
+"Congratulations! Pro version of the plugin is  installed and activated "
+"successfully."
+msgstr "Gratulujeme! PRO verze pluginu byla úspěšně instalována a aktivována."
+
+#: deprecated.php:680
+msgid "Show Pro features"
+msgstr "Zobrazit Pro vlastnosti"
+
+#: deprecated.php:687
+msgid "Enter your license key to install and activate"
+msgstr "Vložte váš licenční klíč pro instalaci a aktivaci"
+
+#: deprecated.php:689
+msgid "version of the plugin."
+msgstr "verze pluginu."
+
+#: product_list.php:8
+msgid "Admin Tools"
+msgstr "Administrační nástroje"
+
+#: product_list.php:9
+msgid "Content"
+msgstr "Obsah"
+
+#: product_list.php:10
+msgid "eCommerce"
+msgstr "eCommerce"
+
+#: product_list.php:11
+msgid "Marketing"
+msgstr "Marketing"
+
+#: product_list.php:12
+msgid "Navigation"
+msgstr "Navigace"
+
+#: product_list.php:13
+msgid "Recommended"
+msgstr "Doporučeno"
+
+#: product_list.php:14
+msgid "Security"
+msgstr "Bezpečnost"
+
+#: product_list.php:15
+msgid "SEO"
+msgstr "SEO"
+
+#: product_list.php:16
+msgid "SMM"
+msgstr "SMM"
+
+#: product_list.php:23
+msgid "Give a birth for your bike rental and booking WordPress website."
+msgstr ""
+
+#: product_list.php:35
+msgid "Best secure captcha plugin to protect your WordPress forms."
+msgstr "Nejbezpečnější captcha plugin k ochraně WordPress formulářů."
+
+#: product_list.php:45
+msgid "Create your own rental website for car renting and booking."
+msgstr ""
+
+#: product_list.php:57
+#, fuzzy
+#| msgid "Add customized Google maps to WordPress posts, pages and widgets."
+msgid ""
+"Add columns with custom content to WordPress website pages, posts, widgets, "
+"etc."
+msgstr ""
+"Přidávejte vlastní mapy Google do WordPress příspěvků, stránek a widgetů."
+
+#: product_list.php:64
+msgid ""
+"Allow customers to reach you using secure contact form plugin any website "
+"must have."
+msgstr ""
+"Umožněte zákazníkům kontaktovat vás pomocí pluginu zabezpečeného kontaktního "
+"formuláře, tohle musí mít každý web."
+
+#: product_list.php:74
+msgid "Add unlimited number of contact forms to WordPress website."
+msgstr "Přidávejte neomezený počet kontaktních formulářů na WordPress web."
+
+#: product_list.php:84
+msgid "Save and manage Contact Form messages. Never lose important data."
+msgstr ""
+"Ukládejte a spravujte zprávy z kontaktního formuláře. Už nikdy neztraťte "
+"důležitá data."
+
+#: product_list.php:94
+msgid "Add unlimited custom pages to WordPress admin dashboard."
+msgstr ""
+"Přidávejte neomezený počet vlastních stránek do WordPress admin nástěnky."
+
+#: product_list.php:104
+msgid ""
+"Add custom post types and taxonomies to WordPress website search results."
+msgstr ""
+"Přidávejte vlastní typy příspěvků a taxonomie do výsledků vyhledání na webu "
+"WordPress."
+
+#: product_list.php:114
+msgid "Add PayPal and 2CO donate buttons to receive charity payments."
+msgstr "Přidávejte darovací tlačítka PayPal a 2CO pro příjem příspěvků."
+
+#: product_list.php:121
+msgid ""
+"Get latest error log messages to diagnose website problems. Define and fix "
+"issues faster."
+msgstr ""
+"Získejte nejnovější zprávy z error logu při diagnostice problémů s webem. "
+"Definujte a opravte problémy rychleji."
+
+#: product_list.php:128
+msgid ""
+"Add Facebook Follow, Like, and Share buttons to WordPress posts, pages, and "
+"widgets."
+msgstr ""
+"Přidávejte Facebooková tlačítka sledovat, to se mi líbí a sdílet do "
+"WordPress příspěvků, stránek a widgetů."
+
+#: product_list.php:138
+msgid ""
+"Add beautiful galleries, albums & images to your WordPress website in a few "
+"clicks."
+msgstr ""
+"Přidávejte na váš WordPress web krásné galerie, alba a obrázky během "
+"několika kliknutí."
+
+#: product_list.php:148
+msgid ""
+"Stronger security solution which protects your WordPress website from hacks "
+"and unauthorized login attempts."
+msgstr ""
+"Silnější bezpečnostní řešení, které chrání vaše webové stránky WordPress od "
+"hacků a pokusů o neoprávněné přihlášení."
+
+#: product_list.php:158
+msgid ""
+"Add Adsense ads to WordPress website pages, posts, custom posts, search "
+"results, categories, tags, and widgets."
+msgstr ""
+"Přidávejte reklamy Adsense do webu WordPress, příspěvky, vlastní příspěvky, "
+"výsledky vyhledávání, rubriky, štítky a widgety."
+
+#: product_list.php:168
+msgid "Add Google Analytics code to WordPress website and track basic stats."
+msgstr ""
+"Přidávejte Google Analytics kód do WordPress webu a sledujte základní "
+"statistiky."
+
+#: product_list.php:178
+#, fuzzy
+#| msgid ""
+#| "Protect WordPress website forms from spam entries with Google Captcha "
+#| "(reCaptcha)."
+msgid "Protect WordPress website forms from spam entries with reCaptcha."
+msgstr ""
+"Chraňte WordPress webové formuláře před spamem s Google Captcha (\"reCAPTCHA"
+"\")."
+
+#: product_list.php:188
+msgid "Add customized Google maps to WordPress posts, pages and widgets."
+msgstr ""
+"Přidávejte vlastní mapy Google do WordPress příspěvků, stránek a widgetů."
+
+#: product_list.php:198
+msgid ""
+"Generate and add XML sitemap to WordPress website. Help search engines index "
+"your blog."
+msgstr ""
+"Generujte a přidávejte sitemap.xml na vaše WordPress weby. Pomožte "
+"vyhledávačům indexovat váš blog."
+
+#: product_list.php:208
+msgid ""
+"Replace external WordPress website links with Google shortlinks and track "
+"click stats."
+msgstr ""
+"Nahradit externí odkazy WordPress webu pomocí Google shortlinks a sledujte "
+"statistiky kliknutí."
+
+#: product_list.php:215
+msgid ""
+"Protect WordPress website – allow and deny access for certain IP addresses, "
+"hostnames, etc."
+msgstr ""
+"Chráňte WordPress web– povolte či odepřete přístup pro určité IP adresy, "
+"hostnames, atd."
+
+#: product_list.php:225
+msgid ""
+"Create your personal job board and listing WordPress website. Search jobs, "
+"submit CV/resumes, choose candidates."
+msgstr ""
+"Vytvořte si osobní nástěnku pracovních míst na WordPress webu. Hledání "
+"zaměstnání, odeslání CV/životopisu, výběr kandidátů."
+
+#: product_list.php:232
+msgid ""
+"Protect WordPress website against brute force attacks. Limit rate of login "
+"attempts."
+msgstr ""
+"Chraňte WordPress web proti útokům hrubou silou. Omezte počet pokusů o "
+"přihlášení."
+
+#: product_list.php:242
+msgid ""
+"Add LinkedIn Share and Follow buttons to WordPress posts, pages and widgets. "
+"5 plugins included – profile, insider, etc."
+msgstr ""
+"Přidávejte LinkedIn tlačítka sdílet a sledovat do WordPress příspěvků, "
+"stránek a widgetů. 5 pluginů zahrnuje - profil, insider, atd."
+
+#: product_list.php:252
+msgid ""
+"Translate WordPress website content to other languages manually. Create "
+"multilingual pages, posts, widgets, menus, etc."
+msgstr ""
+"Přeložte manuálně obsah webu WordPress do jiných jazyků. Vytvořte "
+"vícejazyčné stránky, příspěvky, widgety, menu, atd."
+
+#: product_list.php:262
+msgid ""
+"Add customizable pagination to WordPress website. Split long content to "
+"multiple pages for better navigation."
+msgstr ""
+"Přidávejte nastavitelné stránkování na web WordPress. Pro lepší navigaci "
+"rozdělte dlouhý obsah na více stránek."
+
+#: product_list.php:272
+msgid ""
+"Generate PDF files and print WordPress posts/pages. Customize document "
+"header/footer styles and appearance."
+msgstr ""
+"Generujte PDF soubory a tiskněte WordPress příspěvky/stránky. Vlastní "
+"záhlaví/zápatí dokumentu, styly a vzhled."
+
+#: product_list.php:282
+msgid ""
+"Add Pinterest Follow, Pin It buttons and profile widgets (Pin, Board, "
+"Profile) to WordPress posts, pages and widgets."
+msgstr ""
+"Přidávejte Pinterest tlačítka sledovat a připnout a profilový widget (Pin, "
+"Board, Profile) do WordPress příspěvků, stránek a widgetů."
+
+#: product_list.php:292
+msgid ""
+"Create your personal portfolio WordPress website. Manage and showcase past "
+"projects to get more clients."
+msgstr ""
+"Vytvořte si osobní portfolio WordPress webů. Spravujte a představte své "
+"nedávné projekty a získejte více klientů."
+
+#: product_list.php:302
+msgid "Export WordPress posts to CSV file format easily. Configure data order."
+msgstr ""
+"Exportujte snadno vaše WordPress příspěvky do souboru formátu CSV. "
+"Konfigurujte pořadí dat."
+
+#: product_list.php:312
+msgid ""
+"Add extra fields to default WordPress user profile. The easiest way to "
+"create and manage additional custom values."
+msgstr ""
+"Přidávejte další pole do výchozího profilu uživatele WordPress. "
+"Nejjednodušší způsob, jak vytvořit a spravovat vlastní hodnoty."
+
+#: product_list.php:322
+msgid ""
+"Add and display HTML advertisement banner on WordPress website. Customize "
+"bar styles and appearance."
+msgstr ""
+"Přidávejte a zobrazujte HTML reklamní banner na webu WordPress. Úpravte styl "
+"a vzhled lišt."
+
+#: product_list.php:332
+msgid ""
+"Add customizable quotes and tips blocks to WordPress posts, pages and "
+"widgets."
+msgstr ""
+"Přidávejte přizpůsobitelné nabídky a bloky s tipy do WordPress příspěvků, "
+"stránek a widgetů."
+
+#: product_list.php:339
+msgid ""
+"Add rating plugin to your WordPress website to receive feedback from your "
+"customers."
+msgstr ""
+"Přidávejte do vašeho WordPress webu plugin hodnocení k získání zpětné vazby "
+"od vašich zákazníků."
+
+#: product_list.php:349
+msgid ""
+"Create your personal real estate WordPress website. Sell, rent and buy "
+"properties. Add, search and browse listings easily."
+msgstr ""
+"Vytvořte si osobní realitní stránky na WordPress webu. Prodávejte, "
+"pronajímejte a kupujte nemovitosti. Snadno přidejte hledání a procházení "
+"seznamy."
+
+#: product_list.php:359
+msgid ""
+"Add related, featured, latest, and popular posts to your WordPress website. "
+"Connect your blog readers with a relevant content."
+msgstr ""
+"Přidávejte související, nejlepší, nejnovější a populární příspěvky do vašeho "
+"WordPress webu. Propojte čtenáře vašeho blogu s příslušným obsahem."
+
+#: product_list.php:366
+msgid ""
+"Send bulk email messages to WordPress users. Custom templates, advanced "
+"settings and detailed reports."
+msgstr ""
+"Odesílejte hromadné e-maily WordPress uživatelům. Vlastní šablony, rozšířené "
+"nastavení a podrobné reporty."
+
+#: product_list.php:376
+msgid ""
+"The best responsive slider plugin for your WordPress website. Create "
+"beautifully animated slides just in a few clicks."
+msgstr ""
+"Nejlepší responzivní slider plugin pro váše WordPress web. Vytvořte krásné "
+"animované snímky během pár kliknutí."
+
+#: product_list.php:383
+msgid ""
+"Configure SMTP server to receive email messages from WordPress to Gmail, "
+"Yahoo, Hotmail and other services."
+msgstr ""
+"Konfigurujte SMTP server pro příjem e-mailových zpráv z WordPress na Gmail, "
+"Yahoo, Hotmail a dalších službách."
+
+#: product_list.php:390
+#, fuzzy
+#| msgid ""
+#| "Add social media buttons and widgets to WordPress posts, pages and "
+#| "widgets. FB, Twitter, G+1, Pinterest, LinkedIn."
+msgid ""
+"Add social media buttons and widgets to WordPress posts, pages and widgets. "
+"FB, Twitter, Pinterest, LinkedIn."
+msgstr ""
+"Přidávejte tlačítka sociálních sítí a widgety do WordPress příspěvků, "
+"stránek a widgetů. Facebook, Twitter, G+1, Pinterest, LinkedIn."
+
+#: product_list.php:400
+msgid ""
+"Add social media login, registration, and commenting to your WordPress "
+"website."
+msgstr ""
+"Přidávejte na váš WordPress web login, registraci či komentáře "
+"prostřednictvím sociálních sítí."
+
+#: product_list.php:407
+msgid ""
+"Add email newsletter sign up form to WordPress posts, pages and widgets. "
+"Collect data and subscribe your users."
+msgstr ""
+"Přidávejte registrační formulář e-mailového zpravodaje do WordPress "
+"příspěvků, stránek a widgetů. Shromažďujte data a přihlaste k odběru vaše "
+"uživatele."
+
+#: product_list.php:417
+msgid ""
+"Add testimonials and feedbacks from your customers to WordPress website "
+"posts, pages, and widgets."
+msgstr ""
+"Přidávejte potvrzení a zpětnou vazbu od vašich zákazníků do WordPress "
+"příspěvků, stránek a widgetů."
+
+#: product_list.php:424
+msgid ""
+"Best timesheet plugin for WordPress. Track employee time, streamline "
+"attendance and generate reports."
+msgstr ""
+"Nejlepší timesheet plugin pro WordPress. Sledujte časy zaměstnanců, "
+"kontrolujte jejich přítomnost a generujte sestavy."
+
+#: product_list.php:434
+msgid ""
+"Add Twitter Follow, Tweet, Hashtag, and Mention buttons to WordPress posts "
+"and pages."
+msgstr ""
+"Přidávejte Twitter tlačítka Sledovat, Tweetnout a Zmínit do WordPress "
+"příspěvků a stránek."
+
+#: product_list.php:444
+msgid ""
+"Automatically check and update WordPress website core with all installed "
+"plugins and themes to the latest versions."
+msgstr ""
+"Automaticky kontrolujte a aktualizujte na nejnovější verzi WordPress jádro i "
+"všechny nainstalované pluginy a šablony."
+
+#: product_list.php:454
+msgid ""
+"Powerful user role management plugin for WordPress website. Create, edit, "
+"copy, and delete user roles."
+msgstr ""
+"Plugin robustní správy užiatelů pro WordPress web. Vytvářejte, upravujte, "
+"kopírujte a odstraňujte uživatelské role."
+
+#: product_list.php:464
+msgid ""
+"Display live count of online visitors who are currently browsing your "
+"WordPress website."
+msgstr ""
+"Zobrazujte počet aktivních online návštěvníků, kteří dané chvíli procházejí "
+"váš WordPress web."
+
+#: product_list.php:474
+msgid ""
+"Backup and export Zendesk Help Center content automatically to your "
+"WordPress website database."
+msgstr ""
+"Automaticky zálohujte a exportujte obsah centra nápovědy Zendesk do databáze "
+"vašeho WordPress webu."
+
+#~ msgid "Add INEOSQ Shortcode"
+#~ msgstr "Přidat zkrácený kód INEOSQ"
+
+#~ msgid "Add INEOSQ Plugins Shortcode"
+#~ msgstr "Přidat zkrácený kód INEOSQ pluginu"
+
+#~ msgid "Kindly share what didn't work so we can fix it in future updates..."
+#~ msgstr ""
+#~ "Dejte nám prosím vědět, co nefungovalo, abychom to v budoucích "
+#~ "aktualizacích mohli opravit..."
+
+#~ msgid "What did you expect?"
+#~ msgstr "Co jste očekávali?"
+
+#~ msgid "What's the plugin name?"
+#~ msgstr "Jaké je jméno pluginu?"
+
+#~ msgid "What feature?"
+#~ msgstr "Jakou funkci?"
+
+#~ msgid "Cancel"
+#~ msgstr "Zrušit"
+
+#~ msgid "Deactivate"
+#~ msgstr "Vypnout"
+
+#~ msgid "Create your personal car rental/booking and reservation website."
+#~ msgstr "Vytvořte si osobní rezervační web - auta/hotely."
+
+#~ msgid "Add custom fields to WordPress website search results."
+#~ msgstr "Přidávejte vlastní pole do výsledků vyhledání na webu WordPress."
+
+#~ msgid ""
+#~ "Add Google +1, Share, Follow, Hangout buttons and profile badge to "
+#~ "WordPress posts, pages and widgets."
+#~ msgstr ""
+#~ "Přidávejte Google +1 tlačítka sdílet, sledovat, Hangout a profile badge "
+#~ "do WordPress příspěvků, stránek a widgetů."

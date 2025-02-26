@@ -1,0 +1,2063 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ineosq-captcha-pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-27 15:54+0300\n"
+"PO-Revision-Date: 2018-07-27 15:54+0300\n"
+"Last-Translator: Mik013\n"
+"Language-Team: Mik013\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha_pro.php:21 captcha_pro.php:23 captcha_pro.php:723
+msgid "Captcha Pro Settings"
+msgstr "Nastavení Pro CAPTCHA"
+
+#: captcha_pro.php:23 captcha_pro.php:2621 captcha_pro.php:2632
+#: includes/class-cptch-settings-tabs.php:26
+#: includes/class-cptch-settings-tabs.php:33
+msgid "Settings"
+msgstr "Nastavení"
+
+#: captcha_pro.php:26 includes/class-cptch-package-list.php:99
+msgid "Captcha Pro Packages"
+msgstr "CAPTCHA Pro balíčky"
+
+#: captcha_pro.php:26
+msgid "Packages"
+msgstr "Balíčky"
+
+#: captcha_pro.php:31 includes/class-cptch-allowlist.php:83
+msgid "Captcha Pro Whitelist"
+msgstr "CAPTCHA Pro seznam povolených"
+
+#: captcha_pro.php:31 includes/class-cptch-settings-tabs.php:376
+msgid "Whitelist"
+msgstr "Seznam povolených"
+
+#: captcha_pro.php:726
+msgid "WARNING"
+msgstr ""
+
+#: captcha_pro.php:726
+msgid "The plugin works correctly only if JavaScript is enabled."
+msgstr ""
+
+#: captcha_pro.php:977
+msgid "Click the BACK button on your browser, and try again."
+msgstr "Klikněte ve vašem prohlížeči na tlačítko ZPĚT a zkuste to znovu."
+
+#: captcha_pro.php:1856
+msgid "Captcha loading..."
+msgstr ""
+
+#: captcha_pro.php:1858
+msgid "In order to pass the CAPTCHA please enable JavaScript."
+msgstr ""
+
+#: captcha_pro.php:2283
+msgid "zero"
+msgstr "nula"
+
+#: captcha_pro.php:2284
+msgid "one"
+msgstr "jedna"
+
+#: captcha_pro.php:2285
+msgid "two"
+msgstr "dva"
+
+#: captcha_pro.php:2286
+msgid "three"
+msgstr "tři"
+
+#: captcha_pro.php:2287
+msgid "four"
+msgstr "čtyři"
+
+#: captcha_pro.php:2288
+msgid "five"
+msgstr "pět"
+
+#: captcha_pro.php:2289
+msgid "six"
+msgstr "šest"
+
+#: captcha_pro.php:2290
+msgid "seven"
+msgstr "sedm"
+
+#: captcha_pro.php:2291
+msgid "eight"
+msgstr "osm"
+
+#: captcha_pro.php:2292
+msgid "nine"
+msgstr "devět"
+
+#: captcha_pro.php:2294
+msgid "ten"
+msgstr "deset"
+
+#: captcha_pro.php:2295
+msgid "eleven"
+msgstr "jedenáct"
+
+#: captcha_pro.php:2296
+msgid "twelve"
+msgstr "dvanáct"
+
+#: captcha_pro.php:2297
+msgid "thirteen"
+msgstr "třináct"
+
+#: captcha_pro.php:2298
+msgid "fourteen"
+msgstr "čtrnáct"
+
+#: captcha_pro.php:2299
+msgid "fifteen"
+msgstr "patnáct"
+
+#: captcha_pro.php:2300
+msgid "sixteen"
+msgstr "šestnáct"
+
+#: captcha_pro.php:2301
+msgid "seventeen"
+msgstr "sedmnáct"
+
+#: captcha_pro.php:2302
+msgid "eighteen"
+msgstr "osmnáct"
+
+#: captcha_pro.php:2303
+msgid "nineteen"
+msgstr "devatenáct"
+
+#: captcha_pro.php:2305
+msgid "twenty"
+msgstr "dvacet"
+
+#: captcha_pro.php:2306
+msgid "twenty one"
+msgstr "dvacet jedna"
+
+#: captcha_pro.php:2307
+msgid "twenty two"
+msgstr "dvacet dva"
+
+#: captcha_pro.php:2308
+msgid "twenty three"
+msgstr "dvacet tři"
+
+#: captcha_pro.php:2309
+msgid "twenty four"
+msgstr "dvacet čtyři"
+
+#: captcha_pro.php:2310
+msgid "twenty five"
+msgstr "dvacet pět"
+
+#: captcha_pro.php:2311
+msgid "twenty six"
+msgstr "dvacet šest"
+
+#: captcha_pro.php:2312
+msgid "twenty seven"
+msgstr "dvacet sedm"
+
+#: captcha_pro.php:2313
+msgid "twenty eight"
+msgstr "dvacet osm"
+
+#: captcha_pro.php:2314
+msgid "twenty nine"
+msgstr "dvacet devět"
+
+#: captcha_pro.php:2316
+msgid "thirty"
+msgstr "třicet"
+
+#: captcha_pro.php:2317
+msgid "thirty one"
+msgstr "třicet jedna"
+
+#: captcha_pro.php:2318
+msgid "thirty two"
+msgstr "třicet dva"
+
+#: captcha_pro.php:2319
+msgid "thirty three"
+msgstr "třicet tři"
+
+#: captcha_pro.php:2320
+msgid "thirty four"
+msgstr "třicet čtyři"
+
+#: captcha_pro.php:2321
+msgid "thirty five"
+msgstr "třicet pět"
+
+#: captcha_pro.php:2322
+msgid "thirty six"
+msgstr "třicet šest"
+
+#: captcha_pro.php:2323
+msgid "thirty seven"
+msgstr "třicet sedm"
+
+#: captcha_pro.php:2324
+msgid "thirty eight"
+msgstr "třicet osm"
+
+#: captcha_pro.php:2325
+msgid "thirty nine"
+msgstr "třicet devět"
+
+#: captcha_pro.php:2327
+msgid "forty"
+msgstr "čtyřicet"
+
+#: captcha_pro.php:2328
+msgid "forty one"
+msgstr "čtyřicet jedna"
+
+#: captcha_pro.php:2329
+msgid "forty two"
+msgstr "čtyřicet dva"
+
+#: captcha_pro.php:2330
+msgid "forty three"
+msgstr "čtyřicet tři"
+
+#: captcha_pro.php:2331
+msgid "forty four"
+msgstr "čtyřicet čtyři"
+
+#: captcha_pro.php:2332
+msgid "forty five"
+msgstr "čtyřicet pět"
+
+#: captcha_pro.php:2333
+msgid "forty six"
+msgstr "čtyřicet šest"
+
+#: captcha_pro.php:2334
+msgid "forty seven"
+msgstr "čtyřicet sedm"
+
+#: captcha_pro.php:2335
+msgid "forty eight"
+msgstr "čtyřicet osm"
+
+#: captcha_pro.php:2336
+msgid "forty nine"
+msgstr "čtyřicet devět"
+
+#: captcha_pro.php:2338
+msgid "fifty"
+msgstr "padesát"
+
+#: captcha_pro.php:2339
+msgid "fifty one"
+msgstr "padesát jedna"
+
+#: captcha_pro.php:2340
+msgid "fifty two"
+msgstr "padesát dva"
+
+#: captcha_pro.php:2341
+msgid "fifty three"
+msgstr "padesát tři"
+
+#: captcha_pro.php:2342
+msgid "fifty four"
+msgstr "padesát čtyři"
+
+#: captcha_pro.php:2343
+msgid "fifty five"
+msgstr "padesát pět"
+
+#: captcha_pro.php:2344
+msgid "fifty six"
+msgstr "padesát šest"
+
+#: captcha_pro.php:2345
+msgid "fifty seven"
+msgstr "padesát sedm"
+
+#: captcha_pro.php:2346
+msgid "fifty eight"
+msgstr "padesát osm"
+
+#: captcha_pro.php:2347
+msgid "fifty nine"
+msgstr "padesát devět"
+
+#: captcha_pro.php:2349
+msgid "sixty"
+msgstr "šedesát"
+
+#: captcha_pro.php:2350
+msgid "sixty one"
+msgstr "šedesát jedna"
+
+#: captcha_pro.php:2351
+msgid "sixty two"
+msgstr "šedesát dva"
+
+#: captcha_pro.php:2352
+msgid "sixty three"
+msgstr "šedesát tři"
+
+#: captcha_pro.php:2353
+msgid "sixty four"
+msgstr "šedesát čtyři"
+
+#: captcha_pro.php:2354
+msgid "sixty five"
+msgstr "šedesát pět"
+
+#: captcha_pro.php:2355
+msgid "sixty six"
+msgstr "šedesát šest"
+
+#: captcha_pro.php:2356
+msgid "sixty seven"
+msgstr "šestnáct sedm"
+
+#: captcha_pro.php:2357
+msgid "sixty eight"
+msgstr "šedesát osm"
+
+#: captcha_pro.php:2358
+msgid "sixty nine"
+msgstr "šedesát devět"
+
+#: captcha_pro.php:2360
+msgid "seventy"
+msgstr "sedmdesát"
+
+#: captcha_pro.php:2361
+msgid "seventy one"
+msgstr "sedmdesát jedna"
+
+#: captcha_pro.php:2362
+msgid "seventy two"
+msgstr "sedmdesát dva"
+
+#: captcha_pro.php:2363
+msgid "seventy three"
+msgstr "sedmdesát tři"
+
+#: captcha_pro.php:2364
+msgid "seventy four"
+msgstr "sedmdesát čtyři"
+
+#: captcha_pro.php:2365
+msgid "seventy five"
+msgstr "sedmdesát pět"
+
+#: captcha_pro.php:2366
+msgid "seventy six"
+msgstr "sedmdesát šest"
+
+#: captcha_pro.php:2367
+msgid "seventy seven"
+msgstr "sedmdesát sedm"
+
+#: captcha_pro.php:2368
+msgid "seventy eight"
+msgstr "sedmdesát osm"
+
+#: captcha_pro.php:2369
+msgid "seventy nine"
+msgstr "sedmdesát devět"
+
+#: captcha_pro.php:2371
+msgid "eighty"
+msgstr "osmdesát"
+
+#: captcha_pro.php:2372
+msgid "eighty one"
+msgstr "osmdesát jedna"
+
+#: captcha_pro.php:2373
+msgid "eighty two"
+msgstr "osmdesát dva"
+
+#: captcha_pro.php:2374
+msgid "eighty three"
+msgstr "osmdesát tři"
+
+#: captcha_pro.php:2375
+msgid "eighty four"
+msgstr "osmdesát čtyři"
+
+#: captcha_pro.php:2376
+msgid "eighty five"
+msgstr "osmdesát pět"
+
+#: captcha_pro.php:2377
+msgid "eighty six"
+msgstr "osmdesát šest"
+
+#: captcha_pro.php:2378
+msgid "eighty seven"
+msgstr "osmdesát sedm"
+
+#: captcha_pro.php:2379
+msgid "eighty eight"
+msgstr "osmdesát osm"
+
+#: captcha_pro.php:2380
+msgid "eighty nine"
+msgstr "osmdesát devět"
+
+#: captcha_pro.php:2382
+msgid "ninety"
+msgstr "devadesát"
+
+#: captcha_pro.php:2383
+msgid "ninety one"
+msgstr "devadesát jedna"
+
+#: captcha_pro.php:2384
+msgid "ninety two"
+msgstr "devadesát dva"
+
+#: captcha_pro.php:2385
+msgid "ninety three"
+msgstr "devadesát tři"
+
+#: captcha_pro.php:2386
+msgid "ninety four"
+msgstr "devadesát čtyři"
+
+#: captcha_pro.php:2387
+msgid "ninety five"
+msgstr "devadesát pět"
+
+#: captcha_pro.php:2388
+msgid "ninety six"
+msgstr "devadesát šest"
+
+#: captcha_pro.php:2389
+msgid "ninety seven"
+msgstr "devadesát sedm"
+
+#: captcha_pro.php:2390
+msgid "ninety eight"
+msgstr "devadesát osm"
+
+#: captcha_pro.php:2391
+msgid "ninety nine"
+msgstr "devadesát devět"
+
+#: captcha_pro.php:2461
+msgid "Encryption password is not set"
+msgstr "Kódovací heslo není nastaveno"
+
+#: captcha_pro.php:2482
+msgid "Decryption password is not set"
+msgstr "Dekódovací heslo není nastaveno"
+
+#: captcha_pro.php:2633
+msgid "FAQ"
+msgstr "Často kladené otázky (FAQ)"
+
+#: captcha_pro.php:2634
+msgid "Support"
+msgstr "Podpora"
+
+#: captcha_pro.php:2674
+msgid "New: Custom Image Packs for Captcha"
+msgstr "Novinka: Vlastní balíčky obrázků pro Captcha"
+
+#: captcha_pro.php:2675
+msgid ""
+"Stand out, brand yourself and enhance forms protection with custom captcha "
+"images"
+msgstr ""
+"Vynikněte, použijte vlastní značky a zvyšte ochranu formulářů pomocí "
+"vlastních CAPTCHA obrázků"
+
+#: captcha_pro.php:2676
+msgid "Try Now"
+msgstr "Vyzkoušet nyní"
+
+#: captcha_pro.php:2679
+msgid "Close notice"
+msgstr "Zavřít upozornění"
+
+#: captcha_pro.php:2722
+msgid "settings page"
+msgstr "stránka nastavení"
+
+#: captcha_pro.php:2725
+#, php-format
+msgid ""
+"You're using W3 Total Cache plugin. If %1$s doesn't work properly, please "
+"clear the cache in W3 Total Cache plugin and turn on '%2$s' option on the "
+"plugin %3$s."
+msgstr ""
+"Používáte W3 Total Cache plugin. Pokud %1$s nefunguje správně, vymažte cache "
+"W3 Total Cache plugin a zapněte '%2$s\" v pluginu možnost %3$s."
+
+#: captcha_pro.php:2727
+msgid "Show CAPTCHA after the end of the page loading"
+msgstr "Zobrazit CAPTCHA až poté, kdy se načte celá stránka"
+
+#: captcha_pro.php:2937
+msgid "Captcha Plugin"
+msgstr ""
+
+#: captcha_pro.php:2959 includes/class-cptch-settings-tabs.php:75
+#: includes/class-cptch-settings-tabs.php:85
+msgid "Login form"
+msgstr "Přihlašovací formulář"
+
+#: captcha_pro.php:2960 includes/class-cptch-settings-tabs.php:76
+#: includes/class-cptch-settings-tabs.php:82
+#: includes/class-cptch-settings-tabs.php:86
+msgid "Registration form"
+msgstr "Registrační formulář"
+
+#: captcha_pro.php:2961 includes/class-cptch-settings-tabs.php:77
+msgid "Reset password form"
+msgstr ""
+
+#: captcha_pro.php:2962 includes/class-cptch-settings-tabs.php:78
+#: includes/class-cptch-settings-tabs.php:83
+msgid "Comments form"
+msgstr "Formulář pro odeslání komentáře"
+
+#: captcha_pro.php:2965 includes/class-cptch-settings-tabs.php:89
+msgid "Jetpack Contact Form"
+msgstr ""
+
+#: captcha_pro.php:2968 includes/class-cptch-settings-tabs.php:90
+msgid "bbPress New Topic form"
+msgstr ""
+
+#: captcha_pro.php:2969 includes/class-cptch-settings-tabs.php:91
+msgid "bbPress Reply form"
+msgstr ""
+
+#: captcha_pro.php:2970
+msgid "BuddyPress Registration form"
+msgstr ""
+
+#: captcha_pro.php:2971
+msgid "BuddyPress Comments form"
+msgstr ""
+
+#: captcha_pro.php:2972
+msgid "BuddyPress Add New Group form"
+msgstr ""
+
+#: captcha_pro.php:2973
+msgid "WooCommerce Login form"
+msgstr "WooCommerce přihlašovací formulář"
+
+#: captcha_pro.php:2974
+msgid "WooCommerce Registration form"
+msgstr ""
+
+#: captcha_pro.php:2975
+msgid "WooCommerce Reset password form"
+msgstr ""
+
+#: captcha_pro.php:2976
+msgid "WooCommerce Checkout form"
+msgstr ""
+
+#: captcha_pro.php:2977 includes/class-cptch-settings-tabs.php:92
+msgid "wpForo Login form"
+msgstr ""
+
+#: captcha_pro.php:2978 includes/class-cptch-settings-tabs.php:93
+msgid "wpForo Registration form"
+msgstr ""
+
+#: captcha_pro.php:2979 includes/class-cptch-settings-tabs.php:94
+msgid "wpForo New Topic form"
+msgstr ""
+
+#: captcha_pro.php:2980 includes/class-cptch-settings-tabs.php:95
+msgid "wpForo Reply form"
+msgstr ""
+
+#: captcha_pro.php:3018
+#, php-format
+msgid "Update %s at least up to %s"
+msgstr ""
+
+#: captcha_pro.php:3025
+#, php-format
+msgid "%1$s %2$s requires WordPress %3$s or higher."
+msgstr ""
+
+#: captcha_pro.php:3033 captcha_pro.php:3082
+#: includes/class-cptch-settings-tabs.php:1001
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: captcha_pro.php:3036 captcha_pro.php:3038 captcha_pro.php:3042
+#: captcha_pro.php:3084 includes/class-cptch-package-loader.php:91
+#: includes/class-cptch-settings-tabs.php:1003
+msgid "Install Now"
+msgstr "Instalovat nyní"
+
+#: captcha_pro.php:3079
+msgid "BuddyPress works only with single site or main domain"
+msgstr ""
+
+#: includes/captcha_for_cf7.php:59 includes/captcha_for_cf7.php:61
+#: includes/captcha_for_cf7.php:63
+msgid "INEOSQ CAPTCHA"
+msgstr "INEOSQ CAPTCHA"
+
+#: includes/captcha_for_cf7.php:74 includes/captcha_for_cf7.php:95
+#: includes/captcha_for_cf7.php:118
+msgid "Name"
+msgstr "Jméno"
+
+#: includes/captcha_for_cf7.php:80 includes/captcha_for_cf7.php:101
+msgid "Copy this code and paste it into the form left."
+msgstr "Zkopírujte tento kód a vložte do formuláře vlevo."
+
+#: includes/captcha_for_cf7.php:128
+msgid "Insert Tag"
+msgstr "Vložit Tag"
+
+#: includes/class-cptch-package-list.php:38
+msgid "package"
+msgstr "balíček"
+
+#: includes/class-cptch-package-list.php:39
+msgid "packages"
+msgstr "balíčky"
+
+#: includes/class-cptch-package-list.php:100
+#: includes/class-cptch-allowlist.php:86
+msgid "Add New"
+msgstr "Přidat novou"
+
+#: includes/class-cptch-package-list.php:107
+#: includes/class-cptch-allowlist.php:174
+msgid "Search item"
+msgstr "Vyhledat položku"
+
+#: includes/class-cptch-package-list.php:127
+msgid "No packages found"
+msgstr "Žádný balíček nenalezen"
+
+#: includes/class-cptch-package-list.php:139
+msgid "Package"
+msgstr "Balíček"
+
+#: includes/class-cptch-package-list.php:140
+#: includes/class-cptch-allowlist.php:241
+msgid "Date Added"
+msgstr "Datum přidání"
+
+#: includes/class-cptch-package-list.php:193
+#: includes/class-cptch-package-list.php:225
+#: includes/class-cptch-allowlist.php:300
+#: includes/class-cptch-allowlist.php:370
+msgid "Delete"
+msgstr "Smazat"
+
+#: includes/class-cptch-package-list.php:326
+msgid "Selected packages have been removed successfully."
+msgstr "Vybrané balíčky byly úspěšně odebrány."
+
+#: includes/class-cptch-package-loader.php:43
+msgid ""
+"Can not load images in to the \"uploads\" folder. Please, check your "
+"permissions."
+msgstr ""
+"Obrázky se do složky \"uploads\" nepodařilo nahrát. Prosím, zkontrolujte "
+"oprávnění."
+
+#: includes/class-cptch-package-loader.php:73
+msgid "If the package already exists"
+msgstr "Pokud balíček již existuje"
+
+#: includes/class-cptch-package-loader.php:78
+msgid "Skip it"
+msgstr "Přeskočit"
+
+#: includes/class-cptch-package-loader.php:82
+msgid "Update the existed one"
+msgstr "Aktualizovat existující"
+
+#: includes/class-cptch-package-loader.php:86
+msgid "Save it as new"
+msgstr "Uložit jako nový"
+
+#: includes/class-cptch-package-loader.php:93
+msgid "Browse packages"
+msgstr "Procházet balíčky"
+
+#: includes/class-cptch-package-loader.php:131
+msgid "Error during package uploading"
+msgstr "Chyba během nahrávání balíčku"
+
+#: includes/class-cptch-package-loader.php:143
+msgid "check your archive"
+msgstr "zkontrolujte váš archiv"
+
+#: includes/class-cptch-package-loader.php:145
+msgid "file format should be ZIP-archive"
+msgstr "formát souboru by měl být ZIP archiv"
+
+#: includes/class-cptch-package-loader.php:147
+msgid "file size should not exceed"
+msgstr "velikost souboru by neměla překročit"
+
+#: includes/class-cptch-package-loader.php:158
+msgid "it is impossible to upload the archive to the server"
+msgstr "není možné nahrát archiv na server"
+
+#: includes/class-cptch-package-loader.php:170
+msgid "archive can not be unzipped"
+msgstr "nepodařilo se rozbalit archiv"
+
+#: includes/class-cptch-package-loader.php:183
+msgid "MB"
+msgstr "MB"
+
+#: includes/class-cptch-package-loader.php:185
+msgid "KB"
+msgstr "KB"
+
+#: includes/class-cptch-package-loader.php:187
+msgid "Bytes"
+msgstr "Bytes"
+
+#: includes/class-cptch-package-loader.php:242
+#, php-format
+msgid "One package has been updated or added to the database."
+msgid_plural "%s packages have been updated or added to the database."
+msgstr[0] "Jeden balíček byl aktualizován nebo přidán do databáze."
+msgstr[1] "%s balíčky byly aktualizovány nebo přidány do databáze."
+msgstr[2] "%s balíčk; bylo aktualizováno nebo přidáno do databáze."
+
+#: includes/class-cptch-package-loader.php:243
+#, php-format
+msgid "One image has been updated or added to the database."
+msgid_plural "%s images have been updated or added to the database."
+msgstr[0] "Jeden obrázek byl aktualizován nebo přidán do databáze."
+msgstr[1] "%s obrázky byly aktualizovány nebo přidány do databáze."
+msgstr[2] "%s obrázků bylo aktualizováno nebo přidáno do databáze."
+
+#: includes/class-cptch-package-loader.php:351
+msgid "Archive is empty"
+msgstr "Archiv je prázdný"
+
+#: includes/class-cptch-package-loader.php:697
+#, php-format
+msgid ""
+"Some settings of the package %s were set incorrectly. They have been skipped."
+msgstr ""
+"Některá nastavení balíčku %s nebyla nastavena správně. Byly přeskočeny."
+
+#: includes/class-cptch-package-loader.php:700
+msgid "Wrong data"
+msgstr "Nesprávná data"
+
+#: includes/class-cptch-settings-tabs.php:27
+#: includes/class-cptch-settings-tabs.php:34
+msgid "Messages"
+msgstr "Zprávy"
+
+#: includes/class-cptch-settings-tabs.php:28
+#: includes/class-cptch-settings-tabs.php:35
+msgid "Misc"
+msgstr "Různé"
+
+#: includes/class-cptch-settings-tabs.php:29
+#: includes/class-cptch-settings-tabs.php:37
+msgid "License Key"
+msgstr "Licenční klíč"
+
+#: includes/class-cptch-settings-tabs.php:36
+msgid "Custom Code"
+msgstr "Vlastní kód"
+
+#: includes/class-cptch-settings-tabs.php:74
+msgid "General Options"
+msgstr "Obecná nastavení"
+
+#: includes/class-cptch-settings-tabs.php:84
+msgid "Create a Group form"
+msgstr "Formulář vytvoření skupiny"
+
+#: includes/class-cptch-settings-tabs.php:87
+msgid "Lost password form"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:88
+msgid "Checkout form"
+msgstr "Formulář rezervace"
+
+#: includes/class-cptch-settings-tabs.php:96
+msgid "Mailchimp for Wordpress"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:132
+msgid "WordPress default"
+msgstr "Výchozí WordPress"
+
+#: includes/class-cptch-settings-tabs.php:141
+msgid "External plugins"
+msgstr "Externí pluginy"
+
+#: includes/class-cptch-settings-tabs.php:158
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: includes/class-cptch-settings-tabs.php:166
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-cptch-settings-tabs.php:227
+#, php-format
+msgid ""
+"Option for displaying Captcha with Contact Form 7 is enabled. For correct "
+"work, please don't forget to add the INEOSQ CAPTCHA block to the necessary form "
+"(see %s)."
+msgstr ""
+"Možnost zobrazování CAPTCHA s Contact Form 7 je povoleno. Pro správnou "
+"funkci, prosím nezapomeňte přidat INEOSQ CAPTCHA blok do patřičného formuláře "
+"(viz %s)."
+
+#: includes/class-cptch-settings-tabs.php:234
+#: includes/class-cptch-settings-tabs.php:394
+msgid "Arithmetic Actions"
+msgstr "Aritmetické operace"
+
+#: includes/class-cptch-settings-tabs.php:235
+#: includes/class-cptch-settings-tabs.php:404
+msgid "Complexity"
+msgstr "Míra komplexity"
+
+#: includes/class-cptch-settings-tabs.php:249
+msgid "Text fields in the \"Messages\" tab must not be empty."
+msgstr "Textová pole v záložce \"Zprávy\" nesmí být prázdná."
+
+#: includes/class-cptch-settings-tabs.php:260
+#, php-format
+msgid "\"%s\" option must not be fully disabled."
+msgstr "\"%s\" možnost nesmí být zcela zakázána."
+
+#: includes/class-cptch-settings-tabs.php:321
+msgid ""
+"In order to use \"Optical Character Recognition\" type, please select at "
+"least one of the items in the option \"Image Packages\"."
+msgstr ""
+"Chcete-li použít typ \"Optické rozpoznávání znaků\", vyberte alespoň jednu z "
+"položek v možnosti \"Použít balíčky obrázků\"."
+
+#: includes/class-cptch-settings-tabs.php:324
+msgid ""
+"In order to use images in the CAPTCHA, please select at least one of the "
+"items in the option \"Image Packages\". The \"Images\" checkbox in "
+"\"Complexity\" option has been disabled."
+msgstr ""
+"Aby bylo možné používat v CAPTCHA obrázky, vyberte alespoň jednu z položek v "
+"možnosti \"Použít obrázky balíčků\". Zaškrtávací políčko \"Obrázky\" v "
+"možnosti \"Míra komplexity\" bylo deaktivováno."
+
+#: includes/class-cptch-settings-tabs.php:361
+msgid "Settings saved."
+msgstr "Nastavení uloženo."
+
+#: includes/class-cptch-settings-tabs.php:377
+msgid ""
+"With a whitelist you can hide captcha field for your personal and trusted IP "
+"addresses."
+msgstr ""
+"Se seznamem povolených můžete pole CAPTCHA skrýt pro vás osobně a pro "
+"důvěryhodné IP adresy."
+
+#: includes/class-cptch-settings-tabs.php:379
+msgid "Default"
+msgstr "Výchozí"
+
+#: includes/class-cptch-settings-tabs.php:380
+msgid "Limit Attempts"
+msgstr "Omezení počtu pokusů"
+
+#: includes/class-cptch-settings-tabs.php:385
+msgid "Captcha Type"
+msgstr "Typ CAPTCHA"
+
+#: includes/class-cptch-settings-tabs.php:387
+msgid "Arithmetic actions"
+msgstr "Aritmetické operace"
+
+#: includes/class-cptch-settings-tabs.php:388
+msgid "Optical Character Recognition (OCR)"
+msgstr "Optické rozpoznávání znaků (OCR)"
+
+#: includes/class-cptch-settings-tabs.php:389
+msgid "Invisible"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:396
+msgid "Addition"
+msgstr "Sčítání"
+
+#: includes/class-cptch-settings-tabs.php:397
+msgid "Subtruction"
+msgstr "Odečítání"
+
+#: includes/class-cptch-settings-tabs.php:398
+msgid "Multiplication"
+msgstr "Krát"
+
+#: includes/class-cptch-settings-tabs.php:406
+msgid "Numbers (1, 2, 3, etc.)"
+msgstr "Čísla (1, 2, 3, atd.)"
+
+#: includes/class-cptch-settings-tabs.php:407
+msgid "Words (one, two, three, etc.)"
+msgstr "Slova (jeden, dva, tři, atd.)"
+
+#: includes/class-cptch-settings-tabs.php:408
+msgid "Images"
+msgstr "Obrázky"
+
+#: includes/class-cptch-settings-tabs.php:414
+msgid "Number of Images"
+msgstr "Počet obrázků"
+
+#: includes/class-cptch-settings-tabs.php:417
+msgid "Set a number of images to display simultaneously as a captcha question."
+msgstr "Nastaví počet obrázků, které se zobrazí společně s CAPTCHA výzvou."
+
+#: includes/class-cptch-settings-tabs.php:422
+#: includes/class-cptch-settings-tabs.php:667
+msgid "Image Packages"
+msgstr "Balíčky obrázků"
+
+#: includes/class-cptch-settings-tabs.php:427
+msgid "Use several image packages at the same time"
+msgstr "Použít několik balíčků obrázků současně"
+
+#: includes/class-cptch-settings-tabs.php:432
+msgid "Enlarge Images"
+msgstr "Zvětšit obrázky"
+
+#: includes/class-cptch-settings-tabs.php:433
+msgid "Enable to enlarge captcha images on mouseover."
+msgstr "Povolit zvětšení CAPTCHA obrázků při přejetí myši."
+
+#: includes/class-cptch-settings-tabs.php:438
+msgid "Reload Button"
+msgstr "Tlačítko obnovit"
+
+#: includes/class-cptch-settings-tabs.php:439
+msgid "Enable to display reload button for captcha."
+msgstr "Povolit zobrazení tlačítka obnovit CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:444
+msgid "Captcha Title"
+msgstr "CAPTCHA nadpis"
+
+#: includes/class-cptch-settings-tabs.php:447
+msgid "Required Symbol"
+msgstr "Požadovaný symbol"
+
+#: includes/class-cptch-settings-tabs.php:450
+msgid "Advanced Protection"
+msgstr "Pokročilá ochrana"
+
+#: includes/class-cptch-settings-tabs.php:451
+msgid "Enable to display captcha when the website page is loaded."
+msgstr "Povolte zobrazení CAPTCHA až při načtení stránky webu."
+
+#: includes/class-cptch-settings-tabs.php:455
+msgid "Captcha Settings"
+msgstr "Byl překročen časový limit"
+
+#: includes/class-cptch-settings-tabs.php:462
+#: includes/class-cptch-settings-tabs.php:466
+#: includes/class-cptch-settings-tabs.php:752
+#: includes/class-cptch-settings-tabs.php:755
+msgid "Notice:"
+msgstr "Upozornění:"
+
+#: includes/class-cptch-settings-tabs.php:462
+#: includes/class-cptch-settings-tabs.php:752
+msgid ""
+"It is prohibited to view Captcha Pro settings on this site in the Captcha "
+"Pro network settings."
+msgstr ""
+"Je zakázáno zobrazit nastavení Captcha Pro na této stránce v nastavení sítě "
+"Captcha Pro."
+
+#: includes/class-cptch-settings-tabs.php:464
+msgid "General"
+msgstr "Obecné"
+
+#: includes/class-cptch-settings-tabs.php:466
+#: includes/class-cptch-settings-tabs.php:755
+msgid ""
+"It is prohibited to change Captcha Pro settings on this site in the Captcha "
+"Pro network settings."
+msgstr ""
+"Je zakázáno měnit nastavení Captcha Pro na této stránce v nastavení sítě "
+"Captcha Pro."
+
+#: includes/class-cptch-settings-tabs.php:471
+msgid "Apply network settings"
+msgstr "Použít síťové nastavení"
+
+#: includes/class-cptch-settings-tabs.php:474
+msgid "Apply to all sites and use by default"
+msgstr "Použít pro všechny weby a používat jako výchozí"
+
+#: includes/class-cptch-settings-tabs.php:474
+msgid "All current settings on separate sites will be replaced"
+msgstr "Všechna aktuální nastavení na jednotlivých webech budou nahrazena"
+
+#: includes/class-cptch-settings-tabs.php:476
+msgid "Allow changing the settings on separate websites"
+msgstr "Povolit změnu nastavení na jednotlivých webech"
+
+#: includes/class-cptch-settings-tabs.php:477
+msgid "Allow viewing the settings on separate websites"
+msgstr "Povolit zobrazení nastavení na jednotlivých webech"
+
+#: includes/class-cptch-settings-tabs.php:479
+msgid "By default"
+msgstr "Ve výchozím stavu"
+
+#: includes/class-cptch-settings-tabs.php:479
+msgid "Settings will be applied to newly added websites by default"
+msgstr ""
+"Ve výchozím nastavení budou Nastavení aplikována na nově přidané webové "
+"stránky"
+
+#: includes/class-cptch-settings-tabs.php:480
+msgid "Do not apply"
+msgstr "Neaplikovat"
+
+#: includes/class-cptch-settings-tabs.php:480
+msgid "Change the settings on separate sites of the multisite only"
+msgstr "Změňit nastavení na jednotlivých webech pouze multisite"
+
+#: includes/class-cptch-settings-tabs.php:485
+msgid "TURN on JS"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:487
+msgid "Enable Captcha for"
+msgstr "Povolit CAPTCHA pro"
+
+#: includes/class-cptch-settings-tabs.php:530
+msgid "Enable to add the CAPTCHA to forms on their settings pages."
+msgstr ""
+"Povolit pro přidávání CAPTCHA do formulářů na jejich stránkách nastavení."
+
+#: includes/class-cptch-settings-tabs.php:630
+msgid "update"
+msgstr "aktualizovat"
+
+#: includes/class-cptch-settings-tabs.php:631
+msgid "to the current version"
+msgstr "na aktuální  verzi"
+
+#: includes/class-cptch-settings-tabs.php:638
+msgid "install"
+msgstr "instalovat"
+
+#: includes/class-cptch-settings-tabs.php:643
+#: includes/class-cptch-allowlist.php:761
+msgid "activate"
+msgstr "aktivovat"
+
+#: includes/class-cptch-settings-tabs.php:652
+msgid "You should"
+msgstr "Měli by jste"
+
+#: includes/class-cptch-settings-tabs.php:655
+msgid "to use this functionality."
+msgstr "chcete-li tuto funkci využívat."
+
+#: includes/class-cptch-settings-tabs.php:665
+msgid "Hide from Registered Users"
+msgstr "Skrýt pro registrované uživatele"
+
+#: includes/class-cptch-settings-tabs.php:666
+msgid "General Settings"
+msgstr "Obecná Nastavení"
+
+#: includes/class-cptch-settings-tabs.php:666
+msgid "Enable to use general captcha settings."
+msgstr "Povolí obecná nastavení CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:688
+msgid "This option is available only for network or for main blog."
+msgstr "Tato možnost je k dispozici pouze pro síť nebo pro hlavní blog."
+
+#: includes/class-cptch-settings-tabs.php:718
+msgid ""
+"To display images from selected packages, please enable \"Images\" in the "
+"\"Complexity\" block in \"General\" block."
+msgstr ""
+"Chcete-li zobrazovat obrázky z vybraných balíčků, povolte \"Obrázky\" v "
+"sekci \"Míra komplexity\" na záložce \"Obecná nastavení\"."
+
+#: includes/class-cptch-settings-tabs.php:747
+msgid "Messages Settings"
+msgstr "Byl překročen časový limit"
+
+#: includes/class-cptch-settings-tabs.php:760
+msgid "Captcha Field is Empty"
+msgstr "Pole CAPTCHA je prázdné"
+
+#: includes/class-cptch-settings-tabs.php:761 includes/helpers.php:31
+msgid "Please complete the captcha."
+msgstr "Prosím vyplňte CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:764
+msgid "Captcha is Incorrect"
+msgstr "CAPTCHA je nesprávná"
+
+#: includes/class-cptch-settings-tabs.php:765 includes/helpers.php:32
+msgid "Please enter correct captcha value."
+msgstr "Prosím vyplňte správnou hodnotu CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:768
+#: includes/class-cptch-settings-tabs.php:772
+msgid "Time Limit Exceeded"
+msgstr "Byl překročen časový limit"
+
+#: includes/class-cptch-settings-tabs.php:769
+#: includes/class-cptch-settings-tabs.php:773 includes/helpers.php:33
+#: includes/helpers.php:34
+msgid "Time limit exceeded. Please complete the captcha once again."
+msgstr "Byl překročen časový limit. Vyplňte prosím CAPTCHA znovu."
+
+#: includes/class-cptch-settings-tabs.php:774
+msgid "This message will be displayed above the captcha field."
+msgstr "Tato zpráva se zobrazí nad polem CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:777
+msgid "Whitelisted IP"
+msgstr "Seznam povolených IP"
+
+#: includes/class-cptch-settings-tabs.php:778 includes/helpers.php:35
+msgid "Your IP address is Whitelisted."
+msgstr "Vaše IP adresa je mezi povolenými."
+
+#: includes/class-cptch-settings-tabs.php:779
+msgid "This message will be displayed instead of the captcha field."
+msgstr "Tato zpráva se zobrazí namísto pole CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:898
+msgid ""
+"The image packages list is empty. Please restore default settings or re-"
+"install the plugin to fix this error."
+msgstr ""
+"Seznam balíčků obrázků je prázdný. Pro opravu této chyby, prosím obnovte "
+"výchozí nastavení nebo znovu nainstalujte plugin."
+
+#: includes/class-cptch-settings-tabs.php:966
+msgid "Enable to activate a time limit requeired to complete captcha."
+msgstr "Povolte aktivaci časového limitu pro dokončení CAPTCHA."
+
+#: includes/class-cptch-settings-tabs.php:977
+msgid "Time Limit"
+msgstr "Časový limit"
+
+#: includes/class-cptch-settings-tabs.php:984
+msgid "Time Limit Thershold"
+msgstr "Hranice časového limitu"
+
+#: includes/class-cptch-settings-tabs.php:987
+msgid "sec"
+msgstr "vteřin"
+
+#: includes/class-cptch-allowlist.php:46
+msgid "All dates"
+msgstr "Všechna data"
+
+#: includes/class-cptch-allowlist.php:47
+msgid "Last 24 hours"
+msgstr "Posledních 24 hodin"
+
+#: includes/class-cptch-allowlist.php:48
+msgid "Last week"
+msgstr "Minulý týden"
+
+#: includes/class-cptch-allowlist.php:49
+msgid "Last month"
+msgstr "Minulý měsíc"
+
+#: includes/class-cptch-allowlist.php:50
+msgid "Last year"
+msgstr "Minulý rok"
+
+#: includes/class-cptch-allowlist.php:116
+msgid "Limit Attempts whitelist is activated."
+msgstr "Omezení počtu pokusů seznamu povolených je aktivováno."
+
+#: includes/class-cptch-allowlist.php:117
+msgid "View the whitelist"
+msgstr "Zobrazit seznam povolených"
+
+#: includes/class-cptch-allowlist.php:118
+msgid "or"
+msgstr "nebo"
+
+#: includes/class-cptch-allowlist.php:119
+msgid "Enable default captcha whitelist"
+msgstr "Povolit výchozí CAPTCHA seznam povolených"
+
+#: includes/class-cptch-allowlist.php:122
+msgid "Load IP Address(-es)"
+msgstr "Načíst IP adres(-y)"
+
+#: includes/class-cptch-allowlist.php:125
+msgid "Save changes"
+msgstr "Uložit změny"
+
+#: includes/class-cptch-allowlist.php:130
+msgid "Load IP addresses from the \"Limit Attempts\" whitelist."
+msgstr "Načíst IP adresy ze seznamu povolených \"Omezení počtu pokusů\"."
+
+#: includes/class-cptch-allowlist.php:137
+msgid "IP to whitelist"
+msgstr "Přidat IP adresu na seznam povolených"
+
+#: includes/class-cptch-allowlist.php:144
+msgid "My IP"
+msgstr "Má IP adresa"
+
+#: includes/class-cptch-allowlist.php:150
+msgid "Allowed formats"
+msgstr "Přípustné formáty"
+
+#: includes/class-cptch-allowlist.php:155
+msgid "Allowed diapason"
+msgstr "Povolený rozsah"
+
+#: includes/class-cptch-allowlist.php:157
+msgid "Allowed separators"
+msgstr "Povolené oddělovače"
+
+#: includes/class-cptch-allowlist.php:157
+#: includes/class-cptch-allowlist.php:165
+msgid "a comma"
+msgstr "čárka"
+
+#: includes/class-cptch-allowlist.php:157
+#: includes/class-cptch-allowlist.php:165
+msgid "semicolon"
+msgstr "středník"
+
+#: includes/class-cptch-allowlist.php:157
+msgid "ordinary space, tab, new line or carriage return."
+msgstr "obyčejná mezera, tabelátor, nový řádek nebo návratu vozíku."
+
+#: includes/class-cptch-allowlist.php:161
+#: includes/class-cptch-allowlist.php:240
+msgid "Reason"
+msgstr "Důvod"
+
+#: includes/class-cptch-allowlist.php:165
+msgid "Allowed separators for reasons"
+msgstr "Povolené oddělovače pro důvody"
+
+#: includes/class-cptch-allowlist.php:165
+msgid "tab, new line or carriage return."
+msgstr "tabelátor, nový řádek nebo návratu vozíku."
+
+#: includes/class-cptch-allowlist.php:168
+msgid "Add IP to whitelist"
+msgstr "Přidat IP adresu na seznam povolených"
+
+#: includes/class-cptch-allowlist.php:230
+msgid "Nothing found"
+msgstr "Nic nenalezeno"
+
+#: includes/class-cptch-allowlist.php:230
+msgid "No IP in the whitelist"
+msgstr "Na seznamu povolených zatím není žádná IP adresa"
+
+#: includes/class-cptch-allowlist.php:238
+msgid "IP Address"
+msgstr "IP adresa"
+
+#: includes/class-cptch-allowlist.php:239
+msgid "Range from / to"
+msgstr "Rozsah od / do"
+
+#: includes/class-cptch-allowlist.php:337
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: includes/class-cptch-allowlist.php:344
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: includes/class-cptch-allowlist.php:359
+msgid "Edit reason"
+msgstr "Upravit důvod"
+
+#: includes/class-cptch-allowlist.php:474
+msgid "Filter"
+msgstr "Filtr"
+
+#: includes/class-cptch-allowlist.php:505
+msgid "Invalid data. See allowed formats"
+msgstr "Neplatná data. Zkontrolujte Přípustné formáty"
+
+#: includes/class-cptch-allowlist.php:515
+msgid "Range"
+msgstr "Rozsah"
+
+#: includes/class-cptch-allowlist.php:523
+msgid "added to the whitelist successfully."
+msgstr "úspěšně přidána na seznam povolených."
+
+#: includes/class-cptch-allowlist.php:525
+msgid "not saved to the whitelist."
+msgstr "neuloženo do seznamu povolených."
+
+#: includes/class-cptch-allowlist.php:527
+msgid "is already in the whitelist"
+msgstr "již je na seznamu povolených"
+
+#: includes/class-cptch-allowlist.php:530
+msgid "invalid format. See allowed formats."
+msgstr "neplatný formát. Zkontrolujte Přípustné formáty."
+
+#: includes/class-cptch-allowlist.php:545
+#, php-format
+msgid "%s IP was deleted successfully"
+msgid_plural "%s IPs were deleted successfully"
+msgstr[0] "%s IP adresa byla úspěšně odstraněna"
+msgstr[1] "%s IP adresy byly úspěšně odstraněny"
+msgstr[2] "%s IP adres bylo úspěšně odstraněno"
+
+#: includes/class-cptch-allowlist.php:549
+#: includes/class-cptch-allowlist.php:559
+msgid "Some errors occurred."
+msgstr "Došlo k chybám."
+
+#: includes/class-cptch-allowlist.php:555
+msgid "One IP was deleted successfully"
+msgstr "Jedna IP adresa byla úspěšně odstraněna"
+
+#: includes/class-cptch-allowlist.php:562
+msgid "You have not entered any IP"
+msgstr "Nezadali jste žádnou IP adresu"
+
+#: includes/class-cptch-allowlist.php:565
+msgid "You have not entered any IP in to the search form."
+msgstr "Do vyhledávacího formuláře jste nezadali žádnou IP adresu."
+
+#: includes/class-cptch-allowlist.php:567
+msgid "Search results for"
+msgstr "Výsledky hledání pro"
+
+#: includes/class-cptch-allowlist.php:608
+msgid "IP-address(es) successfully copied to the whitelist."
+msgstr "IP adresa(y) byl(y) úspěšně zkopírovány na seznam povolených."
+
+#: includes/class-cptch-allowlist.php:622
+#, php-format
+msgid "The reason for %s has been updated successfully."
+msgstr "Důvod pro %s byl úspěšně aktualizován."
+
+#: includes/class-cptch-allowlist.php:625
+#, php-format
+msgid "No changes was made for %s."
+msgstr "Nebyly provedeny žádné změny pro %s."
+
+#: includes/class-cptch-allowlist.php:628
+#: includes/whitelist_reason_updater.php:16
+msgid "Error while updating reason for"
+msgstr "Během úpravy důvodu došlo k nějaké chybě"
+
+#: includes/class-cptch-allowlist.php:752
+msgid "use"
+msgstr "použít"
+
+#: includes/class-cptch-allowlist.php:752
+msgid "the whitelist of"
+msgstr "seznam povolených"
+
+#: includes/class-cptch-allowlist.php:760
+#: includes/class-cptch-allowlist.php:768
+#, php-format
+msgid "use the whitelist of %s"
+msgstr "použít seznam povolených %s"
+
+#: includes/class-cptch-allowlist.php:761
+#, php-format
+msgid "you should %s to use this functionality"
+msgstr "měli byste %s chcete-li tuto funkci využívat"
+
+#: includes/class-cptch-allowlist.php:769
+#, php-format
+msgid "you should install %s to use this functionality"
+msgstr "měli byste instalovat %s chcete-li tuto funkci využívat"
+
+#: includes/invisible.php:28
+msgid "Can't handle encrypting/decrypting data."
+msgstr ""
+
+#: includes/invisible.php:31 includes/invisible.php:64
+#: includes/invisible.php:99
+msgid "ERROR"
+msgstr "CHYBA"
+
+#: includes/invisible.php:61
+#, php-format
+msgid "Protected by %s"
+msgstr ""
+
+#: includes/invisible.php:77
+msgid "Empty captcha."
+msgstr ""
+
+#: includes/invisible.php:91
+msgid "Captcha time limit exceeded."
+msgstr ""
+
+#: includes/invisible.php:96
+msgid "Wrong captcha."
+msgstr ""
+
+#: includes/whitelist_reason_updater.php:15
+#, php-format
+msgid "The reason for %s has been updated successfully"
+msgstr "Důvod pro %s byl úspěšně aktualizován"
+
+#: includes/whitelist_reason_updater.php:17
+msgid "No changes was made"
+msgstr "Nebyly provedeny žádné změny"
+
+#~ msgid "In order to pass the CAPTCHA please enable JavaScript"
+#~ msgstr "Pro správnou funkci CAPTCHA prosím povolte JavaScript"
+
+#~ msgid "Warning"
+#~ msgstr "Upozornění"
+
+#~ msgid "plugin contains deprecated functionality that will be removed"
+#~ msgstr "plugin obsahuje zastaralé funkce, které budou odstraněny"
+
+#~ msgid "in the future"
+#~ msgstr "v budoucnu"
+
+#~ msgid "after"
+#~ msgstr "po"
+
+#~ msgid "has old version"
+#~ msgstr "má starou verzi"
+
+#~ msgid "has compatibility problems with"
+#~ msgstr "má problémy s kompatibilitou"
+
+#~ msgid "You need to update this plugin for correct work with"
+#~ msgstr "Aktualizujte tento plugin, aby správně pacoval s"
+
+#~ msgid "Forgot password form"
+#~ msgstr "Formulář při ztrátě hesla"
+
+#~ msgid "Check off for adding the CAPTCHA to forms on their settings pages."
+#~ msgstr ""
+#~ "Zaškrtněte políčko pro přidání CAPTCHA do formulářů na jejích stránkách "
+#~ "nastavení."
+
+#~ msgid "Some errors occured."
+#~ msgstr "Došlo k chybám."
+
+#~ msgid "Your IP addresse is Whitelisted."
+#~ msgstr "Vaše IP adresa je mezi povolenými."
+
+#~ msgid ""
+#~ "The image packages list is empty. Please restore default settings or re-"
+#~ "install the plugin to fix this error"
+#~ msgstr ""
+#~ "Seznam balíčků obrázků je prázdný. Pro opravu této chyby, prosím obnovte "
+#~ "výchozí nastavení nebo znovu nainstalujte plugin"
+
+#~ msgid "Some errors occured"
+#~ msgstr "Vyskytly se nějaké chyby"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Selected packages have been removed successfully"
+#~ msgstr "Vybrané balíčky byly úspěšně odstraněny"
+
+#~ msgid ""
+#~ "Can not load images in to the \"uploads\" folder. Please, check your "
+#~ "permissions"
+#~ msgstr ""
+#~ "Obrázky se do složky \"uploads\" nepodařilo nahrát. Prosím, zkontrolujte "
+#~ "oprávnění"
+
+#~ msgid "One package has been updated or added to the database"
+#~ msgid_plural "%s packages have been updated or added to the database"
+#~ msgstr[0] "Jeden balíček byl aktualizován nebo přidán do databáze"
+#~ msgstr[1] "%s balíčky byly aktualizovány nebo přidány do databáze"
+#~ msgstr[2] "%s balíčků bylo aktualizováno nebo přidáno do databáze"
+
+#~ msgid "One image has been updated or added to the database"
+#~ msgid_plural "%s images have been updated or added to the database"
+#~ msgstr[0] "Jeden obrázek byl aktualizován nebo přidán do databáze"
+#~ msgstr[1] "%s obrázky byly aktualizovány nebo přidány do databáze"
+#~ msgstr[2] "%s obrázků bylo aktualizováno nebo přidáno do databáze"
+
+#~ msgid ""
+#~ "Some settings of the package %s were set incorrectly. They have been "
+#~ "skipped"
+#~ msgstr "Některá nastavení balíčku %s byla nesprávná. Byly přeskočeny"
+
+#~ msgid ""
+#~ "Option for displaying Captcha with Contact Form 7 is enabled. For correct "
+#~ "work, please don't forget to add the INEOSQ CAPTCHA block to the necessary "
+#~ "form (see"
+#~ msgstr ""
+#~ "Možnost zobrazování Captcha s Contact Form 7 je povoleno. Pro správnou "
+#~ "funkci, prosím nezapomeňte přidat INEOSQ CAPTCHA blok do patřičného "
+#~ "formuláře (viz"
+
+#~ msgid "\"%s\" option must not be fully disabled"
+#~ msgstr "\"%s\" možnost nesmí být zcela zakázána"
+
+#~ msgid ""
+#~ "Text fields in the \"Notification messages\" option must not be empty"
+#~ msgstr "Textová pole v \"Zprávy upozornění\" musí být vyplněna."
+
+#~ msgid ""
+#~ "In order to use \"Character recognition\" type, please select at least "
+#~ "one of the items in the option \"Use image packages\"."
+#~ msgstr ""
+#~ "Chcete-li použít typ \"Rozpoznávání znaků\", vyberte alespoň jednu z "
+#~ "položek v možnosti \"Použít balíčky obrázků\"."
+
+#~ msgid ""
+#~ "In order to use images in the CAPTCHA, please select at least one of the "
+#~ "items in the option \"Use image packages\". The \"Images\" checkbox in "
+#~ "\"Complexity\" option has been disabled."
+#~ msgstr ""
+#~ "Chcete-li použít obrázky v CAPTCHA, prosím vyberte alespoň jednu z "
+#~ "položek v možnosti \"Použít balíčky obrázků\". Zaškrtávací pole \"Obrázky"
+#~ "\" u možnosti \"Míra komplexity\" bylo vypnuto."
+
+#~ msgid "Settings saved"
+#~ msgstr "Nastavení uloženo"
+
+#~ msgid "Hide from registered users"
+#~ msgstr "Skrýt pro registrované uživatele"
+
+#~ msgid "This option is available only for network or for main blog"
+#~ msgstr "Tato možnost je k dispozici pouze pro síť nebo pro hlavní blog"
+
+#~ msgid ""
+#~ "To display images from selected packages, please enable \"Images\" in the "
+#~ "\"Complexity\" block in \"General Options\" tab"
+#~ msgstr ""
+#~ "Chcete-li zobrazovat obrázky z vybraných balíčků, povolte \"Obrázky\" v "
+#~ "sekci \"Míra komplexity\" na záložce \"Obecná nastavení\""
+
+#~ msgid "Allowed formats:"
+#~ msgstr "Přípustné formáty:"
+
+#~ msgid "Allowed diapason:"
+#~ msgstr "Povolený rozsah:"
+
+#~ msgid "Save IP to the whitelist"
+#~ msgstr "Uložit IP adresu na seznam povolených"
+
+#~ msgid "added to the whitelist successfully"
+#~ msgstr "úspěšně přidána na seznam povolených"
+
+#~ msgid "You have not entered any IP in to the search form"
+#~ msgstr "Do vyhledávacího formuláře jste nezadali žádnou IP adresu"
+
+#~ msgid "IP-address(es) successfully copied to the whitelist"
+#~ msgstr "IP adresa(y) byl(y) úspěšně zkopírovány na seznam povolených"
+
+#~ msgid "No changes was made for"
+#~ msgstr "Nebyly provedeny žádné změny u"
+
+#~ msgid "Use general settings"
+#~ msgstr "Použít obecná nastavení"
+
+#~ msgid "Use image packages"
+#~ msgstr "Použít balíčky obrázků"
+
+#~ msgid "Remove from the whitelist"
+#~ msgstr "Odebrat ze seznamu povolených"
+
+#~ msgid "Network Settings"
+#~ msgstr "Síťové nastavení"
+
+#~ msgid "How to Use Step-by-step Instruction"
+#~ msgstr "Instrukce jak používat krok-za-krokem"
+
+#~ msgid "Custom code"
+#~ msgstr "Vlastní kód"
+
+#~ msgid "Please enter a CAPTCHA value."
+#~ msgstr "Prosím vyplňte CAPTCHA hodnotu."
+
+#~ msgid "Please enter a valid CAPTCHA value."
+#~ msgstr "Prosím vyplňte správnou hodnotu CAPTCHA."
+
+#~ msgid "Time limit is exhausted. Please enter a CAPTCHA value again."
+#~ msgstr "Časový limit byl překročen. Vyplňte prosím CAPTCHA znovu."
+
+#~ msgid "Time limit is exhausted. Please reload the CAPTCHA."
+#~ msgstr "Časový limit byl překročen. Načtěte prosím CAPTCHA znovu."
+
+#~ msgid "You are in the whitelist."
+#~ msgstr "Jste na seznamu povolených."
+
+#~ msgid "Search"
+#~ msgstr "Hledat"
+
+#~ msgid "WordPress Login form"
+#~ msgstr "WP přihlašovací formulář"
+
+#~ msgid "WordPress Registration form"
+#~ msgstr "WP registrační formulář"
+
+#~ msgid "WordPress Reset Password form"
+#~ msgstr "WP formulář při ztrátě hesla"
+
+#~ msgid "WordPress Comments form"
+#~ msgstr "WP komentářový formulář"
+
+#~ msgid "Buddypress Registration form"
+#~ msgstr "Buddypress Registrační formulář"
+
+#~ msgid "Buddypress Comments form"
+#~ msgstr "Buddypress Formulář pro odeslání komentáře"
+
+#~ msgid "Buddypress \"Create a Group\" form"
+#~ msgstr "Buddypress formulář \"Vytvořit skupinu\""
+
+#~ msgid "WooCommerce Register form"
+#~ msgstr "WooCommerce registrační formulář"
+
+#~ msgid "WooCommerce Lost Password form"
+#~ msgstr "WooCommerce formulář při ztrátě hesla"
+
+#~ msgid "WooCommerce Checkout Billing form"
+#~ msgstr "WooCommerce formulář Pokladna a fakturace"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Všechna nastavení pluginu byla obnovena."
+
+#~ msgid "Notice"
+#~ msgstr "Poznámka"
+
+#~ msgid "This option will replace all current settings on separate sites."
+#~ msgstr ""
+#~ "Tato možnost nahradí všechna aktuální nastavení na jednotlivých webech."
+
+#~ msgid "Save Changes"
+#~ msgstr "Uložit změny"
+
+#~ msgid "Captcha type"
+#~ msgstr "Typ captcha"
+
+#~ msgid "Character recognition"
+#~ msgstr "Rozpoznávání znaků"
+
+#~ msgid "Plus"
+#~ msgstr "Plus"
+
+#~ msgid "Minus"
+#~ msgstr "Mínus"
+
+#~ msgid "Numbers"
+#~ msgstr "Čísla"
+
+#~ msgid "Words"
+#~ msgstr "Slova"
+
+#~ msgid "Images count"
+#~ msgstr "Počet obrázků"
+
+#~ msgid "Enlarge images on mouseover"
+#~ msgstr "Při přejetí myší zvětšit obrázek"
+
+#~ msgid "Show reload button"
+#~ msgstr "Zobrazit tlačítko Obnovit"
+
+#~ msgid "CAPTCHA title"
+#~ msgstr "CAPCHA název"
+
+#~ msgid "Required symbol"
+#~ msgstr "Požadovaný symbol"
+
+#~ msgid ""
+#~ "With this option the CAPTCHA will be generated via %s into the form after "
+#~ "the end of the page loading. In this case, the most of spam bots can't "
+#~ "figure out the answer to the CAPTCHA automatically because they just "
+#~ "can't get the CAPTCHA content"
+#~ msgstr ""
+#~ "S touto volbou se bude CAPTCHA generovat do formuláře %s až po skončení "
+#~ "načítání stránky. V takovém případě většina spamovacích robotů nezjistí "
+#~ "automaticky odpověď na CAPTCHA, protože prostě nemohou obsah CAPTCHA "
+#~ "získat"
+
+#~ msgid "Allow to change the settings on separate websites"
+#~ msgstr "Povolit změnu nastavení na jednotlivých webech"
+
+#~ msgid "Allow to view the settings on separate websites"
+#~ msgstr "Povolit zobrazení nastavení na jednotlivých webech"
+
+#~ msgid "Enable time limit"
+#~ msgstr "Nastavit časový limit"
+
+#~ msgid "for"
+#~ msgstr "na"
+
+#~ msgid "second"
+#~ msgid_plural "seconds"
+#~ msgstr[0] "sekunda"
+#~ msgstr[1] "sekundy"
+#~ msgstr[2] "sekund"
+
+#~ msgid "If the CAPTCHA field is empty"
+#~ msgstr "V případě, že pole CAPTCHA je prázdné"
+
+#~ msgid "If the CAPTCHA is incorrect"
+#~ msgstr "V případě, že CAPTCHA je nesprávná"
+
+#~ msgid "If the time limit is exhausted"
+#~ msgstr "Je-li překročen časový limit"
+
+#~ msgid ""
+#~ "If the time limit is exhausted (this message will be displayed above the "
+#~ "CAPTCHA)"
+#~ msgstr "Je-li časový limit překročen (tato zpráva se objeví nad CAPTCHA)"
+
+#~ msgid ""
+#~ "If the user IP is added to the whitelist (this message will be displayed "
+#~ "instead of the CAPTCHA)"
+#~ msgstr ""
+#~ "Je-li uživatelova IP adresa přidána na seznam povolených (tato zpráva se "
+#~ "zobrazí namísto CAPTCHA)"
+
+#~ msgid "Errors"
+#~ msgstr "Chyby"
+
+#~ msgid ""
+#~ "These messages will be displayed if the CAPTCHA answer has not passed the "
+#~ "verification"
+#~ msgstr ""
+#~ "Tyto zprávy budou zobrazeny v případě, že CAPTCHA odpověď neprojde "
+#~ "ověřením"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "These messages will be displayed inside of the CAPTCHA"
+#~ msgstr "Tyto zprávy budou zobrazeny uvnitř CAPTCHA"
+
+#~ msgid "Notification messages"
+#~ msgstr "Zprávy upozornění"
+
+#~ msgid "to use this functionality"
+#~ msgstr "chcete-li tuto funkci využívat"
+
+#~ msgid "Enable"
+#~ msgstr "Povolit"
+
+#~ msgid "Check off for adding the CAPTCHA to forms on their settings pages"
+#~ msgstr ""
+#~ "Zaškrtněte políčko pro přidání CAPTCHA do formulářů na jejích stránkách "
+#~ "nastavení"
+
+#~ msgid "For IP addresses from the whitelist CAPTCHA will not be displayed"
+#~ msgstr "Pro IP adresy ze seznamu povolených nebude CAPTCHA zobrazena"
+
+#~ msgid ""
+#~ "With this option, CAPTCHA will not be displayed for IP-addresses from the "
+#~ "whitelist of %s"
+#~ msgstr ""
+#~ "S touto volbou nebude CAPTCHA zobrazena pro IP adresy ze seznamu "
+#~ "povolených %s"
+
+#~ msgid "Add IP to the whitelist"
+#~ msgstr "Přidat IP adresu na seznam povolených"
+
+#~ msgid "Load IP to the whitelist"
+#~ msgstr "Načíst IP adresu do seznamu povolených"
+
+#~ msgid ""
+#~ "By click on this button, all IP-addresses from the whitelist of %s will "
+#~ "be loaded to the whitelist of %s"
+#~ msgstr ""
+#~ "Kliknutím na toto tlačítko všechny IP adresy ze seznamu povolených %s "
+#~ "budou nahrány na seznam povolených %s"
+
+#~ msgid "Allowed separators: a comma"
+#~ msgstr "Povolené oddělovače: čárka"
+
+#~ msgid "ordinary space, tab, new line or carriage return"
+#~ msgstr "obyčejná mezera, tabelátor, nový řádek nebo návratu vozíku"
+
+#~ msgid "Allowed separators for reasons: a comma"
+#~ msgstr "Povolené oddělovače pro Důvody: čárka"
+
+#~ msgid "tab, new line or carriage return"
+#~ msgstr "tabelátor, nový řádek nebo návratu vozíku"
+
+#~ msgid "Search IP"
+#~ msgstr "Hledat IP adresu"
+
+#~ msgid "IP address"
+#~ msgstr "IP adresy"
+
+#~ msgid "Range from"
+#~ msgstr "Rozsah od"
+
+#~ msgid "Range to"
+#~ msgstr "Rozsah do"
+
+#~ msgid "Date added"
+#~ msgstr "Datum přidání"
+
+#~ msgid "instruction"
+#~ msgstr "instrukce"
+
+#~ msgid ""
+#~ "Functions from the %1s plugin are used on your site. These functions are "
+#~ "deprecated ( %2s ) since version %4s. Please replace them according to "
+#~ "the %3s. If you close this message it will appear in case if deprecated "
+#~ "function would be called again only"
+#~ msgstr ""
+#~ "Funkce z %1s pluginu se používají na vašich stránkách. Tyto funkce jsou "
+#~ "zastaralé (%2s) od verze %4s. Prosím nahraďte je podle %3s. Zavřete-li "
+#~ "tuto zprávu objeví se znovu pouze v případě, že bude funkce znovu zavolána"
+
+#~ msgid "some call functions for the \"%s\" filter hook"
+#~ msgstr "některá volání funkce pro \"%s\" filtr zastavil"
+
+#~ msgid "Enable the CAPTCHA for"
+#~ msgstr "Povolit CAPTCHA pro:"
+
+#~ msgid ""
+#~ "In order to use images in the CAPTCHA, please select at least one of the "
+#~ "items in the option \"Use image packages\". The \"Images\" checkbox in "
+#~ "\"Complexity\" option has been disabled"
+#~ msgstr ""
+#~ "Aby bylo možné používat v CAPTCHA obrázky, vyberte alespoň jednu z "
+#~ "položek v možnosti \"Použít obrázky balíčků\". Zaškrtávací políčko "
+#~ "\"Obrázky\" v možnosti \"Míra komplexity\" bylo deaktivováno"
+
+#~ msgid "Plus (&#43;)"
+#~ msgstr "Plus (&#43;)"
+
+#~ msgid "Minus (&minus;)"
+#~ msgstr "Mínus (&minus;)"
+
+#~ msgid "Multiply"
+#~ msgstr "Krát"
+
+#~ msgid ""
+#~ "Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+#~ msgstr ""
+#~ "Prosím vyberte jednu položku v bloku aritmetických funkcí  a obtížnosti "
+#~ "CAPTCHA"
+
+#, fuzzy
+#~ msgid "Please select one item in the block Enable image packages"
+#~ msgstr ""
+#~ "Prosím vyberte jednu položku v bloku aritmetických funkcí  a obtížnosti "
+#~ "CAPTCHA"
+
+#, fuzzy
+#~ msgid "Plugins"
+#~ msgstr "Stránka pluginů"
+
+#, fuzzy
+#~ msgid "download"
+#~ msgstr "Stáhnout"
+
+#, fuzzy
+#~ msgid "Buddypress comments form"
+#~ msgstr "Formulář pro odeslání komentáře"
+
+#, fuzzy
+#~ msgid "If you would like to add Captcha to a custom form see"
+#~ msgstr ""
+#~ "Pokud budete chtít přidat Captcha do vlastního formuláře, prosím vizte"
+
+#, fuzzy
+#~ msgid "Hide CAPTCHA"
+#~ msgstr "Povolit CAPTCHA:"
+
+#, fuzzy
+#~ msgid "Contact Form by IneosQ"
+#~ msgstr "Kontaktní formulář"
+
+#, fuzzy
+#~ msgid "Contact Form 7"
+#~ msgstr "Kontaktní formulář"
+
+#, fuzzy
+#~ msgid "WooCommerce login form"
+#~ msgstr "Formulář pro odeslání komentáře"
+
+#, fuzzy
+#~ msgid "Buddypress Registration form "
+#~ msgstr "Registrační formulář"
+
+#~ msgid "and"
+#~ msgstr "a"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Nastavení pluginu byla změněna. Pro jejich uložení prosím nezapomeňte "
+#~ "kliknout na tlačítko 'Uložit změny'."
+
+#, fuzzy
+#~ msgid "Download"
+#~ msgstr "Stáhnout"
+
+#~ msgid "\"Create a Group\" form"
+#~ msgstr "formulář \"Vytvořit skupinu\""
+
+#~ msgid "Title for CAPTCHA in the form"
+#~ msgstr "Nadpis pro CAPTCHA ve formuláři"
+
+#, fuzzy
+#~ msgid "Captcha Pro"
+#~ msgstr "Captcha"
+
+#~ msgid "Activate contact form"
+#~ msgstr "Aktivovat kontaktní formulář"
+
+#~ msgid "Download contact form"
+#~ msgstr "Stáhnout kontaktní formulář"
+
+#, fuzzy
+#~ msgid "Activate Subscriber"
+#~ msgstr "Odběratel"
+
+#, fuzzy
+#~ msgid "Download Subscriber"
+#~ msgstr "Odběratel"
+
+# we usually don't translate this
+# #crysman
+#~ msgid "powered by"
+#~ msgstr "powered by"
+
+#~ msgid "Subscriber"
+#~ msgstr "Odběratel"
+
+#~ msgid "requires"
+#~ msgstr "potřebuje"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "nebo vyšší, to je důvod, proč došlo k deaktivaci! Prosím upgradujte "
+#~ "WordPress a zkuste znovu."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Zpět do WordPressu"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later. If the error will appear again, "
+#~ "please, contact us <a href=http://support.ineosq.com>IneosQ</"
+#~ "a>. We are sorry for inconvenience."
+#~ msgstr ""
+#~ "Něco se pokazilo. Zkuste znovu později. Pokud chyba přetrvává, prosím "
+#~ "kontaktujte nás <a href=http://support.ineosq.com>IneosQ</a>. "
+#~ "Omlouváme se za komplikace."
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Tento licenční klíč je spjat s jiným webem"
+
+#, fuzzy
+#~ msgid "Unfortunately, you have exceeded the number of available tries."
+#~ msgstr ""
+#~ "Bohužel, překročili jste počet dostupných pokusů za den. Prosím, nahrajte "
+#~ "plugin ručně."
+
+#, fuzzy
+#~ msgid "The license key is valid. Your license will expire on"
+#~ msgstr "Tento licenční klíč je spjat s jiným webem"
+
+#, fuzzy
+#~ msgid "The license key is valid."
+#~ msgstr "Tento licenční klíč je spjat s jiným webem"
+
+#, fuzzy
+#~ msgid "Please, enter your license key"
+#~ msgstr "Prosím, zadejte Váš licenční klíč"
+
+#, fuzzy
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product). If "
+#~ "necessary, please submit \"Lost your password?\" request."
+#~ msgstr ""
+#~ "(vaše uživatelské jméno je e-mail, který uvádíte při koupi produktu)."
+
+#, fuzzy
+#~ msgid "Check license key"
+#~ msgstr "Špatný licenční klíč"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr "Pokud se vám líbí náš plugin, prosím dejte mu 5 hvězd na WordPressu"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Ohodnotit plugin"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Pokud je na tom něco špatně, prosím kontaktujte nás"
+
+#, fuzzy
+#~ msgid "ERROR:"
+#~ msgstr "CHYBA"
+
+#, fuzzy
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product), "
+#~ "where you can make the necessary changes."
+#~ msgstr ""
+#~ "(vaše uživatelské jméno je e-mail, který uvádíte při koupi produktu)."
+
+#, fuzzy
+#~ msgid "You license for"
+#~ msgstr "Špatný licenční klíč"
+
+#, fuzzy
+#~ msgid "Invalid CAPTCHA value."
+#~ msgstr "Prosím vyplňte správnou CAPTCHA hodnotu."
+
+#, fuzzy
+#~ msgid "Please fill the form"
+#~ msgstr "Prosím, vyplňte formulář."

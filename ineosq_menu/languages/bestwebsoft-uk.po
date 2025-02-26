@@ -1,0 +1,2241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ineosq\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 14:21+0300\n"
+"PO-Revision-Date: 2022-04-21 14:26+0300\n"
+"Last-Translator: ineosq.com <plugins@ineosq.com>\n"
+"Language-Team: ineosq.com <https://support.ineosq.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: ineosq_functions.php:85 ineosq_functions.php:293
+msgid "requires"
+msgstr "потребує"
+
+#: ineosq_functions.php:87
+msgid ""
+"or higher, that is why it has been deactivated! Please upgrade WordPress and "
+"try again."
+msgstr ""
+"чи вище, тому його було деактивовано! Будь ласка оновіть WordPress та "
+"спробуйте ще раз."
+
+#: ineosq_functions.php:88
+msgid "Back to the WordPress"
+msgstr "Повернутися на WordPress на"
+
+#: ineosq_functions.php:90
+msgid "Plugins page"
+msgstr "Сторінку Плагінів"
+
+#: ineosq_functions.php:112
+msgid "Like the plugin?"
+msgstr "Сподобався плагін?"
+
+#: ineosq_functions.php:113
+#, php-format
+msgid "%s reviews"
+msgstr "%s відгуки"
+
+#: ineosq_functions.php:114
+msgid "Rate it"
+msgstr "Оцінити"
+
+#: ineosq_functions.php:123
+msgid "Need help?"
+msgstr "Потрібна допомога?"
+
+#: ineosq_functions.php:124 ineosq_functions.php:1299 class-ineosq-settings.php:1300
+msgid "Visit Help Center"
+msgstr "Перейти до Help Center"
+
+#: ineosq_functions.php:127
+msgid "Want to support the plugin?"
+msgstr "Хочете підтримати плагін?"
+
+#: ineosq_functions.php:128 ineosq_menu.php:672
+msgid "Donate"
+msgstr "Пожертвувати"
+
+#: ineosq_functions.php:155
+msgid "WARNING: Illegal use notification"
+msgstr "УВАГА: виявлено несанкціоноване використання плагіну"
+
+#: ineosq_functions.php:155
+msgid ""
+"You can use one license of the Pro plugin for one domain only. Please check "
+"and edit your license or domain if necessary using your personal Client "
+"Area. We strongly recommend you to solve the problem within 24 hours, "
+"otherwise the Pro plugin will be deactivated."
+msgstr ""
+"Ви можете використовувати одну ліцензію Про-плагіну для одного домену. Будь "
+"ласка, переконайтесь, що інформацію щодо ліцензії і домену введено вірно, у "
+"вкладці Client Area. Ми настійливо рекомендуємо Вам вирішити це питання "
+"протягом 24 годин, інакше плагін буде деактивовано."
+
+#: ineosq_functions.php:155 ineosq_functions.php:247 ineosq_menu.php:767
+#: class-ineosq-settings.php:189 deprecated.php:807
+msgid "Learn More"
+msgstr "Дізнатись більше"
+
+#: ineosq_functions.php:174
+msgid ""
+"Notice: Your Pro Trial license has expired. To continue using the plugin, "
+"you should buy a Pro license"
+msgstr ""
+"Увага: Термін дії Pro Trial версії плагіну скінчився. Щоб продовжити "
+"користуватись плагіном, будь ласка, придбайте Pro ліцензію"
+
+#: ineosq_functions.php:176
+msgid ""
+"Your license has expired. To continue getting top-priority support and "
+"plugin updates, you should extend it."
+msgstr ""
+"Строк вашої ліцензії витік. Якщо ви хочете отримувати першочергову технічну "
+"підтримку та оновлювати плагін у майбутньому, вам слід подовжити ліцензію."
+
+#: ineosq_functions.php:176 ineosq_functions.php:267 ineosq_functions.php:276
+#: deprecated.php:603 deprecated.php:862
+msgid "Learn more"
+msgstr "Дізнатись більше"
+
+#: ineosq_functions.php:196
+#, php-format
+msgid "Notice: You are using the Pro Trial license of %s plugin."
+msgstr "Увага: Ви використовуєте тріал Pro версію плагіну %s."
+
+#: ineosq_functions.php:198
+msgid "Notice: You are using the Pro Trial license of plugin."
+msgstr "Увага: Ви використовуєте тріал Pro версію плагіну."
+
+#: ineosq_functions.php:201
+msgid "The Pro Trial license will expire on"
+msgstr "Trial період Pro версії плагіну закінчується"
+
+#: ineosq_functions.php:238 ineosq_functions.php:263 ineosq_functions.php:273
+#: ineosq_functions.php:323 ineosq_functions.php:333 ineosq_functions.php:450
+#: ineosq_functions.php:648 ineosq_functions.php:681 deprecated.php:798
+#: deprecated.php:858
+msgid "Close notice"
+msgstr "Закрити"
+
+#: ineosq_functions.php:243 deprecated.php:803
+msgid "It’s time to upgrade your"
+msgstr "Настав час модернізувати Ваш"
+
+#: ineosq_functions.php:243 deprecated.php:803
+msgid "to"
+msgstr "до"
+
+#: ineosq_functions.php:243 deprecated.php:803
+msgid "version!"
+msgstr "версії!"
+
+#: ineosq_functions.php:244 deprecated.php:804
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Розширює можливості стандартного функціоналу плагіна."
+
+#: ineosq_functions.php:267
+#, php-format
+msgid ""
+"Your license key for %1$s expires on %2$s and you won't be granted TOP-"
+"PRIORITY SUPPORT or UPDATES."
+msgstr ""
+"Термін дії вашого ліцензійного ключа для %1$s закінчується %2$s, і ви не "
+"отримуватимете ПІДТРИМКУ І ОНОВЛЕННЯ."
+
+#: ineosq_functions.php:275
+msgid "Pro License Notice"
+msgstr "Повідомлення про ліцензію Pro"
+
+#: ineosq_functions.php:276
+#, php-format
+msgid ""
+"Your license key for %s has expired. Please renew the license to continue "
+"getting plugin updates and top-priority support."
+msgstr ""
+"Термін дії вашого ліцензійного ключа для %s закінчився. Будь ласка, оновіть "
+"ліцензію, щоб і надалі отримувати оновлення плагінів і першочергову "
+"підтримку."
+
+#: ineosq_functions.php:295
+msgid ""
+"or higher! We do not guarantee that our plugin will work correctly. Please "
+"upgrade to WordPress latest version."
+msgstr ""
+"чи вище! Ми не гарантуємо, що наш плагін буде працювати правильно. Будь "
+"ласка, оновіть WordPress до останньої версії."
+
+#: ineosq_functions.php:313
+#, php-format
+msgid "Thank you for installing %s plugin!"
+msgstr "Дякуємо, що встановили %s плагін!"
+
+#: ineosq_functions.php:315
+msgid "Let's get started"
+msgstr "Розпочнемо"
+
+#: ineosq_functions.php:316 ineosq_functions.php:349 ineosq_menu.php:678
+#: ineosq_menu.php:680
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ineosq_functions.php:318 ineosq_menu.php:377 class-ineosq-settings.php:960
+#: class-ineosq-settings.php:1303 class-ineosq-settings.php:1316 deprecated.php:716
+msgid "or"
+msgstr "або"
+
+#: ineosq_functions.php:319 ineosq_functions.php:351
+msgid "Add New"
+msgstr "Додати"
+
+#: ineosq_functions.php:338
+msgid "Thank you for installing plugins by IneosQ!"
+msgstr "Дякуємо, що встановили плагіни від IneosQ!"
+
+#: ineosq_functions.php:340
+msgid "More Details"
+msgstr "Деталі"
+
+#: ineosq_functions.php:341
+msgid "Less Details"
+msgstr "Сховати Деталі"
+
+#: ineosq_functions.php:372
+msgid "Deprecated function(-s) is used on the site here:"
+msgstr "Застарілі функціі використовується на сайті тут:"
+
+#: ineosq_functions.php:390
+msgid ""
+"This function(-s) will be removed over time. Please update the product(-s)."
+msgstr ""
+"Ці функції буде видалено через деякий час. Будь ласка, поновіть продукт."
+
+#: ineosq_functions.php:643
+#, php-format
+msgid "Thank you for choosing %s plugin!"
+msgstr "Дякую за вибір плагіна %s!"
+
+#: ineosq_functions.php:644
+msgid ""
+"If you have a feature, suggestion or idea you'd like to see in the plugin, "
+"we'd love to hear about it!"
+msgstr ""
+"Якщо у вас є пропозиції по додаванню нового або поліпшення поточного "
+"функціоналу плагіна, будь ласка, надсилайте їх нам! Ми завжди відкриті для "
+"нових ідей!"
+
+#: ineosq_functions.php:645
+msgid "Suggest a Feature"
+msgstr "Запропонувати функціонал"
+
+#: ineosq_functions.php:686
+msgid "Affiliate Program"
+msgstr "Партнерська Програма"
+
+#: ineosq_functions.php:687
+#, php-format
+msgid "Get %s"
+msgstr "Отримайте %s"
+
+#: ineosq_functions.php:688
+msgid "from each IneosQ plugin and theme sale you refer"
+msgstr "з кожного розпродажу плагінів і тем IneosQ, які ви посилаєте"
+
+#: ineosq_functions.php:692
+msgid "Join affiliate program"
+msgstr "Приєднуйтесь до партнерської програми"
+
+#: ineosq_functions.php:696
+msgid "Promote and sell products"
+msgstr "Рекламуйте та продавайте продукти"
+
+#: ineosq_functions.php:700
+msgid "Get commission!"
+msgstr "Get commission!"
+
+#: ineosq_functions.php:705
+msgid "Start Now"
+msgstr "Розпочати зараз"
+
+#: ineosq_functions.php:722 class-ineosq-settings.php:688 class-ineosq-settings.php:693
+#: class-ineosq-settings.php:776 class-ineosq-settings.php:781
+msgid "Notice"
+msgstr "Зауважте"
+
+#: ineosq_functions.php:722
+msgid "The plugin's settings have been changed."
+msgstr "Налаштування плагіну змінено."
+
+#: ineosq_functions.php:723 class-ineosq-settings.php:235 class-ineosq-settings.php:263
+#: deprecated.php:661
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: ineosq_functions.php:744
+msgid ""
+"You can always look at premium options by checking the \"Pro Options\" in "
+"the \"Misc\" tab."
+msgstr ""
+"Ви завжди можете подивитися на преміум опції, натиснувши на кнопку \"Pro "
+"опції\" на вкладці \"Різне\"."
+
+#: ineosq_functions.php:970
+msgid "Add shortcode"
+msgstr "Додати шорткод"
+
+#: ineosq_functions.php:970
+msgid "Add IneosQ plugins' shortcodes using this button."
+msgstr "Додайте шорткоди IneosQ плагінів за допомогою цієї кнопки."
+
+#: ineosq_functions.php:1080
+msgid "Close"
+msgstr "Закрити"
+
+#: ineosq_functions.php:1172
+msgid "Are you sure you want to restore default settings?"
+msgstr "Ви впевнені, що хочете скинути налаштування плагіну до стандартних?"
+
+#: ineosq_functions.php:1175
+msgid "Yes, restore all settings"
+msgstr "Так, скинути налаштування"
+
+#: ineosq_functions.php:1176
+msgid "No, go back to the settings page"
+msgstr "Ні, повернутись назад на сторінку налаштувань"
+
+#: ineosq_functions.php:1238
+msgid "Plugin"
+msgstr "Плагін"
+
+#: ineosq_functions.php:1247
+msgid "Shortcode settings"
+msgstr "Налаштування шорткоду"
+
+#: ineosq_functions.php:1252
+msgid "The shortcode will be inserted"
+msgstr "Буде вставлено шорткод"
+
+#: ineosq_functions.php:1304
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ineosq_functions.php:1310
+msgid "For more information:"
+msgstr "Для отримання додаткової інформації:"
+
+#: ineosq_functions.php:1311
+msgid "Documentation"
+msgstr "Документація"
+
+#: ineosq_functions.php:1312
+msgid "Video Instructions"
+msgstr "Відео інструкції"
+
+#: ineosq_functions.php:1313
+msgid "Submit a Request"
+msgstr "Надіслати запит"
+
+#: ineosq_menu.php:105 class-ineosq-settings.php:1019 deprecated.php:330
+msgid "Wrong license key"
+msgstr "Невірний ключ ліцензії"
+
+#: ineosq_menu.php:127 class-ineosq-settings.php:1045 class-ineosq-settings.php:1122
+#: class-ineosq-settings.php:1160 deprecated.php:139 deprecated.php:205
+#: deprecated.php:360
+msgid ""
+"Something went wrong. Please try again later. If the error appears again, "
+"please contact us"
+msgstr ""
+"Щось не так, спробуйте пізніше. Якщо помилка повториться, будь ласка, "
+"повідомте нам"
+
+#: ineosq_menu.php:127 class-ineosq-settings.php:1045 class-ineosq-settings.php:1122
+#: class-ineosq-settings.php:1160 deprecated.php:139 deprecated.php:205
+#: deprecated.php:360
+msgid "We are sorry for inconvenience."
+msgstr "Просимо вибачення за незручності."
+
+#: ineosq_menu.php:134 class-ineosq-settings.php:1051 class-ineosq-settings.php:1166
+#: deprecated.php:145 deprecated.php:366
+msgid "Wrong license key."
+msgstr "Неправильний ліцензійний ключ."
+
+#: ineosq_menu.php:136
+msgid ""
+"This license key is bound to another site. Change it via personal Client "
+"Area."
+msgstr ""
+"Цей ліцензійний ключ прив'язано до іншого сайту. Змініть це в Client Area."
+
+#: ineosq_menu.php:136
+msgid "Log in"
+msgstr "Увійти"
+
+#: ineosq_menu.php:138 ineosq_menu.php:385 deprecated.php:267
+msgid "Unfortunately, you have exceeded the number of available tries per day."
+msgstr "На жаль, ви перевищили кількість допустимих спроб."
+
+#: ineosq_menu.php:140 deprecated.php:372
+#, php-format
+msgid ""
+"Unfortunately, Your license has expired. To continue getting top-priority "
+"support and plugin updates, you should extend it in your %s"
+msgstr ""
+"На жаль, ваша ліцензія скінчилась. Для того, щоб і надалі отримувати "
+"першочергову техпідтримку і оновлення, будь ласка, продовжте ліцензію на  %s"
+
+#: ineosq_menu.php:142 class-ineosq-settings.php:1174 deprecated.php:374
+msgid ""
+"Unfortunately, the Pro licence was already installed to this domain. The Pro "
+"Trial license can be installed only once."
+msgstr ""
+"На жаль, Pro ліцензія уже використовувалась на цьому домені.  Тріал Pro "
+"версії плагіну можна використати лише один раз."
+
+#: ineosq_menu.php:148 class-ineosq-settings.php:1066 deprecated.php:159
+msgid "The license key is valid."
+msgstr "Ліцензійний ключ дійсний."
+
+#: ineosq_menu.php:150 class-ineosq-settings.php:1070 deprecated.php:162
+msgid "Your license will expire on"
+msgstr "Ваша ліцензія закінчується"
+
+#: ineosq_menu.php:153
+msgid "Congratulations! Pro Membership license is activated successfully."
+msgstr "Вітаємо! Pro Membership ліцензія успішно активована."
+
+#: ineosq_menu.php:160 class-ineosq-settings.php:1244 deprecated.php:443
+msgid ""
+"Something went wrong. Try again later or upload the plugin manually. We are "
+"sorry for inconvenience."
+msgstr ""
+"Виникли певні проблеми. Спробуйте ще раз пізніше або завантажте плагін "
+"вручну. Просимо вибачення за незручності."
+
+#: ineosq_menu.php:171
+msgid "Please enter your license key."
+msgstr "Будь ласка, введіть ваш ліцензійний ключ."
+
+#: ineosq_menu.php:183
+msgid "Not set"
+msgstr "Не задано"
+
+#: ineosq_menu.php:186
+msgid "On"
+msgstr "Увімк"
+
+#: ineosq_menu.php:186
+msgid "Off"
+msgstr "Вимк"
+
+#: ineosq_menu.php:187 ineosq_menu.php:188 ineosq_menu.php:189 ineosq_menu.php:190
+#: ineosq_menu.php:191 ineosq_menu.php:192 ineosq_menu.php:201
+msgid "N/A"
+msgstr "Невідомо"
+
+#: ineosq_menu.php:192
+msgid "Mb"
+msgstr "Мб"
+
+#: ineosq_menu.php:193 ineosq_menu.php:194 ineosq_menu.php:195 ineosq_menu.php:199
+msgid "Yes"
+msgstr "Так"
+
+#: ineosq_menu.php:193 ineosq_menu.php:194 ineosq_menu.php:195 ineosq_menu.php:199
+msgid "No"
+msgstr "Ні"
+
+#: ineosq_menu.php:206
+msgid "WordPress Environment"
+msgstr "Системне оточення WordPress"
+
+#: ineosq_menu.php:208
+msgid "Home URL"
+msgstr "Адреса домашньої сторінки"
+
+#: ineosq_menu.php:209
+msgid "Website URL"
+msgstr "Адреса сайту"
+
+#: ineosq_menu.php:210
+msgid "WP Version"
+msgstr "Версія WordPress"
+
+#: ineosq_menu.php:211
+msgid "WP Multisite"
+msgstr "Мультисайт"
+
+#: ineosq_menu.php:212
+msgid "WP Memory Limit"
+msgstr "Ліміт пам’яті WordPress"
+
+#: ineosq_menu.php:213
+msgid "Active Theme"
+msgstr "Активна тема"
+
+#: ineosq_menu.php:213 ineosq_menu.php:258 ineosq_menu.php:261
+#, php-format
+msgid "by %s"
+msgstr "%s"
+
+#: ineosq_menu.php:217
+msgid "Server Environment"
+msgstr "Системне оточення сервера"
+
+#: ineosq_menu.php:219
+msgid "Operating System"
+msgstr "Операційна система"
+
+#: ineosq_menu.php:220
+msgid "Server"
+msgstr "Тип серверу"
+
+#: ineosq_menu.php:221
+msgid "PHP Version"
+msgstr "Версія PHP"
+
+#: ineosq_menu.php:222
+msgid "PHP Allow URL fopen"
+msgstr "Дозволити PHP URL fopen"
+
+#: ineosq_menu.php:223
+msgid "PHP Memory Limit"
+msgstr "Ліміт пам’яті"
+
+#: ineosq_menu.php:224
+msgid "Memory Usage"
+msgstr "Використання пам'яті"
+
+#: ineosq_menu.php:225
+msgid "PHP Max Upload Size"
+msgstr "Макс. розмір файлу, що завантажується"
+
+#: ineosq_menu.php:226
+msgid "PHP Max Post Size"
+msgstr "Макс. розмір посту"
+
+#: ineosq_menu.php:227
+msgid "PHP Max Script Execute Time"
+msgstr "Макс. час виконання сценарію"
+
+#: ineosq_menu.php:228
+msgid "PHP Exif support"
+msgstr "Підтримка PHP Exif"
+
+#: ineosq_menu.php:229
+msgid "PHP IPTC support"
+msgstr "Підтримка PHP IPTC"
+
+#: ineosq_menu.php:230
+msgid "PHP XML support"
+msgstr "Підтримка PHP XML"
+
+#: ineosq_menu.php:236
+msgid "Database"
+msgstr "База даних"
+
+#: ineosq_menu.php:238
+msgid "WP DB version"
+msgstr "Версія бази даних WordPress"
+
+#: ineosq_menu.php:239
+msgid "MySQL version"
+msgstr "Версія MYSQL"
+
+#: ineosq_menu.php:240
+msgid "SQL Mode"
+msgstr "Режим SQL"
+
+#: ineosq_menu.php:244
+msgid "Active Plugins"
+msgstr "Активні плагіни"
+
+#: ineosq_menu.php:249
+msgid "Inactive Plugins"
+msgstr "Не активні плагіни"
+
+#: ineosq_menu.php:270
+msgid "Please enter a valid email address."
+msgstr "Будь ласка, введіть коректний емейл."
+
+#: ineosq_menu.php:272
+#, php-format
+msgid "Email with system info is sent to %s."
+msgstr "Емейл з системною інформацією надіслано на %s."
+
+#: ineosq_menu.php:276
+msgid "Thank you for contacting us."
+msgstr "Дякуємо, що звернулись до нас."
+
+#: ineosq_menu.php:300
+msgid "Sorry, email message could not be delivered."
+msgstr "На жаль, повідомлення електронної пошти неможливо доставити."
+
+#: ineosq_menu.php:321 ineosq_menu.php:342 ineosq_menu.php:427 deprecated.php:97
+msgid "Plugins"
+msgstr "Плагіни"
+
+#: ineosq_menu.php:329 ineosq_menu.php:350 ineosq_menu.php:752 deprecated.php:98
+msgid "Themes"
+msgstr "Теми"
+
+#: ineosq_menu.php:334 ineosq_menu.php:358 ineosq_menu.php:788
+msgid "System status"
+msgstr "Системна інформація"
+
+#: ineosq_menu.php:365
+msgid "Support"
+msgstr "Підтримка"
+
+#: ineosq_menu.php:366
+msgid "Manage purchased licenses & subscriptions"
+msgstr "Управління придбаними ліцензіями і підписками"
+
+#: ineosq_menu.php:375
+#, php-format
+msgid "Get Access to %s+ Premium Plugins"
+msgstr "Отримати доступ до %s+ преміум плагинам"
+
+#: ineosq_menu.php:377
+msgid "Subscribe to Pro Membership"
+msgstr "Підписатися на Pro Membership"
+
+#: ineosq_menu.php:387 ineosq_menu.php:408 class-ineosq-settings.php:977
+#: deprecated.php:233
+msgid "Check license key"
+msgstr "Перевірте ліцензійний ключ"
+
+#: ineosq_menu.php:395
+msgid "Enter your license key"
+msgstr "Ваш ліцензійний ключ"
+
+#: ineosq_menu.php:406 ineosq_menu.php:686 ineosq_menu.php:695
+#: class-ineosq-settings.php:951 deprecated.php:265 deprecated.php:273
+#: deprecated.php:650 deprecated.php:723 deprecated.php:734
+msgid "Activate"
+msgstr "Активувати"
+
+#: ineosq_menu.php:428
+msgid "Upload Plugin"
+msgstr "Завантажити плагін"
+
+#: ineosq_menu.php:433
+#, php-format
+msgid ""
+"The plugin generated %d characters of <strong>unexpected output</strong> "
+"during activation. If you notice &#8220;headers already sent&#8221; "
+"messages, problems with syndication feeds or other issues, try deactivating "
+"or removing this plugin."
+msgstr ""
+"Цей плагін згенерував стільки символів <strong>неочікуваного виводу</strong> "
+"під час активації: %d. Якщо ви помітите повідомлення &#8220;заголовки вже "
+"надіслані&#8221;, проблеми з каналами чи інші неполадки, спробуйте вимкнути "
+"чи видалити цей плагін."
+
+#: ineosq_menu.php:435
+msgid ""
+"Plugin could not be activated because it triggered a <strong>fatal error</"
+"strong>."
+msgstr ""
+"Плагін не вдалося активувати, бо він спричинив <strong>критичну помилку</"
+"strong>."
+
+#: ineosq_menu.php:440
+msgid "Plugin <strong>activated</strong>."
+msgstr "Плагін <strong>активовано</strong>."
+
+#: ineosq_menu.php:448
+msgid "Installing Plugin"
+msgstr "Встановлення плагіну"
+
+#: ineosq_menu.php:454
+msgid "Downloading install package from"
+msgstr "Завантаження встановлюючого пакунку з"
+
+#: ineosq_menu.php:466 ineosq_menu.php:498 ineosq_menu.php:509 deprecated.php:395
+#: deprecated.php:417 deprecated.php:439
+msgid "Failed to download the zip archive. Please, upload the plugin manually"
+msgstr ""
+"Помилка при завантаженні zip-архіву. Будь ласка, завантажте плагін вручну"
+
+#: ineosq_menu.php:474
+msgid "Unpacking the package"
+msgstr "Розпакування пакета"
+
+#: ineosq_menu.php:479 ineosq_menu.php:487
+msgid "Installing the plugin"
+msgstr "Встановлення плагіну"
+
+#: ineosq_menu.php:483 deprecated.php:407
+msgid "Failed to open the zip archive. Please, upload the plugin manually"
+msgstr "Помилка при відкритті zip-архіву. Будь ласка, завантажте плагін вручну"
+
+#: ineosq_menu.php:490 deprecated.php:413
+msgid ""
+"Your server does not support either ZipArchive or Phar. Please, upload the "
+"plugin manually"
+msgstr ""
+"Ваш сервер не підтримує формати Zip і Phar. Будь ласка, завантажте плагін "
+"вручну"
+
+#: ineosq_menu.php:493
+#, php-format
+msgid "The plugin %s is successfully installed."
+msgstr "Плагін %s успішно встановлено."
+
+#: ineosq_menu.php:501 deprecated.php:420
+msgid "UploadDir is not writable. Please, upload the plugin manually"
+msgstr ""
+"Немає доступу до теки завантажень WordPress. Будь ласка, завантажте плагін "
+"вручну"
+
+#: ineosq_menu.php:506
+msgid "Activate Plugin"
+msgstr "Активувати плагін"
+
+#: ineosq_menu.php:506 ineosq_menu.php:512
+msgid "Return to IneosQ Panel"
+msgstr "Назад до IneosQ Panel"
+
+#: ineosq_menu.php:527 ineosq_menu.php:562 ineosq_menu.php:727
+msgid "All"
+msgstr "Всі"
+
+#: ineosq_menu.php:535 ineosq_menu.php:775
+msgid "Installed"
+msgstr "Встановлені"
+
+#: ineosq_menu.php:543
+msgid "Not Installed"
+msgstr "Не встановлені"
+
+#: ineosq_menu.php:550
+msgid "Filter results"
+msgstr "Фільтр результатів"
+
+#: ineosq_menu.php:553 ineosq_menu.php:718
+msgid "Category"
+msgstr "Категорія"
+
+#: ineosq_menu.php:638
+msgid "Not installed"
+msgstr "Не встановлен"
+
+#: ineosq_menu.php:642
+msgid "Renew to get updates"
+msgstr "Продовжити для поновлення"
+
+#: ineosq_menu.php:645
+#, php-format
+msgid "Update to v %s"
+msgstr "Оновити до версії %s"
+
+#: ineosq_menu.php:660 ineosq_menu.php:689
+msgid "Get Pro"
+msgstr ""
+
+#: ineosq_menu.php:666 class-ineosq-settings.php:202 class-ineosq-settings.php:1313
+msgid "Upgrade to Pro"
+msgstr "Оновити до Pro"
+
+#: ineosq_menu.php:686 ineosq_menu.php:695
+msgid "Activate this plugin"
+msgstr "Активувати плагін"
+
+#: ineosq_menu.php:700
+msgid "Install this plugin"
+msgstr "Встановити плагін"
+
+#: ineosq_menu.php:700
+msgid "Install Now"
+msgstr "Встановити"
+
+#: ineosq_menu.php:713
+msgid "Nothing found. Try another criteria."
+msgstr "Нічого не знайдено. Спробуйте інші критерії."
+
+#: ineosq_menu.php:764
+#, php-format
+msgid "By %s"
+msgstr "За %s"
+
+#: ineosq_menu.php:773
+msgid "Already Installed"
+msgstr "Уже встановлено %s"
+
+#: ineosq_menu.php:785
+msgid "Browse More WordPress Themes"
+msgstr "Огляд WordPress тем"
+
+#: ineosq_menu.php:804
+msgid "Send to support"
+msgstr "Відправити службі тех. підтримки"
+
+#: ineosq_menu.php:811
+msgid "Send to custom email &#187;"
+msgstr "Відправити на електронну адресу &#187;"
+
+#: class-ineosq-settings.php:174
+msgid "Information"
+msgstr "Інформація"
+
+#: class-ineosq-settings.php:189
+msgid "Inactive"
+msgstr "Неактивна"
+
+#: class-ineosq-settings.php:197
+msgid "Expired"
+msgstr "Закінчилась"
+
+#: class-ineosq-settings.php:200
+#, php-format
+msgid "%s day(-s) left"
+msgstr "%s днів залишилося"
+
+#: class-ineosq-settings.php:206
+#, php-format
+msgid "Expired on %s"
+msgstr "Витікає %s"
+
+#: class-ineosq-settings.php:206
+msgid "Renew Now"
+msgstr "Відновити зараз"
+
+#: class-ineosq-settings.php:208
+msgid "Active"
+msgstr "Активна"
+
+#: class-ineosq-settings.php:214
+msgid "License"
+msgstr "Ліцензія"
+
+#: class-ineosq-settings.php:217
+msgid "Status"
+msgstr "Статус"
+
+#: class-ineosq-settings.php:221
+msgid "Version"
+msgstr "Версія"
+
+#: class-ineosq-settings.php:369
+msgid "All plugin settings were restored."
+msgstr "Усі налаштування плагіну відновлені."
+
+#: class-ineosq-settings.php:546
+msgid "Custom Code"
+msgstr "Користувацький код"
+
+#: class-ineosq-settings.php:549
+msgid ""
+"Making changes to the Custom Code can crash your website. Double check all "
+"changes before saving them"
+msgstr ""
+"Внесення змін до користувацького коду може призвести до збою вашого веб-"
+"сайту. Двічі перевірте всі зміни перед їх збереженням"
+
+#: class-ineosq-settings.php:551 deprecated.php:506
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr "У вас недостатньо повноважень для редагування плагінів цього сайту."
+
+#: class-ineosq-settings.php:557 deprecated.php:639
+msgid "These styles will be added to the header on all pages of your site."
+msgstr "Ці стилі будуть додані в заголовок на всіх сторінках вашого сайту."
+
+#: class-ineosq-settings.php:561
+#, php-format
+msgid ""
+"This PHP code will be hooked to the %s Action and will be printed on front "
+"end only."
+msgstr ""
+"Цей PHP код буде прикріплений до %s action  і буде додано лише у фронтенді."
+
+#: class-ineosq-settings.php:565
+msgid "These code will be added to the header on all pages of your site."
+msgstr "Цей код буде додано в заголовок на всіх сторінках вашого сайту."
+
+#: class-ineosq-settings.php:573 deprecated.php:665
+#, php-format
+msgid ""
+"You need to make this files writable before you can save your changes. See "
+"%s the Codex %s for more information."
+msgstr ""
+"Вам потрібно зробити цей файл доступним для запису, перед тим як ви зможете "
+"зберегти свої зміни. Перегляньте %sКодекс%s для додаткової інформації."
+
+#: class-ineosq-settings.php:585 deprecated.php:647
+msgid "Browsing"
+msgstr "Огляд"
+
+#: class-ineosq-settings.php:592
+#, php-format
+msgid "Activate custom %s code."
+msgstr "Активувати користувацький %s код."
+
+#: class-ineosq-settings.php:603 deprecated.php:654
+#, php-format
+msgid "Learn more about %s"
+msgstr "Дізнатись більше про %s"
+
+#: class-ineosq-settings.php:677
+msgid "Miscellaneous Settings"
+msgstr "Інші налаштування"
+
+#: class-ineosq-settings.php:688 class-ineosq-settings.php:776
+#, php-format
+msgid ""
+"It is prohibited to change %1$s settings on this site in the %2$s network "
+"settings."
+msgstr ""
+"Заборонено змінювати налаштування %1$s на цьому сайті в налаштуваннях мережі "
+"%2$s."
+
+#: class-ineosq-settings.php:693 class-ineosq-settings.php:781
+#, php-format
+msgid ""
+"It is prohibited to view %1$s settings on this site in the %2$s network "
+"settings."
+msgstr ""
+"Заборонено переглядати налаштування %1$s на цьому сайті в налаштуваннях "
+"мережі %2$s."
+
+#: class-ineosq-settings.php:704
+msgid "Pro Options"
+msgstr "Pro опції"
+
+#: class-ineosq-settings.php:713
+msgid "Enable to display plugin Pro options."
+msgstr "Увімкніть для відображення Pro опцій плагіна."
+
+#: class-ineosq-settings.php:719
+msgid "Track Usage"
+msgstr "Збирати статистику"
+
+#: class-ineosq-settings.php:728
+msgid ""
+"Enable to allow tracking plugin usage anonymously in order to make it better."
+msgstr ""
+"Включити, щоб дозволити анонімно відстежувати використання і зробити плагін "
+"краще."
+
+#: class-ineosq-settings.php:733
+msgid "Services banner"
+msgstr "Банер послуг"
+
+#: class-ineosq-settings.php:742
+msgid "Hide Services and Ads banner."
+msgstr "Приховати банер послуг та оголошень."
+
+#: class-ineosq-settings.php:747
+msgid "Default Settings"
+msgstr "Налаштування за замовчуванням"
+
+#: class-ineosq-settings.php:749
+msgid "Restore Settings"
+msgstr "Відновлення налаштувань"
+
+#: class-ineosq-settings.php:750
+msgid "This will restore plugin settings to defaults."
+msgstr "Відновити всі налаштування плагіна до налаштувань за замовчуванням."
+
+#: class-ineosq-settings.php:765
+msgid "Import / Export"
+msgstr "Імпорт / Експорт"
+
+#: class-ineosq-settings.php:907
+msgid "License Key"
+msgstr "Ключ ліцензії"
+
+#: class-ineosq-settings.php:933
+#, php-format
+msgid "Congratulations! %s license is activated successfully."
+msgstr "Вітаємо! %s ліцензія успішно активована."
+
+#: class-ineosq-settings.php:934
+#, php-format
+msgid "You will be automatically redirected to the %s in %s seconds."
+msgstr "Вас буде автоматично перенаправлено на %s через %s секунд."
+
+#: class-ineosq-settings.php:934
+msgid "Settings page"
+msgstr "Сторінку налаштувань"
+
+#: class-ineosq-settings.php:953
+#, php-format
+msgid "Enter your license key to activate %s and get premium plugin features."
+msgstr ""
+"Введіть ліцензійний ключ для активації %s і отримання додаткових можливостей "
+"плагіна."
+
+#: class-ineosq-settings.php:956 class-ineosq-settings.php:1170 deprecated.php:370
+#: deprecated.php:728
+msgid ""
+"Unfortunately, you have exceeded the number of available tries per day. "
+"Please, upload the plugin manually."
+msgstr ""
+"На жаль, ви перевищили кількість доступних спроб на день. Будь ласка, "
+"завантажте плагін вручну."
+
+#: class-ineosq-settings.php:960 deprecated.php:716
+#, php-format
+msgid "Start Your Free %s-Day Trial Now"
+msgstr "Спробуйте %s-денну Trial версію безкоштовно"
+
+#: class-ineosq-settings.php:979
+msgid ""
+"If necessary, you can check if the license key is correct or reenter it in "
+"the field below."
+msgstr ""
+"При необхідності ви можете перевірити правильність вашого ліцензійного ключа "
+"або знову ввести його у полі, що знаходиться вище."
+
+#: class-ineosq-settings.php:990
+msgid "Manage License Settings"
+msgstr "Управління налаштуваннями ліцензій"
+
+#: class-ineosq-settings.php:992
+msgid "Login to Client Area"
+msgstr "Зайти в Client Area"
+
+#: class-ineosq-settings.php:994
+msgid ""
+"Manage active licenses, download INEOSQ products, and view your payment history "
+"using IneosQ Client Area."
+msgstr ""
+"Керуй активними ліцензіями, завантажуй INEOSQ продукти, а також переглядай "
+"історію платежів за допомогою IneosQ Client Area."
+
+#: class-ineosq-settings.php:1053 class-ineosq-settings.php:1168 deprecated.php:147
+#: deprecated.php:368
+msgid "This license key is bound to another site."
+msgstr "Цей ліцензійний ключ прив'язано до іншого сайту."
+
+#: class-ineosq-settings.php:1055 deprecated.php:149
+msgid ""
+"This license key is valid, but Your license has expired. If you want to "
+"update our plugin in future, you should extend the license."
+msgstr ""
+"Даний ліцензійний ключ дійсний, але строк вашої ліцензії витік. Якщо ви "
+"хочете оновлювати наш плагін у майбутньому, вам слід подовжити ліцензію."
+
+#: class-ineosq-settings.php:1057 deprecated.php:151
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr "На жаль, ви перевищили кількість допустимих спроб."
+
+#: class-ineosq-settings.php:1059 deprecated.php:153
+msgid ""
+"Unfortunately, the Pro Trial licence was already installed to this domain. "
+"The Pro Trial license can be installed only once."
+msgstr ""
+"На жаль, Trial Pro версія плагіну уже встановлювалась на цей домен. Trial "
+"Pro версію можна встановлювати лише один раз."
+
+#: class-ineosq-settings.php:1064 deprecated.php:157
+msgid "The Pro Trial license key is valid."
+msgstr "Ключ тріал Pro версії вірний."
+
+#: class-ineosq-settings.php:1077 deprecated.php:165 deprecated.php:252
+#, php-format
+msgid ""
+"In order to continue using the plugin it is necessary to buy a %s license."
+msgstr "Щоб продовжити користуватись плагіном, потрібно придбати %s ліцензію."
+
+#: class-ineosq-settings.php:1172
+#, php-format
+msgid ""
+"Unfortunately, Your license has expired. To continue getting top-priority "
+"support and plugin updates, you should extend it in your %s."
+msgstr ""
+"На жаль, ваша ліцензія скінчилась. Для того, щоб і надалі отримувати "
+"першочергову тех.підтримку і оновлення, будь ласка, продовжте ліцензію у %s."
+
+#: class-ineosq-settings.php:1196 class-ineosq-settings.php:1218
+#: class-ineosq-settings.php:1240
+msgid "Failed to download the zip archive. Please, upload the plugin manually."
+msgstr ""
+"Помилка при завантаженні zip-архіву. Будь ласка, завантажте плагін вручну."
+
+#: class-ineosq-settings.php:1208
+msgid "Failed to open the zip archive. Please, upload the plugin manually."
+msgstr ""
+"Помилка при відкритті zip-архіву. Будь ласка, завантажте плагін вручну."
+
+#: class-ineosq-settings.php:1214
+msgid ""
+"Your server does not support either ZipArchive or Phar. Please, upload the "
+"plugin manually."
+msgstr ""
+"Ваш сервер не підтримує формати Zip і Phar. Будь ласка, завантажте плагін "
+"вручну."
+
+#: class-ineosq-settings.php:1221
+msgid "UploadDir is not writable. Please, upload the plugin manually."
+msgstr ""
+"Немає доступу до теки завантажень WordPress. Будь ласка, завантажте плагін "
+"вручну."
+
+#: class-ineosq-settings.php:1281 deprecated.php:471
+msgid "Please, enter Your license key"
+msgstr "Будь ласка, впишіть ваш ліцензійний ключ"
+
+#: class-ineosq-settings.php:1296
+msgid "Need Help?"
+msgstr "Потрібна допомога?"
+
+#: class-ineosq-settings.php:1298
+msgid "Read the Instruction"
+msgstr "Читати інструкцію"
+
+#: class-ineosq-settings.php:1303
+msgid "Watch the Video"
+msgstr "Дивитися відео"
+
+#: class-ineosq-settings.php:1317
+msgid "Start Your Free Trial"
+msgstr "Використовувати безкоштовну Trial версію"
+
+#: class-ineosq-settings.php:1355
+msgid "Request a Feature"
+msgstr "Запропонувати функціонал"
+
+#: class-ineosq-settings.php:1361
+#, php-format
+msgid "How can we improve %s?"
+msgstr "Як ми можемо покращити %s?"
+
+#: class-ineosq-settings.php:1363
+msgid "We look forward to hear your ideas."
+msgstr "Ми будемо раді почути ваші ідеї."
+
+#: class-ineosq-settings.php:1365
+msgid "Describe your idea"
+msgstr "Опишіть свою ідею"
+
+#: class-ineosq-settings.php:1368 deactivation-form.php:123
+msgid "Send website data and allow to contact me back"
+msgstr "Надіслати дані сайту і дозволити зв'язатися зі мною"
+
+#: class-ineosq-settings.php:1373
+msgid "Submit"
+msgstr "Відправити"
+
+#: class-ineosq-settings.php:1374 deactivation-form.php:130
+msgid "Processing"
+msgstr "Обробка"
+
+#: class-ineosq-settings.php:1375
+msgid "Thank you!"
+msgstr "Дякую!"
+
+#: deactivation-form.php:25
+msgid "Need help? We are ready to answer your questions."
+msgstr "Потрібна допомога? Ми готові відповісти на ваші питання."
+
+#: deactivation-form.php:25
+msgid "Contact Support"
+msgstr "Зв'язатися з тех. підтримкою"
+
+#: deactivation-form.php:30
+msgid "The plugin is not working"
+msgstr "Плагін не працює"
+
+#: deactivation-form.php:32
+msgid "Kindly share what didn't work so we can fix it in future updates..."
+msgstr ""
+"Будь ласка, повідомте, що не працює, щоб ми змогли виправити це в майбутніх "
+"оновленнях..."
+
+#: deactivation-form.php:36
+msgid "The plugin didn't work as expected"
+msgstr "Плагін не працює, як очікувалося"
+
+#: deactivation-form.php:38
+msgid "What did you expect?"
+msgstr "Що саме ви очікували?"
+
+#: deactivation-form.php:42
+msgid "The plugin suddenly stopped working"
+msgstr "Плагін раптово перестав працювати"
+
+#: deactivation-form.php:49
+msgid "The plugin broke my site"
+msgstr "Плагін зламав мій сайт"
+
+#: deactivation-form.php:56
+msgid "I couldn't understand how to get it work"
+msgstr "Я не можу зрозуміти, як змусити його працювати"
+
+#: deactivation-form.php:63
+msgid "I found a better plugin"
+msgstr "Я знайшов кращий плагін"
+
+#: deactivation-form.php:65
+msgid "What's the plugin name?"
+msgstr "Яка назва плагіна?"
+
+#: deactivation-form.php:69
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Плагін чудовий, але мені потрібен певний функціонал, якого у вас немає"
+
+#: deactivation-form.php:71
+msgid "What feature?"
+msgstr "Який функціонал?"
+
+#: deactivation-form.php:75
+msgid "I no longer need the plugin"
+msgstr "Плагін мені більше не потрібен"
+
+#: deactivation-form.php:81
+msgid "It's a temporary deactivation, I'm just debugging an issue"
+msgstr "Це тимчасова деактивація, я просто відлагоджую проблему"
+
+#: deactivation-form.php:87
+msgid "Other"
+msgstr "Інше"
+
+#: deactivation-form.php:96
+msgid "Quick Feedback"
+msgstr "Швидкий відгук"
+
+#: deactivation-form.php:98
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+"Якщо у вас є час, будь ласка, повідомте нам, чому ви деактивуете плагін"
+
+#: deactivation-form.php:128
+msgid "Submit and Deactivate"
+msgstr "Надіслати і Деактивувати"
+
+#: deactivation-form.php:129
+msgid "Skip and Deactivate"
+msgstr "Пропустити і Деактивувати"
+
+#: deactivation-form.php:275
+msgid "Please tell us the reason so we can improve it."
+msgstr "Будь ласка, повідомте нам причину, щоб ми могли покращити плагін."
+
+#: deprecated.php:99
+msgid "System Status"
+msgstr "Системна інформація"
+
+#: deprecated.php:210
+msgid "Please, enter your license key"
+msgstr "Будь ласка, введіть ваш ліцензійний ключ"
+
+#: deprecated.php:229
+msgid ""
+"If necessary, you can check if the license key is correct or reenter it in "
+"the field below. You can find your license key on your personal page - "
+"Client Area - on our website"
+msgstr ""
+"При необхідності ви можете перевірити правильність вашого ліцензійного ключа "
+"або знову ввести його у полі, що знаходиться нижче. Ви можете знайти свій "
+"ліцензійний ключ на вашій персональній сторінці - Client area - на нашому "
+"сайті"
+
+#: deprecated.php:229
+msgid ""
+"(your username is the email address specified during the purchase). If "
+"necessary, please submit \"Lost your password?\" request."
+msgstr ""
+"(ваше ім'я користувача - це емейл, який ви вказували при купівлі). При "
+"необхідності, будь ласка, відправте запит на відновлення вашого паролю."
+
+#: deprecated.php:252
+msgid "After that, you can activate it by entering your license key."
+msgstr "Після цього ви зможете активувати його ввівши ліцензійний ключ."
+
+#: deprecated.php:255 deprecated.php:710
+msgid "License key can be found in the"
+msgstr "Ліцензійний ключ можна знайти в"
+
+#: deprecated.php:257 deprecated.php:712
+msgid "(your username is the email address specified during the purchase)."
+msgstr "(ваше ім'я користувача - це емейл, який ви вказували при купівлі)"
+
+#: deprecated.php:285
+msgid ""
+"Congratulations! The Pro license of the plugin is activated successfully."
+msgstr "Вітаємо! Pro версію плагіну успішно активовано."
+
+#: deprecated.php:287 deprecated.php:691
+msgid "Please, go to"
+msgstr "Будь ласка, перейдіть на"
+
+#: deprecated.php:287 deprecated.php:691
+msgid "the setting page"
+msgstr "сторінку установок"
+
+#: deprecated.php:288 deprecated.php:692
+msgid "You will be redirected automatically in 5 seconds."
+msgstr "Вас буде перенаправлено автоматично через 5 секунд."
+
+#: deprecated.php:323
+msgid "Check premium options on the plugin settings page!"
+msgstr "Подивіться преміум опції на сторінці налаштувань плагіна!"
+
+#: deprecated.php:487
+msgid "Restore all plugin settings to defaults"
+msgstr "Скинути налаштування плагіну до стандартних"
+
+#: deprecated.php:489
+msgid "Restore settings"
+msgstr "Скинути налаштування"
+
+#: deprecated.php:564 deprecated.php:594
+#, php-format
+msgid "File %s edited successfully."
+msgstr "Файл %s успішно відредаговано."
+
+#: deprecated.php:566 deprecated.php:596
+msgid "Not enough permissions to create or update the file"
+msgstr "У Вас недостатньо дозволів для створення або поновлення файлу"
+
+#: deprecated.php:599
+msgid "Not enough permissions to create the file"
+msgstr "У Вас недостатньо дозволів для створення файлу"
+
+#: deprecated.php:641
+#, php-format
+msgid ""
+"This PHP code will be hooked to the %s action and will be printed on front "
+"end only."
+msgstr ""
+"Цей PHP код буде прикріплений до %s action  і буде додано лише у фронтенді."
+
+#: deprecated.php:645
+msgid "Editing"
+msgstr "Редагування"
+
+#: deprecated.php:689
+msgid ""
+"Congratulations! Pro version of the plugin is  installed and activated "
+"successfully."
+msgstr "Вітаємо! Pro версію плагіну успішно завантажено та активовано."
+
+#: deprecated.php:699
+msgid "Show Pro features"
+msgstr "Показати Pro опції"
+
+#: deprecated.php:706
+msgid "Enter your license key to install and activate"
+msgstr "Введіть ліцензійний ключ для установки і активації"
+
+#: deprecated.php:708
+msgid "version of the plugin."
+msgstr "версія плагіна."
+
+#: deprecated.php:862
+#, php-format
+msgid ""
+"Your license key for %s expires on %s and you won't be granted TOP-PRIORITY "
+"SUPPORT or UPDATES."
+msgstr ""
+"Ваш ліцензійний ключ для %s витікає %s та ви більше не будете отримувати "
+"першочергову технічну підтримку та оновлення."
+
+#: product_list.php:9
+msgid "Admin Tools"
+msgstr "Інструменти"
+
+#: product_list.php:10
+msgid "Content"
+msgstr "Контент"
+
+#: product_list.php:11
+msgid "eCommerce"
+msgstr "електронна комерція"
+
+#: product_list.php:12
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: product_list.php:13
+msgid "Navigation"
+msgstr "Навігація"
+
+#: product_list.php:14
+msgid "Recommended"
+msgstr "Рекомендовані"
+
+#: product_list.php:15
+msgid "Security"
+msgstr "Безпека"
+
+#: product_list.php:16
+msgid "SEO"
+msgstr "Пошукова оптимізація"
+
+#: product_list.php:17
+msgid "SMM"
+msgstr "СММ"
+
+#: product_list.php:24
+msgid "Give a birth for your bike rental and booking WordPress website."
+msgstr "Створіть прокат та бронювання велосипедів для веб-сайту WordPress."
+
+#: product_list.php:36
+msgid "Best secure captcha plugin to protect your WordPress forms."
+msgstr "Кращий плагін капчі, який захистить форми вашого сайту WordPress."
+
+#: product_list.php:46
+msgid "Create your own rental website for car renting and booking."
+msgstr "Створіть свій власний сайт прокату і резервування автомобілів."
+
+#: product_list.php:58
+msgid ""
+"Add columns with custom content to WordPress website pages, posts, widgets, "
+"etc."
+msgstr ""
+"Додайте стовпці з користувачим вмістом на сторінки веб-сайту WordPress, "
+"повідомлення, віджети тощо."
+
+#: product_list.php:65
+msgid ""
+"Allow customers to reach you using secure contact form plugin any website "
+"must have."
+msgstr ""
+"Надайте можливість клієнтам здійснювати зв'язок з вами через безпечний "
+"плагін контактної форми, який повинен мати будь-який сайт."
+
+#: product_list.php:75
+msgid "Add unlimited number of contact forms to WordPress website."
+msgstr "Додавайте необмежену кількість контактних форм на ваш сайт WordPress."
+
+#: product_list.php:85
+msgid "Save and manage Contact Form messages. Never lose important data."
+msgstr ""
+"Зберігайте і керуйте повідомленнями плагіну Contact Form. Ніколи не "
+"втрачайте важливі дані."
+
+#: product_list.php:95
+msgid "Add unlimited custom pages to WordPress admin dashboard."
+msgstr ""
+"Додавайте необмежену кількість користувацьких сторінок у панелі "
+"адміністратора WordPress."
+
+#: product_list.php:105
+msgid ""
+"Add custom post types and taxonomies to WordPress website search results."
+msgstr ""
+"Додавайте користувацькі типи постів і таксономії у результати пошуку на "
+"вашому сайті WordPress."
+
+#: product_list.php:115
+msgid "Add PayPal and 2CO donate buttons to receive charity payments."
+msgstr ""
+"Додавайте кнопки PayPal і 2CO, щоб отримувати пожертви та благодійні внески."
+
+#: product_list.php:122
+msgid ""
+"Get latest error log messages to diagnose website problems. Define and fix "
+"issues faster."
+msgstr ""
+"Отримуйте останні повідомлення з журналу помилок для діагностики проблем "
+"сайту. Швидше виявляйте і усувайте проблеми."
+
+#: product_list.php:129
+msgid ""
+"Add Facebook Follow, Like, and Share buttons to WordPress posts, pages, and "
+"widgets."
+msgstr ""
+"Додавайте кнопки Facebook \"Підписатися\", \"Подобається\" та \"Поділитися\" "
+"у пости, сторінки і віджети сайту WordPress."
+
+#: product_list.php:139
+msgid ""
+"Add beautiful galleries, albums & images to your WordPress website in a few "
+"clicks."
+msgstr ""
+"Додавайте мальовничі галереї, альбоми, зображення та категорії галереї на "
+"ваш сайт WordPress всього в декілька кліків."
+
+#: product_list.php:149
+msgid ""
+"Stronger security solution which protects your WordPress website from hacks "
+"and unauthorized login attempts."
+msgstr ""
+"Найпотужніше рішення безпеки, яке захищає ваш сайт WordPress від зломів та "
+"неавторизованих спроб входу в систему."
+
+#: product_list.php:159
+msgid ""
+"Add Adsense ads to WordPress website pages, posts, custom posts, search "
+"results, categories, tags, and widgets."
+msgstr ""
+"Додавайте рекламу сервісу Adsense на сторінки, пости, користувацькі пости, "
+"результати пошуку, категорії, теги і віджети сайту WordPress."
+
+#: product_list.php:169
+msgid "Add Google Analytics code to WordPress website and track basic stats."
+msgstr ""
+"Додавайте код Google Analytics на ваш сайт WordPress та відстежуйте базову "
+"статистику сайту."
+
+#: product_list.php:179
+msgid "Protect WordPress website forms from spam entries with reCaptcha."
+msgstr ""
+"Захищайте форми вашого сайту WordPress від спаму за допомогою reCaptcha."
+
+#: product_list.php:189
+msgid "Add customized Google maps to WordPress posts, pages and widgets."
+msgstr ""
+"Додавайте користувацькі карти Google у пости, сторінки та віджети WordPress."
+
+#: product_list.php:199
+msgid ""
+"Generate and add XML sitemap to WordPress website. Help search engines index "
+"your blog."
+msgstr ""
+"Створюйте та додавайте файли XML sitemap на ваш сайт WordPress. Допоможіть "
+"пошуковим системам проіндексувати ваш блог."
+
+#: product_list.php:209
+msgid ""
+"Replace external WordPress website links with Google shortlinks and track "
+"click stats."
+msgstr ""
+"Замініть зовнішні посилання сайту WordPress на короткі посилання Google і "
+"відстежуйте статистику кліків."
+
+#: product_list.php:216
+msgid ""
+"Protect WordPress website – allow and deny access for certain IP addresses, "
+"hostnames, etc."
+msgstr ""
+"Захистіть свій сайт WordPress - надавайте та забороняйте доступ з певних IP-"
+"адрес, імен хостів і т.д."
+
+#: product_list.php:226
+msgid ""
+"Create your personal job board and listing WordPress website. Search jobs, "
+"submit CV/resumes, choose candidates."
+msgstr ""
+"Створюйте свою власну дошку оголошень з переліком вакансій на базі "
+"WordPress. Здійснюйте пошук вакансій, подачу резюме/CV кандидата, вибір "
+"кандидатів."
+
+#: product_list.php:233
+msgid ""
+"Protect WordPress website against brute force attacks. Limit rate of login "
+"attempts."
+msgstr ""
+"Захищайте свій сайт WordPress від брутфорс-атак. Обмежуйте кількість спроб "
+"введення логіна."
+
+#: product_list.php:243
+msgid ""
+"Add LinkedIn Share and Follow buttons to WordPress posts, pages and widgets. "
+"5 plugins included – profile, insider, etc."
+msgstr ""
+"Додавайте кнопки LinkedIn \"Поділитися\" та \"Відстежувати\" до постів, "
+"сторінок і віджетів WordPress. 5 плагінів включено - Профіль, Інсайдер і т.д."
+
+#: product_list.php:253
+msgid ""
+"Translate WordPress website content to other languages manually. Create "
+"multilingual pages, posts, widgets, menus, etc."
+msgstr ""
+"Перекладайте вміст сайту WordPress іншими мовами вручну. Створюйте "
+"багатомовні сторінки, пости, віджети, меню і т.д."
+
+#: product_list.php:263
+msgid ""
+"Add customizable pagination to WordPress website. Split long content to "
+"multiple pages for better navigation."
+msgstr ""
+"Додавайте пагінацію з можливістю налаштування на ваш сайт WordPress. "
+"Розбивайте об'ємний контент на декілька сторінок для кращої навігації."
+
+#: product_list.php:273
+msgid ""
+"Generate PDF files and print WordPress posts/pages. Customize document "
+"header/footer styles and appearance."
+msgstr ""
+"Створюйте PDF-файли і друкуйте пости/сторінки сайту WordPress. Налаштовуйте "
+"стилі хедера/футера документа і його зовнішній вигляд."
+
+#: product_list.php:283
+msgid ""
+"Add Pinterest Follow, Pin It buttons and profile widgets (Pin, Board, "
+"Profile) to WordPress posts, pages and widgets."
+msgstr ""
+"Додавайте кнопки Pinterest \"Підписатися\", \"Зберегти\" і віджети профілю "
+"(Пін, Дошка, Профіль) до постів, сторінок і віджетів WordPress."
+
+#: product_list.php:293
+msgid ""
+"Create your personal portfolio WordPress website. Manage and showcase past "
+"projects to get more clients."
+msgstr ""
+"Створюйте і додавайте портфоліо на свій сайт WordPress. Керуйте і "
+"демонструйте минулі проекти, щоб залучити більше клієнтів."
+
+#: product_list.php:303
+msgid "Export WordPress posts to CSV file format easily. Configure data order."
+msgstr ""
+"З легкістю експортуйте пости WordPress в файли формату CSV. Налаштуйте "
+"порядок відображення даних."
+
+#: product_list.php:313
+msgid ""
+"Add extra fields to default WordPress user profile. The easiest way to "
+"create and manage additional custom values."
+msgstr ""
+"Додавайте користувацькі поля у стандартний профіль WordPress. Найпростіший "
+"спосіб створення і управління додатковими полями."
+
+#: product_list.php:323
+msgid ""
+"Add and display HTML advertisement banner on WordPress website. Customize "
+"bar styles and appearance."
+msgstr ""
+"Додавайте відображення банерної HTML реклами на сайті WordPress. Налаштуйте "
+"стилі і зовнішній вигляд банеру."
+
+#: product_list.php:333
+msgid ""
+"Add customizable quotes and tips blocks to WordPress posts, pages and "
+"widgets."
+msgstr ""
+"Додавайте редаговані цитати та підказки до постів, сторінок і віджетів "
+"WordPress."
+
+#: product_list.php:340
+msgid ""
+"Add rating plugin to your WordPress website to receive feedback from your "
+"customers."
+msgstr ""
+"Додавайте систему оцінювання і рейтингу на ваш сайт WordPress і отримуйте "
+"відгуки від ваших клієнтів."
+
+#: product_list.php:350
+msgid ""
+"Create your personal real estate WordPress website. Sell, rent and buy "
+"properties. Add, search and browse listings easily."
+msgstr ""
+"Створіть свій особистий сайт агентства нерухомості на базі WordPress. "
+"Продавайте, орендуйте і купуйте нерухомість. Легко додавайте, знаходьте і "
+"переглядайте лістинги."
+
+#: product_list.php:360
+msgid ""
+"Add related, featured, latest, and popular posts to your WordPress website. "
+"Connect your blog readers with a relevant content."
+msgstr ""
+"Додавайте схожі, обрані, останні та популярні пости на ваш сайт WordPress. "
+"Надавайте своїм читачам контент схожої тематики."
+
+#: product_list.php:367
+msgid ""
+"Send bulk email messages to WordPress users. Custom templates, advanced "
+"settings and detailed reports."
+msgstr ""
+"Здійснюйте масову розсилку листів користувачам WordPress. Користувацькі "
+"шаблони, додаткові налаштування і детальні звіти."
+
+#: product_list.php:377
+msgid ""
+"The best responsive slider plugin for your WordPress website. Create "
+"beautifully animated slides just in a few clicks."
+msgstr ""
+"Найкращий адаптивний слайдер для вашого сайту WordPress. Створюйте красиво "
+"анімовані слайди всього в декілька кліків."
+
+#: product_list.php:384
+msgid ""
+"Configure SMTP server to receive email messages from WordPress to Gmail, "
+"Yahoo, Hotmail and other services."
+msgstr ""
+"Налаштовуйте SMTP-сервер, щоб отримувати електронні повідомлення з сайту "
+"WordPress на такі поштові служби, як Gmail, Yahoo, Hotmail і багато інших."
+
+#: product_list.php:391
+msgid ""
+"Add social media buttons and widgets to WordPress posts, pages and widgets. "
+"FB, Twitter, Pinterest, LinkedIn."
+msgstr ""
+"Додавайте кнопки і віджети соціальних мереж до постів, сторінок і віджетів "
+"WordPress. FB, Twitter, Pinterest, LinkedIn."
+
+#: product_list.php:401
+msgid ""
+"Add social media login, registration, and commenting to your WordPress "
+"website."
+msgstr ""
+"Додавайте на свій сайт WordPress можливість входу, реєстрації та "
+"коментування з використанням існуючих акаунтів соціальних мереж."
+
+#: product_list.php:408
+msgid ""
+"Add email newsletter sign up form to WordPress posts, pages and widgets. "
+"Collect data and subscribe your users."
+msgstr ""
+"Додавайте форму підписки на розсилку новин у пости, сторінки і віджети "
+"WordPress. Збирайте дані і здійснюйте підписку користувачів."
+
+#: product_list.php:418
+msgid ""
+"Add testimonials and feedbacks from your customers to WordPress website "
+"posts, pages, and widgets."
+msgstr ""
+"Додавайте рекомендації та відгуки ваших клієнтів в пости, сторінки і віджети "
+"сайту WordPress."
+
+#: product_list.php:425
+msgid ""
+"Best timesheet plugin for WordPress. Track employee time, streamline "
+"attendance and generate reports."
+msgstr ""
+"Кращий плагін обліку робочого часу на сайті WordPress. Відстежуйте час "
+"роботи співробітників, оптимізуйте графік роботи в офісі і створюйте звіти."
+
+#: product_list.php:435
+msgid ""
+"Add Twitter Follow, Tweet, Hashtag, and Mention buttons to WordPress posts "
+"and pages."
+msgstr ""
+"Додавайте кнопки Твіттера \"Читати\", \"Твітнути\", \"Хештеґ\" і \"Згадати\" "
+"до постів і сторінок WordPress."
+
+#: product_list.php:445
+msgid ""
+"Automatically check and update WordPress website core with all installed "
+"plugins and themes to the latest versions."
+msgstr ""
+"Виконуйте автоматичну перевірку і оновлення ядра WordPress до останніх "
+"версій з усіма встановленими плагінами та темами."
+
+#: product_list.php:455
+msgid ""
+"Powerful user role management plugin for WordPress website. Create, edit, "
+"copy, and delete user roles."
+msgstr ""
+"Ефективний плагін управління ролями користувачів для сайту WordPress. "
+"Створюйте, редагуйте, копіюйте і видаляйте ролі користувачів."
+
+#: product_list.php:465
+msgid ""
+"Display live count of online visitors who are currently browsing your "
+"WordPress website."
+msgstr ""
+"Ведіть підрахунок кількості відвідувачів, які в даний час переглядають ваш "
+"сайт WordPress."
+
+#: product_list.php:475
+msgid ""
+"Backup and export Zendesk Help Center content automatically to your "
+"WordPress website database."
+msgstr ""
+"Робіть автоматичне резервне копіювання і експорт вмісту Zendesk Help Center "
+"в базу даних вашого сайту WordPress."
+
+#~ msgid "Create your personal car rental/booking and reservation website."
+#~ msgstr "Створіть свій власний сайт прокату і резервування автомобілів."
+
+#~ msgid "Add INEOSQ Shortcode"
+#~ msgstr "Додати INEOSQ шорткод"
+
+#~ msgid "Add INEOSQ Plugins Shortcode"
+#~ msgstr "Додати шорткод INEOSQ плагіну"
+
+#~ msgid "Cancel"
+#~ msgstr "Відміна"
+
+#~ msgid "Deactivate"
+#~ msgstr "Деактивувати"
+
+#~ msgid "Add custom fields to WordPress website search results."
+#~ msgstr ""
+#~ "Додавайте користувацькі поля у результати пошуку вашого сайту WordPress."
+
+#~ msgid ""
+#~ "Add Google +1, Share, Follow, Hangout buttons and profile badge to "
+#~ "WordPress posts, pages and widgets."
+#~ msgstr ""
+#~ "Додавайте кнопки Google \"+1\", \"Поділитися\", \"Підписатися\", \"Hangout"
+#~ "\" і значок профілю до постів, сторінок та віджетів WordPress."
+
+#~ msgid "Anonymous feedback"
+#~ msgstr "Анонімний відгук"
+
+#~ msgid ""
+#~ "Protect WordPress website forms from spam entries by means of math logic."
+#~ msgstr ""
+#~ "Захищайте форми вашого сайту WordPress від зламування шляхом математичної "
+#~ "логіки."
+
+#~ msgid "Congratulations! Pro Membership license is  activated successfully."
+#~ msgstr "Вітаємо! Pro Membership ліцензія успішно активована."
+
+#~ msgid "Email with system info is sent to"
+#~ msgstr "Емейл з системною інформацією надіслано на"
+
+#~ msgid "Browse Free WordPress Themes"
+#~ msgstr "Огляд безкоштовних WordPress тем"
+
+#~ msgid ""
+#~ "You can use one license of the Pro plugin for one domain only. Please "
+#~ "check and edit your license or domain if necessary using you personal "
+#~ "Client Area. We strongly recommend you to solve the problem within 24 "
+#~ "hours, otherwise the Pro plugin will be deactivated."
+#~ msgstr ""
+#~ "Ви можете використовувати одну ліцензію Про-плагіну для одного домену. "
+#~ "Будь ласка, переконайтесь, що інформацію щодо ліцензії і домену введено "
+#~ "вірно, у вкладці Client Area. Ми настійливо рекомендуємо Вам вирішити це "
+#~ "питання протягом 24 годин, інакше плагін буде деактивовано."
+
+#~ msgid "Insert"
+#~ msgstr "Вставити"
+
+#~ msgid ""
+#~ "Automatically add outgoing email messages to queue instead of sending "
+#~ "them immediately."
+#~ msgstr ""
+#~ "Автоматично формуйте чергу відправки вихідних електронних повідомлень. "
+#~ "Задавайте час і пріоритет розсилки."
+
+#~ msgid ""
+#~ "Add unlimited gallery categories. Organize images to make the navigation "
+#~ "through content easier."
+#~ msgstr ""
+#~ "Додавайте необмежену кількість категорій галерей. Групуйте зображення, "
+#~ "щоб спростити навігацію контентом."
+
+#~ msgid ""
+#~ "Attach, un-attach and re-attach media files quickly to WordPress posts "
+#~ "and pages."
+#~ msgstr ""
+#~ "Прикріплюйте, відкріплюйте і повторно прикріплюйте медіа файли до постів "
+#~ "і сторінок WordPress."
+
+#~ msgid ""
+#~ "Add related posts to WordPress website posts or widgets. Link your "
+#~ "readers to relevant content."
+#~ msgstr ""
+#~ "Додавайте пов'язані публікації у пости або віджети сайту WordPress. "
+#~ "Надавайте своїм читачам контент схожої тематики."
+
+#~ msgid "Advertisement"
+#~ msgstr "Реклама"
+
+#~ msgid "Content & Media"
+#~ msgstr "Зміст та мультимедійні елементи"
+
+#~ msgid "Management"
+#~ msgstr "Управління"
+
+#~ msgid "Site Stats"
+#~ msgstr "Статистика сайту"
+
+#~ msgid "Social"
+#~ msgstr "Соціальні сервіси"
+
+#~ msgid "Utilities"
+#~ msgstr "Утиліти"
+
+#~ msgid ""
+#~ "Manage database and file system right from your WordPress admin dashboard."
+#~ msgstr ""
+#~ "Керуйте базою даних і файловою системою прямо з панелі адміністратора "
+#~ "WordPress."
+
+#~ msgid ""
+#~ "Add featured posts to WordPress website posts and widgets. Highlight "
+#~ "important information."
+#~ msgstr ""
+#~ "Додавайте обрані публікації до постів і віджетів сайту WordPress. "
+#~ "Підкреслюйте важливу інформацію."
+
+#~ msgid ""
+#~ "Add widgets Latest Posts or Latest Posts for Selected Categories to your "
+#~ "WordPress website."
+#~ msgstr ""
+#~ "Додавайте віджет найновішіх постів або найновішіх постів для обраних "
+#~ "категорій на сайт WordPress."
+
+#~ msgid ""
+#~ "Track views, comments and add the most popular posts to Wordpress widgets."
+#~ msgstr ""
+#~ "Відстежуйте перегляди, коментарі та додавайте найпопулярніші пости у "
+#~ "віджети сайту Wordpress."
+
+#~ msgid ""
+#~ "Add latest posts or latest posts for selected categories widgets to "
+#~ "WordPress website."
+#~ msgstr ""
+#~ "Додавайте віджет найновішіх постів або найновішіх постів для обраних "
+#~ "категорій на сайт WordPress."
+
+#~ msgid "Thank you for installing"
+#~ msgstr "Дякуємо, що встановили"
+
+#~ msgid "Thank you for choosing"
+#~ msgstr "Дякуємо, що обрали"
+
+#~ msgid "You will be automatically redirected to the %s in 7 seconds."
+#~ msgstr "Вас буде автоматично перенаправлено на %s через 7 секунд."
+
+#~ msgid "PHP Safe Mode"
+#~ msgstr "PHP Безпечний режим"
+
+#~ msgid "You license for"
+#~ msgstr "Ваша ліцензія для"
+
+#~ msgid "expires on"
+#~ msgstr "витікає"
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Цей ліцензійний ключ прив'язано до іншого сайту"
+
+#~ msgid "Successfully installed the plugin"
+#~ msgstr "Успішно встановлено плагін"
+
+#~ msgid "Please, go to %s"
+#~ msgstr "Будь ласка, перейдіть на %s"
+
+#~ msgid "Trial"
+#~ msgstr "Триал"
+
+#~ msgid "Client Area"
+#~ msgstr "Client Area"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Якщо вам сподобався плагін, будь ласка, поставте нам 5 зірочок на "
+#~ "WordPress"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Якщо щось не так, будь ласка, повідомте нам"
+
+#~ msgid "Donations play an important role in supporting great projects"
+#~ msgstr "Пожертви грають важливу роль в підтримці проектів"
+
+#~ msgid "WordPress Version"
+#~ msgstr "Версія WordPress"
+
+#~ msgid "Activate Membership"
+#~ msgstr "Активувати Membership"
+
+#~ msgid "Don’t have valid license key yet?"
+#~ msgstr "Немає чинного ліцензійного ключа?"
+
+#~ msgid ""
+#~ "Join IneosQ Pro Membership today, cancel any time and use all "
+#~ "plugins on a single website %s for only %s per month."
+#~ msgstr ""
+#~ "Приєднуйтесь до IneosQ Pro Membership сьогодні, скасовуйте підписку "
+#~ "в будь-який час і використовуйте всі плагіни на одному сайті %s всього "
+#~ "лише за %s в місяць."
+
+#~ msgid "My Account"
+#~ msgstr "Мій аккаунт"
+
+#~ msgid "INEOSQ Panel"
+#~ msgstr "INEOSQ Панель"
+
+#~ msgid "panel"
+#~ msgstr "панель"
+
+#~ msgid "You can download and activate"
+#~ msgstr "Ви можете завантажити та активувати"
+
+#~ msgid "version of this plugin by entering Your license key."
+#~ msgstr "версію цього плагіну, якщо впишете ваш ліцензійний ключ."
+
+#~ msgid ""
+#~ "You can find your license key on your personal page Client area, by "
+#~ "clicking on the link"
+#~ msgstr ""
+#~ "Ви можете знайти ваш ліцензійний ключ на вашій персональній сторінці у "
+#~ "Client area, перейшовши за посиланням"
+
+#~ msgid "Configure Settings"
+#~ msgstr "Налаштувати плагін"
+
+#~ msgid "Go"
+#~ msgstr "Перейти"
+
+#~ msgid "DONATE"
+#~ msgstr "Підтримати нас"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Рекомендовані плагіни"
+
+#~ msgid "Install now"
+#~ msgstr "Встановити"
+
+#~ msgid "Try again"
+#~ msgstr "Спробувати ще раз"
+
+#~ msgid "Preview &#8220;%s&#8221;"
+#~ msgstr "Попередній перегляд &#8220;%s&#8221;"
+
+#~ msgid "Install %s"
+#~ msgstr "Встановити %s"
+
+#~ msgid "Update"
+#~ msgstr "Оновити"
+
+#~ msgid "Preview %s"
+#~ msgstr "Попередній перегляд %s"
+
+#~ msgid "Preview"
+#~ msgstr "Попередній перегляд"
+
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product), "
+#~ "where you can make the necessary changes."
+#~ msgstr ""
+#~ "(ім'я користувача - це електронна адреса, яку ви вказуєте при купівлі "
+#~ "продукту), де ви можете внести потрібні зміни."
+
+#~ msgid "Activated plugins"
+#~ msgstr "Активовані плагіни"
+
+#~ msgid "Read more"
+#~ msgstr "Детальніше..."
+
+#~ msgid "Purchase"
+#~ msgstr "Купити"
+
+#~ msgid "Free plugins"
+#~ msgstr "Безкоштовні плагіни"
+
+#~ msgid "Download"
+#~ msgstr "Завантажити"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Установити з wordpress.org"
+
+#, fuzzy
+#~ msgid "Installed themes"
+#~ msgstr "Установлено %s"
+
+#, fuzzy
+#~ msgid "Recommended themes"
+#~ msgstr "Рекомендовані до установки плагіни"
+
+#, fuzzy
+#~ msgid "installed"
+#~ msgstr "Установлено %s"
+
+#~ msgid "Login form"
+#~ msgstr "Форма логина"
+
+#~ msgid "Registration form"
+#~ msgstr "Форма регистрации"
+
+#~ msgid "Register form"
+#~ msgstr "Форма регистрации"
+
+#~ msgid "Reset Password form"
+#~ msgstr "Форма восстановления пароля"
+
+#~ msgid "Lost password form"
+#~ msgstr "Форма восстановления пароля"
+
+#~ msgid "Comments form"
+#~ msgstr "Форма комментариев"
+
+#~ msgid "Hide CAPTCHA for registered users"
+#~ msgstr "Не отображать для зарегистрированных пользователей"
+
+#~ msgid "Plus (&#43;)"
+#~ msgstr "Плюс (&#43;)"
+
+#~ msgid "Plus"
+#~ msgstr "Плюс (&#43;)"
+
+#~ msgid "Minus (&minus;)"
+#~ msgstr "Минус (&minus;)"
+
+#~ msgid "Minus"
+#~ msgstr "Минус (&minus;)"
+
+#~ msgid "Multiplication (&times;)"
+#~ msgstr "Умножение (&times;)"
+
+#~ msgid "Multiply"
+#~ msgstr "Умножить"
+
+#~ msgid "Numbers"
+#~ msgstr "Цифры"
+
+#~ msgid "Words"
+#~ msgstr "Слова"
+
+#~ msgid "Captcha"
+#~ msgstr "КАПЧА"
+
+#~ msgid ""
+#~ "Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+#~ msgstr ""
+#~ "Пожалуйста, выберите 1 пункт из блока Арифметические дейтсвия и Сложность "
+#~ "для КАПЧИ"
+
+#~ msgid "Options saved."
+#~ msgstr "Опции сохранены"
+
+#~ msgid "Enable CAPTCHA for:"
+#~ msgstr "Отображать КАПЧУ для:"
+
+#~ msgid "Contact form"
+#~ msgstr "Контактная форма"
+
+#~ msgid "(powered by ineosq.com)"
+#~ msgstr "(разработано компанией ineosq.com)"
+
+#~ msgid "Activate contact form"
+#~ msgstr "Активировать контакную форму"
+
+#~ msgid ""
+#~ "If you would like to customize this plugin for a custom form, please "
+#~ "contact us via"
+#~ msgstr ""
+#~ "Если вы хотите кастомизировать плагин для кастомной формы, обращайтесь на"
+
+#~ msgid "Title for CAPTCHA in the form"
+#~ msgstr "Заголовок для КАПЧИ в форме"
+
+#~ msgid "Arithmetic actions for CAPTCHA"
+#~ msgstr "Арифметические действия для КАПЧИ"
+
+#~ msgid "CAPTCHA complexity level"
+#~ msgstr "Уровень сложности КАПЧИ"
+
+#~ msgid "ERROR"
+#~ msgstr "Ошибка"
+
+#~ msgid "Please fill the form."
+#~ msgstr "Пожалуйста, заполните КАПЧУ."
+
+#~ msgid "Please enter a valid CAPTCHA value."
+#~ msgstr "Пожалуйста, заполните КАПЧУ."
+
+#~ msgid ""
+#~ "Error: You have entered an incorrect CAPTCHA value. Click the BACK button "
+#~ "on your browser, and try again."
+#~ msgstr ""
+#~ "Ошибка: Вы ввели КАПЧУ неправильно. Надмите НАЗАД в браузере и попробуйте "
+#~ "еще раз"
+
+#~ msgid "zero"
+#~ msgstr "ноль"
+
+#~ msgid "one"
+#~ msgstr "один"
+
+#~ msgid "three"
+#~ msgstr "три"
+
+#~ msgid "five"
+#~ msgstr "пять"
+
+#~ msgid "six"
+#~ msgstr "шесть"
+
+#~ msgid "seven"
+#~ msgstr "семь"
+
+#~ msgid "eight"
+#~ msgstr "восемь"
+
+#~ msgid "nine"
+#~ msgstr "девять"
+
+#~ msgid "eleven"
+#~ msgstr "одиннадцать"
+
+#~ msgid "twelve"
+#~ msgstr "двенадать"
+
+#~ msgid "thirteen"
+#~ msgstr "тринадцать"
+
+#~ msgid "fourteen"
+#~ msgstr "четырнадать"
+
+#~ msgid "fifteen"
+#~ msgstr "пятнадцать"
+
+#~ msgid "sixteen"
+#~ msgstr "шестнадцать"
+
+#~ msgid "seventeen"
+#~ msgstr "семнадцать"
+
+#~ msgid "eighteen"
+#~ msgstr "восемнадцать"
+
+#~ msgid "nineteen"
+#~ msgstr "девятнадцать"
+
+#~ msgid "ten"
+#~ msgstr "десять"
+
+#~ msgid "twenty"
+#~ msgstr "двадцать"
+
+#~ msgid "thirty"
+#~ msgstr "тридцать"
+
+#~ msgid "forty"
+#~ msgstr "сорок"
+
+#~ msgid "fifty"
+#~ msgstr "пятьдесят"
+
+#~ msgid "sixty"
+#~ msgstr "шестьдесят"
+
+#~ msgid "seventy"
+#~ msgstr "семьдесят"
+
+#~ msgid "eighty"
+#~ msgstr "восемьдесят"
+
+#~ msgid "ninety"
+#~ msgstr "девяносто"
+
+#~ msgid "and"
+#~ msgstr "и"
+
+#~ msgid "Encryption password is not set"
+#~ msgstr "Пароль для шифрования не установлен"
+
+#~ msgid "Decryption password is not set"
+#~ msgstr "Пароль для дешифровки не установлен"
+
+#~ msgid ""
+#~ "If you have any questions, please contact us via plugin@ineosq.com "
+#~ "or fill in the contact form on our website"
+#~ msgstr ""
+#~ "Если у вас есть какие-то впросы, обращайтесь на plugin@ineosq.com "
+#~ "или заполните контактную форму на нашем сайте"
+
+#~ msgid "The password of encryption is not set"
+#~ msgstr "Пароль для шифрования не установлен"
+
+#~ msgid "Increase"
+#~ msgstr "Умножить"
+
+#~ msgid "Difficulty for CAPTCHA"
+#~ msgstr "Уровень сложности КАПЧИ"
+
+#~ msgid "That CAPTCHA was incorrect."
+#~ msgstr "КАПЧА введена некорректно"
+
+#~ msgid "null"
+#~ msgstr "ноль"

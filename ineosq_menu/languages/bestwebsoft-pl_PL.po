@@ -1,0 +1,2179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ineosq\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-15 10:47+0200\n"
+"PO-Revision-Date: 2021-02-15 10:47+0200\n"
+"Last-Translator: ineosq.com <plugins@ineosq.com>\n"
+"Language-Team: Damian Dąbrowski <contact@codester.pl>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: ineosq_functions.php:73 ineosq_functions.php:239
+msgid "requires"
+msgstr "wymaga wersja"
+
+#: ineosq_functions.php:75
+msgid ""
+"or higher, that is why it has been deactivated! Please upgrade WordPress and "
+"try again."
+msgstr ""
+"lub nowsza, dlatego wtyczka została wyłączona. Zaktualizuj WordPress i "
+"spróbuj ponownie."
+
+#: ineosq_functions.php:76
+msgid "Back to the WordPress"
+msgstr "Wróć do WordPress"
+
+#: ineosq_functions.php:78
+msgid "Plugins page"
+msgstr "Wtyczki"
+
+#: ineosq_functions.php:92
+#, fuzzy
+msgid "Like the plugin?"
+msgstr "Oceń wtyczkę"
+
+#: ineosq_functions.php:93
+#, php-format
+msgid "%s reviews"
+msgstr ""
+
+#: ineosq_functions.php:94
+msgid "Rate it"
+msgstr ""
+
+#: ineosq_functions.php:103
+msgid "Need help?"
+msgstr "Potrzebujesz pomocy?"
+
+#: ineosq_functions.php:104 ineosq_functions.php:949 class-ineosq-settings.php:1127
+msgid "Visit Help Center"
+msgstr ""
+
+#: ineosq_functions.php:107
+#, fuzzy
+msgid "Want to support the plugin?"
+msgstr "Oceń wtyczkę"
+
+#: ineosq_functions.php:108 ineosq_menu.php:556
+msgid "Donate"
+msgstr ""
+
+#: ineosq_functions.php:128
+msgid "WARNING: Illegal use notification"
+msgstr "UWAGA: Odnotowano nielegalne użycie"
+
+#: ineosq_functions.php:128
+msgid ""
+"You can use one license of the Pro plugin for one domain only. Please check "
+"and edit your license or domain if necessary using your personal Client "
+"Area. We strongly recommend you to solve the problem within 24 hours, "
+"otherwise the Pro plugin will be deactivated."
+msgstr ""
+
+#: ineosq_functions.php:128 ineosq_functions.php:208 ineosq_menu.php:627
+#: class-ineosq-settings.php:179 deprecated.php:781
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+#: ineosq_functions.php:145
+#, fuzzy
+msgid ""
+"Notice: Your Pro Trial license has expired. To continue using the plugin, "
+"you should buy a Pro license"
+msgstr ""
+"Uwaga: Testowa wersja PRO niestety wygasła. Aby kontynuować korzystanie z "
+"naszej wtyczki powinieneś zakupić klucz licencji."
+
+#: ineosq_functions.php:147
+#, fuzzy
+msgid ""
+"Your license has expired. To continue getting top-priority support and "
+"plugin updates, you should extend it."
+msgstr ""
+"Twoja licencja wygasła. Aby podtrzymać szybki dostęp do pomocy i "
+"aktualizacji powinieneś przedłużyć licencję."
+
+#: ineosq_functions.php:147 ineosq_functions.php:226 deprecated.php:586
+#: deprecated.php:834
+msgid "Learn more"
+msgstr "Dowiedz się więcej"
+
+#: ineosq_functions.php:165
+#, php-format
+msgid "Notice: You are using the Pro Trial license of %s plugin."
+msgstr "Uwaga: Wykorzystujesz próbną licencję wersji PRO dla %s."
+
+#: ineosq_functions.php:167
+msgid "Notice: You are using the Pro Trial license of plugin."
+msgstr "Uwaga: Wykorzystywana jest próbna licencja wtyczki."
+
+#: ineosq_functions.php:170
+msgid "The Pro Trial license will expire on"
+msgstr "Licencja próbna wygaśnie"
+
+#: ineosq_functions.php:199 ineosq_functions.php:222 ineosq_functions.php:266
+#: ineosq_functions.php:276 ineosq_functions.php:475 deprecated.php:772
+#: deprecated.php:830
+msgid "Close notice"
+msgstr "Zamknij powiadomienie"
+
+#: ineosq_functions.php:204 deprecated.php:777
+msgid "It’s time to upgrade your"
+msgstr "Czas by zaktualizować"
+
+#: ineosq_functions.php:204 deprecated.php:777
+msgid "to"
+msgstr "do"
+
+#: ineosq_functions.php:204 deprecated.php:777
+msgid "version!"
+msgstr "wersji!"
+
+#: ineosq_functions.php:205 deprecated.php:778
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Rozszerz podstawowe funkcje wtyczki o nowe wspaniałe opcje."
+
+#: ineosq_functions.php:226 deprecated.php:834
+#, fuzzy, php-format
+msgid ""
+"Your license key for %s expires on %s and you won't be granted TOP-PRIORITY "
+"SUPPORT or UPDATES."
+msgstr ""
+"zostaniesz wówczas pozbawiony SZYBKIEGO DOSTĘDO DO SUPPORTU oraz "
+"AKTUALIZACJI."
+
+#: ineosq_functions.php:241
+msgid ""
+"or higher! We do not guarantee that our plugin will work correctly. Please "
+"upgrade to WordPress latest version."
+msgstr ""
+"lub nowsza! Nie gwarantujemy, że nasza wtyczka będzie działała poprawnie. "
+"Proszę zaktualizować WordPress do najnowszej wersji."
+
+#: ineosq_functions.php:256
+#, php-format
+msgid "Thank you for installing %s plugin!"
+msgstr ""
+
+#: ineosq_functions.php:258
+msgid "Let's get started"
+msgstr "Zaczynajmny"
+
+#: ineosq_functions.php:259 ineosq_functions.php:292 ineosq_menu.php:560
+#: ineosq_menu.php:562
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ineosq_functions.php:261 ineosq_menu.php:327 class-ineosq-settings.php:795
+#: class-ineosq-settings.php:1129 class-ineosq-settings.php:1139 deprecated.php:697
+msgid "or"
+msgstr "lub"
+
+#: ineosq_functions.php:262 ineosq_functions.php:294
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ineosq_functions.php:281
+#, fuzzy
+msgid "Thank you for installing plugins by IneosQ!"
+msgstr "Dziękujemy za instalację"
+
+#: ineosq_functions.php:283
+#, fuzzy
+msgid "More Details"
+msgstr "Szczegóły"
+
+#: ineosq_functions.php:284
+#, fuzzy
+msgid "Less Details"
+msgstr "Szczegóły"
+
+#: ineosq_functions.php:312
+msgid "Deprecated function(-s) is used on the site here:"
+msgstr ""
+
+#: ineosq_functions.php:326
+msgid ""
+"This function(-s) will be removed over time. Please update the product(-s)."
+msgstr ""
+
+#: ineosq_functions.php:470
+#, php-format
+msgid "Thank you for choosing %s plugin!"
+msgstr ""
+
+#: ineosq_functions.php:471
+msgid ""
+"If you have a feature, suggestion or idea you'd like to see in the plugin, "
+"we'd love to hear about it!"
+msgstr ""
+
+#: ineosq_functions.php:472
+msgid "Suggest a Feature"
+msgstr ""
+
+#: ineosq_functions.php:488 class-ineosq-settings.php:580 class-ineosq-settings.php:583
+#: class-ineosq-settings.php:635 class-ineosq-settings.php:638
+msgid "Notice"
+msgstr "Uwaga"
+
+#: ineosq_functions.php:488
+msgid "The plugin's settings have been changed."
+msgstr "Ustawienia wtyczki zostały zmienione."
+
+#: ineosq_functions.php:489 class-ineosq-settings.php:222 class-ineosq-settings.php:242
+#: deprecated.php:642
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: ineosq_functions.php:503
+#, fuzzy
+msgid ""
+"You can always look at premium options by checking the \"Pro Options\" in "
+"the \"Misc\" tab."
+msgstr ""
+"Zawsze możesz sprawdzić funkcje premium poprzez kliknięcie \"Pokaż funkcje "
+"PRO\" w zakładce \"Go PRO\""
+
+#: ineosq_functions.php:679
+#, fuzzy
+msgid "Add shortcode"
+msgstr "Dodaj INEOSQ Shortcode"
+
+#: ineosq_functions.php:679
+msgid "Add IneosQ plugins' shortcodes using this button."
+msgstr ""
+
+#: ineosq_functions.php:765
+msgid "Close"
+msgstr "Zamknij"
+
+#: ineosq_functions.php:851
+#, fuzzy
+msgid "Are you sure you want to restore default settings?"
+msgstr ""
+"Czy jesteś pewien, że chcesz przywrócić wszystkie ustawienia do wartości "
+"domyślnych?"
+
+#: ineosq_functions.php:854
+msgid "Yes, restore all settings"
+msgstr "Tak, przywróć wszystkie ustawienia"
+
+#: ineosq_functions.php:855
+msgid "No, go back to the settings page"
+msgstr "Nie, wróć do ustawień"
+
+#: ineosq_functions.php:897
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: ineosq_functions.php:906
+msgid "Shortcode settings"
+msgstr "Ustawienia shortcode"
+
+#: ineosq_functions.php:911
+msgid "The shortcode will be inserted"
+msgstr "Shortcode zostanie umieszczony"
+
+#: ineosq_functions.php:954
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ineosq_functions.php:960
+msgid "For more information:"
+msgstr ""
+
+#: ineosq_functions.php:961
+msgid "Documentation"
+msgstr ""
+
+#: ineosq_functions.php:962
+msgid "Video Instructions"
+msgstr ""
+
+#: ineosq_functions.php:963
+#, fuzzy
+msgid "Submit a Request"
+msgstr "送信ボタン"
+
+#: ineosq_menu.php:101 class-ineosq-settings.php:845 deprecated.php:323
+msgid "Wrong license key"
+msgstr "Niepoprawny klucz licencji"
+
+#: ineosq_menu.php:122 class-ineosq-settings.php:872 class-ineosq-settings.php:951
+#: class-ineosq-settings.php:989 deprecated.php:133 deprecated.php:199
+#: deprecated.php:353
+msgid ""
+"Something went wrong. Please try again later. If the error appears again, "
+"please contact us"
+msgstr ""
+"Coś poszło nie tak. Spróbuj ponownie później. Jeśli błąd pojawi się ponownie "
+"proszę skontaktować się z nami"
+
+#: ineosq_menu.php:122 class-ineosq-settings.php:872 class-ineosq-settings.php:951
+#: class-ineosq-settings.php:989 deprecated.php:133 deprecated.php:199
+#: deprecated.php:353
+msgid "We are sorry for inconvenience."
+msgstr "Przepraszamy za niedogodności."
+
+#: ineosq_menu.php:129 class-ineosq-settings.php:878 class-ineosq-settings.php:995
+#: deprecated.php:139 deprecated.php:359
+msgid "Wrong license key."
+msgstr "Niepoprawny klucz licencji"
+
+#: ineosq_menu.php:131
+#, fuzzy
+msgid ""
+"This license key is bound to another site. Change it via personal Client "
+"Area."
+msgstr "Klucz licencji został przypisany do innej strony."
+
+#: ineosq_menu.php:131
+msgid "Log in"
+msgstr ""
+
+#: ineosq_menu.php:133 ineosq_menu.php:333 deprecated.php:261
+msgid "Unfortunately, you have exceeded the number of available tries per day."
+msgstr "Niestety, przekroczono dzienną liczbę dostępnych prób."
+
+#: ineosq_menu.php:135 deprecated.php:365
+#, fuzzy, php-format
+msgid ""
+"Unfortunately, Your license has expired. To continue getting top-priority "
+"support and plugin updates, you should extend it in your %s"
+msgstr ""
+"Niestety, Twoja licencja wygasła. By nadal korzystać z szybkiego dostępu do "
+"wsparcia oraz aktualizacji powinieneś przedłużyć licencję."
+
+#: ineosq_menu.php:137 class-ineosq-settings.php:1003 deprecated.php:367
+msgid ""
+"Unfortunately, the Pro licence was already installed to this domain. The Pro "
+"Trial license can be installed only once."
+msgstr ""
+"Niestety, licencja PRO była już przypisana do tej domeny. Licencja testowa "
+"może być wykorzystana tylko raz."
+
+#: ineosq_menu.php:143 class-ineosq-settings.php:893 deprecated.php:153
+msgid "The license key is valid."
+msgstr "Klucz licencji jest poprawny"
+
+#: ineosq_menu.php:145 class-ineosq-settings.php:897 deprecated.php:156
+msgid "Your license will expire on"
+msgstr "Twoja licencja wygaśnie"
+
+#: ineosq_menu.php:147
+msgid "Congratulations! Pro Membership license is activated successfully."
+msgstr ""
+
+#: ineosq_menu.php:154 class-ineosq-settings.php:1073 deprecated.php:436
+msgid ""
+"Something went wrong. Try again later or upload the plugin manually. We are "
+"sorry for inconvenience."
+msgstr ""
+"Coś poszło nie tak. Spróbuj ponowie później lub dodaj wtyczkę manualnie. "
+"Przepraszamy za niedogodności."
+
+#: ineosq_menu.php:164
+#, fuzzy
+msgid "Please enter your license key."
+msgstr "Podaj klucz licencji"
+
+#: ineosq_menu.php:175
+msgid "Not set"
+msgstr "Nie ustawiono"
+
+#: ineosq_menu.php:177
+msgid "On"
+msgstr "Włączone"
+
+#: ineosq_menu.php:177
+msgid "Off"
+msgstr "Wyłączone"
+
+#: ineosq_menu.php:178 ineosq_menu.php:179 ineosq_menu.php:180 ineosq_menu.php:181
+#: ineosq_menu.php:182 ineosq_menu.php:183 ineosq_menu.php:192
+msgid "N/A"
+msgstr "Brak danych"
+
+#: ineosq_menu.php:183
+#, fuzzy
+#| msgid " Mb"
+msgid "Mb"
+msgstr " Mb"
+
+#: ineosq_menu.php:184 ineosq_menu.php:185 ineosq_menu.php:186 ineosq_menu.php:190
+msgid "Yes"
+msgstr "Tak"
+
+#: ineosq_menu.php:184 ineosq_menu.php:185 ineosq_menu.php:186 ineosq_menu.php:190
+msgid "No"
+msgstr "Nie"
+
+#: ineosq_menu.php:197
+#, fuzzy
+msgid "WordPress Environment"
+msgstr "Środowisko"
+
+#: ineosq_menu.php:199
+msgid "Home URL"
+msgstr "Adres strony głównej:"
+
+#: ineosq_menu.php:200
+#, fuzzy
+msgid "Website URL"
+msgstr "Adres strony:"
+
+#: ineosq_menu.php:201
+#, fuzzy
+msgid "WP Version"
+msgstr "Wersja PHP"
+
+#: ineosq_menu.php:202
+#, fuzzy
+msgid "WP Multisite"
+msgstr "Multisite"
+
+#: ineosq_menu.php:203
+#, fuzzy
+msgid "WP Memory Limit"
+msgstr "PHP Limit pamięci"
+
+#: ineosq_menu.php:204
+msgid "Active Theme"
+msgstr "Aktywny motyw"
+
+#: ineosq_menu.php:204 ineosq_menu.php:249 ineosq_menu.php:252
+#, fuzzy, php-format
+msgid "by %s"
+msgstr "Od %s"
+
+#: ineosq_menu.php:208
+#, fuzzy
+msgid "Server Environment"
+msgstr "Środowisko"
+
+#: ineosq_menu.php:210
+msgid "Operating System"
+msgstr "System operacyjny"
+
+#: ineosq_menu.php:211
+msgid "Server"
+msgstr "Serwer"
+
+#: ineosq_menu.php:212
+msgid "PHP Version"
+msgstr "Wersja PHP"
+
+#: ineosq_menu.php:213
+msgid "PHP Allow URL fopen"
+msgstr "Zezwól na PHP fopen"
+
+#: ineosq_menu.php:214
+msgid "PHP Memory Limit"
+msgstr "PHP Limit pamięci"
+
+#: ineosq_menu.php:215
+#, fuzzy
+msgid "Memory Usage"
+msgstr "Wykorzystanie pamięci"
+
+#: ineosq_menu.php:216
+msgid "PHP Max Upload Size"
+msgstr "PHP Max rozmiar przesyłanego pliku"
+
+#: ineosq_menu.php:217
+msgid "PHP Max Post Size"
+msgstr "PHP Max rozmiar przesyłania POST"
+
+#: ineosq_menu.php:218
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max czas przetwarzania skryptu"
+
+#: ineosq_menu.php:219
+msgid "PHP Exif support"
+msgstr "PHP Wsparcie Exif"
+
+#: ineosq_menu.php:220
+msgid "PHP IPTC support"
+msgstr "PHP Wsparcie IPTC"
+
+#: ineosq_menu.php:221
+msgid "PHP XML support"
+msgstr "PHP Wsparcie XML"
+
+#: ineosq_menu.php:227
+msgid "Database"
+msgstr ""
+
+#: ineosq_menu.php:229
+#, fuzzy
+msgid "WP DB version"
+msgstr "Wersja Bazy Danych dla WordPress"
+
+#: ineosq_menu.php:230
+#, fuzzy
+msgid "MySQL version"
+msgstr "Wersja MySQL"
+
+#: ineosq_menu.php:231
+msgid "SQL Mode"
+msgstr "Tryb SQL"
+
+#: ineosq_menu.php:235
+msgid "Active Plugins"
+msgstr "Aktywne wtyczki"
+
+#: ineosq_menu.php:240
+msgid "Inactive Plugins"
+msgstr "Nieaktywne wtyczki"
+
+#: ineosq_menu.php:261
+msgid "Please enter a valid email address."
+msgstr "Podaj poprawny adres email"
+
+#: ineosq_menu.php:263
+#, php-format
+msgid "Email with system info is sent to %s."
+msgstr ""
+
+#: ineosq_menu.php:267
+msgid "Thank you for contacting us."
+msgstr "Dziękujemy za kontakt."
+
+#: ineosq_menu.php:290
+msgid "Sorry, email message could not be delivered."
+msgstr "Przepraszamy, wiadomość nie została dostarczona."
+
+#: ineosq_menu.php:306 ineosq_menu.php:310 ineosq_menu.php:359 deprecated.php:91
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: ineosq_menu.php:307 ineosq_menu.php:311 ineosq_menu.php:614 deprecated.php:92
+msgid "Themes"
+msgstr "Motywy"
+
+#: ineosq_menu.php:308 ineosq_menu.php:312 ineosq_menu.php:644
+msgid "System status"
+msgstr "Status systemu"
+
+#: ineosq_menu.php:316
+msgid "Support"
+msgstr "サポート"
+
+#: ineosq_menu.php:317
+msgid "Manage purchased licenses & subscriptions"
+msgstr ""
+
+#: ineosq_menu.php:325
+#, php-format
+msgid "Get Access to %s+ Premium Plugins"
+msgstr ""
+
+#: ineosq_menu.php:327
+#, fuzzy
+msgid "Subscribe to Pro Membership"
+msgstr "有効なテーマ"
+
+#: ineosq_menu.php:335 ineosq_menu.php:346 class-ineosq-settings.php:807
+#: deprecated.php:227
+msgid "Check license key"
+msgstr "Sprawdź klucz licencji"
+
+#: ineosq_menu.php:338
+#, fuzzy
+msgid "Enter your license key"
+msgstr "Podaj klucz licencji"
+
+#: ineosq_menu.php:344 ineosq_menu.php:566 ineosq_menu.php:575
+#: class-ineosq-settings.php:787 deprecated.php:259 deprecated.php:267
+#: deprecated.php:631 deprecated.php:703 deprecated.php:712
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: ineosq_menu.php:360
+#, fuzzy
+msgid "Upload Plugin"
+msgstr "Wtyczka"
+
+#: ineosq_menu.php:364
+#, php-format
+msgid ""
+"The plugin generated %d characters of <strong>unexpected output</strong> "
+"during activation. If you notice &#8220;headers already sent&#8221; "
+"messages, problems with syndication feeds or other issues, try deactivating "
+"or removing this plugin."
+msgstr ""
+
+#: ineosq_menu.php:366
+msgid ""
+"Plugin could not be activated because it triggered a <strong>fatal error</"
+"strong>."
+msgstr ""
+
+#: ineosq_menu.php:369
+msgid "Plugin <strong>activated</strong>."
+msgstr ""
+
+#: ineosq_menu.php:376
+#, fuzzy
+msgid "Installing Plugin"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:382
+msgid "Downloading install package from"
+msgstr ""
+
+#: ineosq_menu.php:394 ineosq_menu.php:425 ineosq_menu.php:436 deprecated.php:388
+#: deprecated.php:410 deprecated.php:432
+msgid "Failed to download the zip archive. Please, upload the plugin manually"
+msgstr ""
+"Pobieranie archiwum zip zakończyło się niepowodzeniem. Proszę dodać wtyczkę "
+"manualnie"
+
+#: ineosq_menu.php:402
+msgid "Unpacking the package"
+msgstr ""
+
+#: ineosq_menu.php:407 ineosq_menu.php:415
+#, fuzzy
+msgid "Installing the plugin"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:411 deprecated.php:400
+msgid "Failed to open the zip archive. Please, upload the plugin manually"
+msgstr ""
+"Otwieranie archiwum zip zakończyło się niepowodzeniem. Proszę dodać wtyczkę "
+"manualnie"
+
+#: ineosq_menu.php:418 deprecated.php:406
+msgid ""
+"Your server does not support either ZipArchive or Phar. Please, upload the "
+"plugin manually"
+msgstr ""
+"Twój serwer nie wspiera ZipAcrchive lub Phar. Proszę dodać wtyczkę manualnie"
+
+#: ineosq_menu.php:421
+#, php-format
+msgid "The plugin %s is successfully installed."
+msgstr ""
+
+#: ineosq_menu.php:428 deprecated.php:413
+msgid "UploadDir is not writable. Please, upload the plugin manually"
+msgstr ""
+"Folder uploadu jest chroniony przez zapisem. Proszę dodać wtyczkę manualnie"
+
+#: ineosq_menu.php:433
+#, fuzzy
+msgid "Activate Plugin"
+msgstr "Aktywne wtyczki"
+
+#: ineosq_menu.php:433 ineosq_menu.php:439
+msgid "Return to IneosQ Panel"
+msgstr ""
+
+#: ineosq_menu.php:447 ineosq_menu.php:467 ineosq_menu.php:596
+msgid "All"
+msgstr "Wszystko"
+
+#: ineosq_menu.php:450 ineosq_menu.php:633
+msgid "Installed"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:453
+#, fuzzy
+msgid "Not Installed"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:460
+msgid "Filter results"
+msgstr ""
+
+#: ineosq_menu.php:463 ineosq_menu.php:592
+msgid "Category"
+msgstr ""
+
+#: ineosq_menu.php:527
+#, fuzzy
+msgid "Not installed"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:531
+#, fuzzy
+msgid "Renew to get updates"
+msgstr "ページに転送"
+
+#: ineosq_menu.php:534
+#, fuzzy, php-format
+msgid "Update to v %s"
+msgstr "Aktualizuj do wersji %s"
+
+#: ineosq_menu.php:546 ineosq_menu.php:569 ineosq_menu.php:578
+msgid "Install Now"
+msgstr "Instaluj teraz"
+
+#: ineosq_menu.php:552 class-ineosq-settings.php:192 class-ineosq-settings.php:1136
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ineosq_menu.php:566 ineosq_menu.php:575
+msgid "Activate this plugin"
+msgstr "Aktywuj wtyczkę"
+
+#: ineosq_menu.php:578
+#, fuzzy
+msgid "Install this plugin"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:587
+msgid "Nothing found. Try another criteria."
+msgstr ""
+
+#: ineosq_menu.php:624
+#, php-format
+msgid "By %s"
+msgstr "Od %s"
+
+#: ineosq_menu.php:631
+msgid "Already Installed"
+msgstr "Zainstalowane"
+
+#: ineosq_menu.php:641
+msgid "Browse More WordPress Themes"
+msgstr ""
+
+#: ineosq_menu.php:650
+msgid "Send to support"
+msgstr "Wyślij do supportu"
+
+#: ineosq_menu.php:657
+msgid "Send to custom email &#187;"
+msgstr "Prześlij na własny adres &#187;"
+
+#: class-ineosq-settings.php:167
+msgid "Information"
+msgstr ""
+
+#: class-ineosq-settings.php:179
+#, fuzzy
+msgid "Inactive"
+msgstr "Nieaktywne wtyczki"
+
+#: class-ineosq-settings.php:187
+msgid "Expired"
+msgstr ""
+
+#: class-ineosq-settings.php:190
+#, php-format
+msgid "%s day(-s) left"
+msgstr ""
+
+#: class-ineosq-settings.php:196
+#, fuzzy, php-format
+msgid "Expired on %s"
+msgstr "wygasa"
+
+#: class-ineosq-settings.php:196
+msgid "Renew Now"
+msgstr ""
+
+#: class-ineosq-settings.php:198
+#, fuzzy
+msgid "Active"
+msgstr "Aktywuj"
+
+#: class-ineosq-settings.php:203
+#, fuzzy
+msgid "License"
+msgstr "Niepoprawny klucz licencji"
+
+#: class-ineosq-settings.php:206
+#, fuzzy
+msgid "Status"
+msgstr "Status systemu"
+
+#: class-ineosq-settings.php:210
+#, fuzzy
+msgid "Version"
+msgstr "wersji!"
+
+#: class-ineosq-settings.php:323
+#, fuzzy
+msgid "All plugin settings were restored."
+msgstr "Ustawienia wtyczki zostały zmienione."
+
+#: class-ineosq-settings.php:463
+msgid "Custom Code"
+msgstr ""
+
+#: class-ineosq-settings.php:467 deprecated.php:498
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr ""
+
+#: class-ineosq-settings.php:472 deprecated.php:620
+msgid "These styles will be added to the header on all pages of your site."
+msgstr ""
+
+#: class-ineosq-settings.php:475 deprecated.php:622
+#, php-format
+msgid ""
+"This PHP code will be hooked to the %s action and will be printed on front "
+"end only."
+msgstr ""
+
+#: class-ineosq-settings.php:478
+msgid "These code will be added to the header on all pages of your site."
+msgstr ""
+
+#: class-ineosq-settings.php:486 deprecated.php:646
+#, php-format
+msgid ""
+"You need to make this files writable before you can save your changes. See "
+"%s the Codex %s for more information."
+msgstr ""
+
+#: class-ineosq-settings.php:496 deprecated.php:628
+msgid "Browsing"
+msgstr ""
+
+#: class-ineosq-settings.php:501
+#, php-format
+msgid "Activate custom %s code."
+msgstr ""
+
+#: class-ineosq-settings.php:509 deprecated.php:635
+#, fuzzy, php-format
+msgid "Learn more about %s"
+msgstr "Dowiedz się więcej"
+
+#: class-ineosq-settings.php:571
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: class-ineosq-settings.php:580 class-ineosq-settings.php:635
+#, php-format
+msgid ""
+"It is prohibited to change %s settings on this site in the %s network "
+"settings."
+msgstr ""
+
+#: class-ineosq-settings.php:583 class-ineosq-settings.php:638
+#, php-format
+msgid ""
+"It is prohibited to view %s settings on this site in the %s network settings."
+msgstr ""
+
+#: class-ineosq-settings.php:592
+#, fuzzy
+msgid "Pro Options"
+msgstr "Pro Plugins"
+
+#: class-ineosq-settings.php:596
+msgid "Enable to display plugin Pro options."
+msgstr ""
+
+#: class-ineosq-settings.php:602
+msgid "Track Usage"
+msgstr ""
+
+#: class-ineosq-settings.php:606
+msgid ""
+"Enable to allow tracking plugin usage anonymously in order to make it better."
+msgstr ""
+
+#: class-ineosq-settings.php:611
+#, fuzzy
+msgid "Default Settings"
+msgstr "Ustawienia"
+
+#: class-ineosq-settings.php:613
+#, fuzzy
+msgid "Restore Settings"
+msgstr "Przywróć ustawienia"
+
+#: class-ineosq-settings.php:614
+#, fuzzy
+msgid "This will restore plugin settings to defaults."
+msgstr "Przywróć wszystkie ustawienia do wartości domyśłnych"
+
+#: class-ineosq-settings.php:626
+msgid "Import / Export"
+msgstr ""
+
+#: class-ineosq-settings.php:744
+#, fuzzy
+msgid "License Key"
+msgstr "Niepoprawny klucz licencji"
+
+#: class-ineosq-settings.php:769
+#, fuzzy, php-format
+msgid "Congratulations! %s license is activated successfully."
+msgstr "Gratulacje! Licencja do wersji PRO została aktywowana pomyślnie."
+
+#: class-ineosq-settings.php:770
+#, php-format
+msgid "You will be automatically redirected to the %s in %s seconds."
+msgstr ""
+
+#: class-ineosq-settings.php:770
+#, fuzzy
+msgid "Settings page"
+msgstr "設定保存."
+
+#: class-ineosq-settings.php:789
+#, php-format
+msgid "Enter your license key to activate %s and get premium plugin features."
+msgstr ""
+
+#: class-ineosq-settings.php:792 class-ineosq-settings.php:999 deprecated.php:363
+#: deprecated.php:706
+msgid ""
+"Unfortunately, you have exceeded the number of available tries per day. "
+"Please, upload the plugin manually."
+msgstr ""
+"Niestety, przekroczono liczb dostępnych prób na dziś. Proszę dodać wtyczkę "
+"manualnie."
+
+#: class-ineosq-settings.php:795 deprecated.php:697
+#, php-format
+msgid "Start Your Free %s-Day Trial Now"
+msgstr "Rozpocznij swój darmowy %s-dniowy okres testowy"
+
+#: class-ineosq-settings.php:809
+#, fuzzy
+msgid ""
+"If necessary, you can check if the license key is correct or reenter it in "
+"the field below."
+msgstr ""
+"Jeśli to konieczne możesz sprawdzić czy klucz jest poprawny lub umieścić go "
+"w polu poniżej. Możesz znaleźć swój klucz na naszej stronie w strefie - "
+"Panel Klienta"
+
+#: class-ineosq-settings.php:818
+msgid "Manage License Settings"
+msgstr ""
+
+#: class-ineosq-settings.php:820
+#, fuzzy
+msgid "Login to Client Area"
+msgstr "Panel Klienta"
+
+#: class-ineosq-settings.php:822
+msgid ""
+"Manage active licenses, download INEOSQ products, and view your payment history "
+"using IneosQ Client Area."
+msgstr ""
+
+#: class-ineosq-settings.php:880 class-ineosq-settings.php:997 deprecated.php:141
+#: deprecated.php:361
+#, fuzzy
+msgid "This license key is bound to another site."
+msgstr "Klucz licencji został przypisany do innej strony."
+
+#: class-ineosq-settings.php:882 deprecated.php:143
+msgid ""
+"This license key is valid, but Your license has expired. If you want to "
+"update our plugin in future, you should extend the license."
+msgstr ""
+"Klucz jest poprawny, jednak Twoja licencja wygasła. Jeśli chcesz "
+"aktualizować naszą wtyczkę w przyszłości powinieneś przedłużyć licencję."
+
+#: class-ineosq-settings.php:884 deprecated.php:145
+msgid "Unfortunately, you have exceeded the number of available tries."
+msgstr "Niestety, przekroczono liczbę dostępnych prób."
+
+#: class-ineosq-settings.php:886 deprecated.php:147
+msgid ""
+"Unfortunately, the Pro Trial licence was already installed to this domain. "
+"The Pro Trial license can be installed only once."
+msgstr ""
+"Niestety, licencja PRO była już przypisana do tej domeny. Licencja testowa "
+"może być wykorzystana tylko raz."
+
+#: class-ineosq-settings.php:891 deprecated.php:151
+msgid "The Pro Trial license key is valid."
+msgstr "Klucz licencji do testowej wersji PRO jest poprawny."
+
+#: class-ineosq-settings.php:904 deprecated.php:159 deprecated.php:246
+#, php-format
+msgid ""
+"In order to continue using the plugin it is necessary to buy a %s license."
+msgstr ""
+"W celu dalszego wykorzystywania wtyczki niezbędne jest wykupienie licencji "
+"%s."
+
+#: class-ineosq-settings.php:1001
+#, php-format
+msgid ""
+"Unfortunately, Your license has expired. To continue getting top-priority "
+"support and plugin updates, you should extend it in your %s."
+msgstr ""
+
+#: class-ineosq-settings.php:1025 class-ineosq-settings.php:1047
+#: class-ineosq-settings.php:1069
+msgid "Failed to download the zip archive. Please, upload the plugin manually."
+msgstr ""
+
+#: class-ineosq-settings.php:1037
+msgid "Failed to open the zip archive. Please, upload the plugin manually."
+msgstr ""
+
+#: class-ineosq-settings.php:1043
+msgid ""
+"Your server does not support either ZipArchive or Phar. Please, upload the "
+"plugin manually."
+msgstr ""
+
+#: class-ineosq-settings.php:1050
+msgid "UploadDir is not writable. Please, upload the plugin manually."
+msgstr ""
+
+#: class-ineosq-settings.php:1110 deprecated.php:464
+msgid "Please, enter Your license key"
+msgstr "Proszę podać klucz licencji."
+
+#: class-ineosq-settings.php:1123
+#, fuzzy
+msgid "Need Help?"
+msgstr "Potrzebujesz pomocy?"
+
+#: class-ineosq-settings.php:1125
+msgid "Read the Instruction"
+msgstr ""
+
+#: class-ineosq-settings.php:1129
+msgid "Watch the Video"
+msgstr ""
+
+#: class-ineosq-settings.php:1140
+#, fuzzy
+msgid "Start Your Free Trial"
+msgstr "Rozpocznij swój darmowy %s-dniowy okres testowy"
+
+#: class-ineosq-settings.php:1175
+msgid "Request a Feature"
+msgstr ""
+
+#: class-ineosq-settings.php:1180
+#, php-format
+msgid "How can we improve %s?"
+msgstr ""
+
+#: class-ineosq-settings.php:1182
+msgid "We look forward to hear your ideas."
+msgstr ""
+
+#: class-ineosq-settings.php:1184
+msgid "Describe your idea"
+msgstr ""
+
+#: class-ineosq-settings.php:1187 deactivation-form.php:120
+msgid "Send website data and allow to contact me back"
+msgstr ""
+
+#: class-ineosq-settings.php:1192
+msgid "Submit"
+msgstr "送信"
+
+#: class-ineosq-settings.php:1193 deactivation-form.php:127
+msgid "Processing"
+msgstr ""
+
+#: class-ineosq-settings.php:1194
+msgid "Thank you!"
+msgstr ""
+
+#: deactivation-form.php:22
+msgid "Need help? We are ready to answer your questions."
+msgstr ""
+
+#: deactivation-form.php:22
+msgid "Contact Support"
+msgstr ""
+
+#: deactivation-form.php:27
+msgid "The plugin is not working"
+msgstr ""
+
+#: deactivation-form.php:33
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: deactivation-form.php:39
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: deactivation-form.php:46
+msgid "The plugin broke my site"
+msgstr ""
+
+#: deactivation-form.php:53
+msgid "I couldn't understand how to get it work"
+msgstr ""
+
+#: deactivation-form.php:60
+msgid "I found a better plugin"
+msgstr ""
+
+#: deactivation-form.php:66
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+
+#: deactivation-form.php:72
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: deactivation-form.php:78
+msgid "It's a temporary deactivation, I'm just debugging an issue"
+msgstr ""
+
+#: deactivation-form.php:84
+msgid "Other"
+msgstr ""
+
+#: deactivation-form.php:93
+msgid "Quick Feedback"
+msgstr ""
+
+#: deactivation-form.php:95
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: deactivation-form.php:125
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: deactivation-form.php:126
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: deactivation-form.php:272
+msgid "Please tell us the reason so we can improve it."
+msgstr ""
+
+#: deprecated.php:93
+#, fuzzy
+msgid "System Status"
+msgstr "Status systemu"
+
+#: deprecated.php:204
+msgid "Please, enter your license key"
+msgstr "Podaj klucz licencji"
+
+#: deprecated.php:223
+#, fuzzy
+msgid ""
+"If necessary, you can check if the license key is correct or reenter it in "
+"the field below. You can find your license key on your personal page - "
+"Client Area - on our website"
+msgstr ""
+"Jeśli to konieczne możesz sprawdzić czy klucz jest poprawny lub umieścić go "
+"w polu poniżej. Możesz znaleźć swój klucz na naszej stronie w strefie - "
+"Panel Klienta"
+
+#: deprecated.php:223
+#, fuzzy
+msgid ""
+"(your username is the email address specified during the purchase). If "
+"necessary, please submit \"Lost your password?\" request."
+msgstr ""
+"(login to adres email podany przy zakupie). Jeśli to koniczne użyj opcji "
+"\"Zgubiłeś swoje hasło?\"."
+
+#: deprecated.php:246
+#, fuzzy
+msgid "After that, you can activate it by entering your license key."
+msgstr "Po wszystkim możesz aktywować wtyczkę poprzez podanie klucza licencji."
+
+#: deprecated.php:249 deprecated.php:691
+msgid "License key can be found in the"
+msgstr ""
+
+#: deprecated.php:251 deprecated.php:693
+#, fuzzy
+msgid "(your username is the email address specified during the purchase)."
+msgstr "(twoja nazwa użytkownika to email podany podczas zakupu)."
+
+#: deprecated.php:279
+#, fuzzy
+msgid ""
+"Congratulations! The Pro license of the plugin is activated successfully."
+msgstr "Gratulacje! Licencja do wersji PRO została aktywowana pomyślnie."
+
+#: deprecated.php:281 deprecated.php:672
+msgid "Please, go to"
+msgstr "Proszę przejść do"
+
+#: deprecated.php:281 deprecated.php:672
+msgid "the setting page"
+msgstr "ustawień"
+
+#: deprecated.php:282 deprecated.php:673
+msgid "You will be redirected automatically in 5 seconds."
+msgstr "Zostaniesz automatycznie przekierowany w ciągu 5 sekund."
+
+#: deprecated.php:316
+msgid "Check premium options on the plugin settings page!"
+msgstr "Sprawdź dodatkowe opcje premium w ustawieniach wtyczki."
+
+#: deprecated.php:479
+msgid "Restore all plugin settings to defaults"
+msgstr "Przywróć wszystkie ustawienia do wartości domyśłnych"
+
+#: deprecated.php:481
+msgid "Restore settings"
+msgstr "Przywróć ustawienia"
+
+#: deprecated.php:550 deprecated.php:577
+#, php-format
+msgid "File %s edited successfully."
+msgstr ""
+
+#: deprecated.php:552 deprecated.php:579
+msgid "Not enough permissions to create or update the file"
+msgstr ""
+
+#: deprecated.php:582
+msgid "Not enough permissions to create the file"
+msgstr ""
+
+#: deprecated.php:626
+msgid "Editing"
+msgstr ""
+
+#: deprecated.php:670
+#, fuzzy
+msgid ""
+"Congratulations! Pro version of the plugin is  installed and activated "
+"successfully."
+msgstr "Gratulacje! Wersja PRO została pobrana i aktywowana pomyślnie."
+
+#: deprecated.php:680
+msgid "Show Pro features"
+msgstr "Pokaż funkcje PRO"
+
+#: deprecated.php:687
+msgid "Enter your license key to install and activate"
+msgstr ""
+
+#: deprecated.php:689
+#, fuzzy
+msgid "version of the plugin."
+msgstr "Oceń wtyczkę"
+
+#: product_list.php:8
+msgid "Admin Tools"
+msgstr ""
+
+#: product_list.php:9
+msgid "Content"
+msgstr ""
+
+#: product_list.php:10
+msgid "eCommerce"
+msgstr ""
+
+#: product_list.php:11
+msgid "Marketing"
+msgstr ""
+
+#: product_list.php:12
+msgid "Navigation"
+msgstr ""
+
+#: product_list.php:13
+msgid "Recommended"
+msgstr "Polecane"
+
+#: product_list.php:14
+msgid "Security"
+msgstr ""
+
+#: product_list.php:15
+msgid "SEO"
+msgstr ""
+
+#: product_list.php:16
+msgid "SMM"
+msgstr ""
+
+#: product_list.php:23
+msgid "Give a birth for your bike rental and booking WordPress website."
+msgstr ""
+
+#: product_list.php:35
+msgid "Best secure captcha plugin to protect your WordPress forms."
+msgstr ""
+
+#: product_list.php:45
+msgid "Create your own rental website for car renting and booking."
+msgstr ""
+
+#: product_list.php:57
+msgid ""
+"Add columns with custom content to WordPress website pages, posts, widgets, "
+"etc."
+msgstr ""
+
+#: product_list.php:64
+msgid ""
+"Allow customers to reach you using secure contact form plugin any website "
+"must have."
+msgstr ""
+
+#: product_list.php:74
+msgid "Add unlimited number of contact forms to WordPress website."
+msgstr ""
+
+#: product_list.php:84
+msgid "Save and manage Contact Form messages. Never lose important data."
+msgstr ""
+
+#: product_list.php:94
+msgid "Add unlimited custom pages to WordPress admin dashboard."
+msgstr ""
+
+#: product_list.php:104
+msgid ""
+"Add custom post types and taxonomies to WordPress website search results."
+msgstr ""
+
+#: product_list.php:114
+msgid "Add PayPal and 2CO donate buttons to receive charity payments."
+msgstr ""
+
+#: product_list.php:121
+msgid ""
+"Get latest error log messages to diagnose website problems. Define and fix "
+"issues faster."
+msgstr ""
+
+#: product_list.php:128
+msgid ""
+"Add Facebook Follow, Like, and Share buttons to WordPress posts, pages, and "
+"widgets."
+msgstr ""
+
+#: product_list.php:138
+msgid ""
+"Add beautiful galleries, albums & images to your WordPress website in a few "
+"clicks."
+msgstr ""
+
+#: product_list.php:148
+msgid ""
+"Stronger security solution which protects your WordPress website from hacks "
+"and unauthorized login attempts."
+msgstr ""
+
+#: product_list.php:158
+msgid ""
+"Add Adsense ads to WordPress website pages, posts, custom posts, search "
+"results, categories, tags, and widgets."
+msgstr ""
+
+#: product_list.php:168
+msgid "Add Google Analytics code to WordPress website and track basic stats."
+msgstr ""
+
+#: product_list.php:178
+msgid "Protect WordPress website forms from spam entries with reCaptcha."
+msgstr ""
+
+#: product_list.php:188
+msgid "Add customized Google maps to WordPress posts, pages and widgets."
+msgstr ""
+
+#: product_list.php:198
+msgid ""
+"Generate and add XML sitemap to WordPress website. Help search engines index "
+"your blog."
+msgstr ""
+
+#: product_list.php:208
+msgid ""
+"Replace external WordPress website links with Google shortlinks and track "
+"click stats."
+msgstr ""
+
+#: product_list.php:215
+msgid ""
+"Protect WordPress website – allow and deny access for certain IP addresses, "
+"hostnames, etc."
+msgstr ""
+
+#: product_list.php:225
+msgid ""
+"Create your personal job board and listing WordPress website. Search jobs, "
+"submit CV/resumes, choose candidates."
+msgstr ""
+
+#: product_list.php:232
+msgid ""
+"Protect WordPress website against brute force attacks. Limit rate of login "
+"attempts."
+msgstr ""
+
+#: product_list.php:242
+msgid ""
+"Add LinkedIn Share and Follow buttons to WordPress posts, pages and widgets. "
+"5 plugins included – profile, insider, etc."
+msgstr ""
+
+#: product_list.php:252
+msgid ""
+"Translate WordPress website content to other languages manually. Create "
+"multilingual pages, posts, widgets, menus, etc."
+msgstr ""
+
+#: product_list.php:262
+msgid ""
+"Add customizable pagination to WordPress website. Split long content to "
+"multiple pages for better navigation."
+msgstr ""
+
+#: product_list.php:272
+msgid ""
+"Generate PDF files and print WordPress posts/pages. Customize document "
+"header/footer styles and appearance."
+msgstr ""
+
+#: product_list.php:282
+msgid ""
+"Add Pinterest Follow, Pin It buttons and profile widgets (Pin, Board, "
+"Profile) to WordPress posts, pages and widgets."
+msgstr ""
+
+#: product_list.php:292
+msgid ""
+"Create your personal portfolio WordPress website. Manage and showcase past "
+"projects to get more clients."
+msgstr ""
+
+#: product_list.php:302
+msgid "Export WordPress posts to CSV file format easily. Configure data order."
+msgstr ""
+
+#: product_list.php:312
+msgid ""
+"Add extra fields to default WordPress user profile. The easiest way to "
+"create and manage additional custom values."
+msgstr ""
+
+#: product_list.php:322
+msgid ""
+"Add and display HTML advertisement banner on WordPress website. Customize "
+"bar styles and appearance."
+msgstr ""
+
+#: product_list.php:332
+msgid ""
+"Add customizable quotes and tips blocks to WordPress posts, pages and "
+"widgets."
+msgstr ""
+
+#: product_list.php:339
+msgid ""
+"Add rating plugin to your WordPress website to receive feedback from your "
+"customers."
+msgstr ""
+
+#: product_list.php:349
+msgid ""
+"Create your personal real estate WordPress website. Sell, rent and buy "
+"properties. Add, search and browse listings easily."
+msgstr ""
+
+#: product_list.php:359
+msgid ""
+"Add related, featured, latest, and popular posts to your WordPress website. "
+"Connect your blog readers with a relevant content."
+msgstr ""
+
+#: product_list.php:366
+msgid ""
+"Send bulk email messages to WordPress users. Custom templates, advanced "
+"settings and detailed reports."
+msgstr ""
+
+#: product_list.php:376
+msgid ""
+"The best responsive slider plugin for your WordPress website. Create "
+"beautifully animated slides just in a few clicks."
+msgstr ""
+
+#: product_list.php:383
+msgid ""
+"Configure SMTP server to receive email messages from WordPress to Gmail, "
+"Yahoo, Hotmail and other services."
+msgstr ""
+
+#: product_list.php:390
+msgid ""
+"Add social media buttons and widgets to WordPress posts, pages and widgets. "
+"FB, Twitter, Pinterest, LinkedIn."
+msgstr ""
+
+#: product_list.php:400
+msgid ""
+"Add social media login, registration, and commenting to your WordPress "
+"website."
+msgstr ""
+
+#: product_list.php:407
+msgid ""
+"Add email newsletter sign up form to WordPress posts, pages and widgets. "
+"Collect data and subscribe your users."
+msgstr ""
+
+#: product_list.php:417
+msgid ""
+"Add testimonials and feedbacks from your customers to WordPress website "
+"posts, pages, and widgets."
+msgstr ""
+
+#: product_list.php:424
+msgid ""
+"Best timesheet plugin for WordPress. Track employee time, streamline "
+"attendance and generate reports."
+msgstr ""
+
+#: product_list.php:434
+msgid ""
+"Add Twitter Follow, Tweet, Hashtag, and Mention buttons to WordPress posts "
+"and pages."
+msgstr ""
+
+#: product_list.php:444
+msgid ""
+"Automatically check and update WordPress website core with all installed "
+"plugins and themes to the latest versions."
+msgstr ""
+
+#: product_list.php:454
+msgid ""
+"Powerful user role management plugin for WordPress website. Create, edit, "
+"copy, and delete user roles."
+msgstr ""
+
+#: product_list.php:464
+msgid ""
+"Display live count of online visitors who are currently browsing your "
+"WordPress website."
+msgstr ""
+
+#: product_list.php:474
+msgid ""
+"Backup and export Zendesk Help Center content automatically to your "
+"WordPress website database."
+msgstr ""
+
+#~ msgid "Add INEOSQ Plugins Shortcode"
+#~ msgstr "Dodaj INEOSQ Shortcode"
+
+#, fuzzy
+#~ msgid "Congratulations! Pro Membership license is  activated successfully."
+#~ msgstr "Gratulacje! Licencja do wersji PRO została aktywowana pomyślnie."
+
+#, fuzzy
+#~ msgid "Email with system info is sent to"
+#~ msgstr "Wiadomość z informacjami systemowymi zostanie wysłana do "
+
+#~ msgid ""
+#~ "You can use one license of the Pro plugin for one domain only. Please "
+#~ "check and edit your license or domain if necessary using you personal "
+#~ "Client Area. We strongly recommend you to solve the problem within 24 "
+#~ "hours, otherwise the Pro plugin will be deactivated."
+#~ msgstr ""
+#~ "Licencja wersji PRO może być wykorzystywana tylko na jednej domenie. "
+#~ "Proszę sprawdź i edytuj klucz licencji lub domenę, jeśli to konieczne "
+#~ "wykorzystaj Panel Klienta. Zalecamy rozwiązanie tego problemu w przeciągu "
+#~ "24 godzin, w przeciwnym wypadku wersja PRO zostanie zablokowana."
+
+#~ msgid "Insert"
+#~ msgstr "Umieść"
+
+#, fuzzy
+#~ msgid "Site Stats"
+#~ msgstr "Status systemu"
+
+#~ msgid "Thank you for installing"
+#~ msgstr "Dziękujemy za instalację"
+
+#, fuzzy
+#~ msgid "Thank you for choosing"
+#~ msgstr "Dziękujemy za instalację"
+
+#, fuzzy
+#~ msgid "You will be automatically redirected to the %s in 7 seconds."
+#~ msgstr "Zostaniesz automatycznie przekierowany w ciągu 5 sekund."
+
+#~ msgid "PHP Safe Mode"
+#~ msgstr "PHP Safe Mode"
+
+#~ msgid "You license for"
+#~ msgstr "Twoja licencja na"
+
+#~ msgid "expires on"
+#~ msgstr "wygasa"
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Ta licencja została przypisana do innej strony."
+
+#, fuzzy
+#~ msgid "Successfully installed the plugin"
+#~ msgstr "Zainstalowane"
+
+#, fuzzy
+#~ msgid "Please, go to %s"
+#~ msgstr "Proszę przejść do"
+
+#, fuzzy
+#~ msgid "Client Area"
+#~ msgstr "Panel Klienta"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr "Jeśli polubiłeś naszą wtyczkę daj nam 5 gwiazdek"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Jeśli wystąpią problemy proszę, skontaktuj się z nami"
+
+#~ msgid "WordPress Version"
+#~ msgstr "Wersja WordPress"
+
+#~ msgid "You can download and activate"
+#~ msgstr "Możesz pobrać i aktywować wersję"
+
+#~ msgid "version of this plugin by entering Your license key."
+#~ msgstr "wtyczki poprzez podanie klucza licencji."
+
+#~ msgid ""
+#~ "You can find your license key on your personal page Client area, by "
+#~ "clicking on the link"
+#~ msgstr ""
+#~ "Możesz znaleźć Twój klucz licencji na indywidualnej stronie w Panelu "
+#~ "Klienta poprzez kliknięcie w link"
+
+#~ msgid "Configure Settings"
+#~ msgstr "Konfiguruj Ustawienia"
+
+#~ msgid "Go"
+#~ msgstr "Go"
+
+#~ msgid "DONATE"
+#~ msgstr "DOTACJA"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Polecane"
+
+#~ msgid "Install now"
+#~ msgstr "Instaluj teraz"
+
+#~ msgid "Try again"
+#~ msgstr "Spróbuj ponownie"
+
+#~ msgid "Preview &#8220;%s&#8221;"
+#~ msgstr "Podgląd &#8220;%s&#8221;"
+
+#~ msgid "Install %s"
+#~ msgstr "Instaluj %s"
+
+#~ msgid "Update"
+#~ msgstr "Aktualizuj"
+
+#~ msgid "Preview %s"
+#~ msgstr "Podgląd %s"
+
+#~ msgid "Preview"
+#~ msgstr "Podgląd"
+
+#~ msgid "Activated plugins"
+#~ msgstr "有効なプラグイン"
+
+#~ msgid "Read more"
+#~ msgstr "もっと読む"
+
+#~ msgid "Purchase"
+#~ msgstr "購入"
+
+#~ msgid "Free plugins"
+#~ msgstr "無料プラグイン"
+
+#~ msgid "Download"
+#~ msgstr "ダウンロード"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "wordpress.org から直ぐに導入"
+
+#, fuzzy
+#~ msgid "Installed themes"
+#~ msgstr "%s 導入"
+
+#, fuzzy
+#~ msgid "Recommended themes"
+#~ msgstr "推奨プラグイン"
+
+#, fuzzy
+#~ msgid "installed"
+#~ msgstr "%s 導入"
+
+#~ msgid "Contact Form"
+#~ msgstr "コンタクトフォーム"
+
+#~ msgid "Contact Form Pro Extra Settings"
+#~ msgstr "Contact Form Pro 用設定"
+
+#~ msgid "Contact Form Pro"
+#~ msgstr "Contact Form Pro"
+
+#~ msgid "Name:"
+#~ msgstr "名前:"
+
+#~ msgid "Address:"
+#~ msgstr "住所:"
+
+#~ msgid "Email Address:"
+#~ msgstr "Eメール:"
+
+#~ msgid "Phone number:"
+#~ msgstr "電話番号:"
+
+#~ msgid "Subject:"
+#~ msgstr "件名:"
+
+#~ msgid "Message:"
+#~ msgstr "メッセージ:"
+
+#~ msgid "Attachment:"
+#~ msgstr "添付:"
+
+#~ msgid "Send me a copy"
+#~ msgstr "コピーを自分に送る"
+
+#~ msgid "Your name is required."
+#~ msgstr "名前は必須です。"
+
+#~ msgid "Address is required."
+#~ msgstr "住所が必要です。"
+
+#~ msgid "A valid email address is required."
+#~ msgstr "有効なEメールアドレスlが必須です。"
+
+#~ msgid "Phone number is required."
+#~ msgstr "電話番号は必須です。"
+
+#~ msgid "Subject is required."
+#~ msgstr "件名は必須です。"
+
+#~ msgid "Message text is required."
+#~ msgstr "メッセージ本文は必須です。"
+
+#~ msgid "File format is not valid."
+#~ msgstr "添付が壊れています。"
+
+#~ msgid "File upload error."
+#~ msgstr "ファイル・アップロード・エラー。"
+
+#~ msgid "The file could not be uploaded."
+#~ msgstr "ファイルは、アップロード出来ませんでした。"
+
+#~ msgid "This file is too large."
+#~ msgstr "このファイルは大きすぎます。"
+
+#~ msgid "Please fill out the CAPTCHA."
+#~ msgstr "CAPTCHAを入力して下さい。"
+
+#~ msgid "Please make corrections below and try again."
+#~ msgstr "以下を修正し、再度試して下さい。"
+
+#~ msgid ""
+#~ "If the 'Redirect to page' option is selected then the URL field should be "
+#~ "in the following format"
+#~ msgstr ""
+#~ "’ページに転送’オプションを選択した場合は、URLフィールドが、以下の形式にな"
+#~ "ります"
+
+#~ msgid "Such user does not exist. Settings are not saved."
+#~ msgstr "このようなユーザは存在しません。設定は保存されません。"
+
+#~ msgid ""
+#~ "Please enter a valid email address in the 'FROM' field. Settings are not "
+#~ "saved."
+#~ msgstr ""
+#~ "'送信者'フィールドに正確なEメール・アドレスを入力して下さい。設定は保存さ"
+#~ "れません。"
+
+#~ msgid ""
+#~ "If you would like to add the Contact Form to your website, just copy and "
+#~ "paste this shortcode to your post or page or widget:"
+#~ msgstr ""
+#~ "コンタクトフォームをあなたのサイトに追加したい場合は、このショートカットを"
+#~ "投稿、ページ又はウェジットにコピーして貼り付けるだけです:"
+
+#~ msgid ""
+#~ "If have any problems with the standard shortcode [contact_form], you "
+#~ "should use the shortcode"
+#~ msgstr ""
+#~ "標準的な短いコード [contact_form]に問題がある場合は、この短いコードをご利"
+#~ "用下さい"
+
+#~ msgid "They work the same way."
+#~ msgstr "同様に動作します。"
+
+#~ msgid ""
+#~ "If you leave the fields empty, the messages will be sent to the email "
+#~ "address specified during registration."
+#~ msgstr ""
+#~ "以下の項目の情報が空欄の場合、登録の際に記述したアドレスにメッセージが送ら"
+#~ "れます。"
+
+#~ msgid "The user's email address:"
+#~ msgstr "wordpressユーザのemailを利用r:"
+
+#~ msgid "Create a username"
+#~ msgstr "ユーザ名の選択"
+
+#~ msgid ""
+#~ "Enter a username of the person who should get the messages from the "
+#~ "contact form."
+#~ msgstr "コンタクトフォームからメッセージを受け取る方のユーザ名を入力。"
+
+#~ msgid "Use this email address:"
+#~ msgstr "このemailを利用:"
+
+#~ msgid "Enter the email address you want the messages forwarded to."
+#~ msgstr "メッセージ受信用のemailを設定。"
+
+#~ msgid "Additional options"
+#~ msgstr "追加オプション"
+
+#~ msgid "What to use?"
+#~ msgstr "何用途？"
+
+#~ msgid "Wp-mail"
+#~ msgstr "WPメール"
+
+#~ msgid "You can use the wp_mail function for mailing"
+#~ msgstr "メールにwp_mali機能が利用できます"
+
+#~ msgid "Mail"
+#~ msgstr "メール"
+
+#~ msgid "To send mail you can use the php mail function"
+#~ msgstr "メールを送信するには、phpメール機能が利用できます"
+
+#~ msgid "Change text of the 'FROM' field"
+#~ msgstr "'送信者' フィールドのテキストを変更"
+
+#~ msgid "Enter the email address in the 'From' field"
+#~ msgstr "'送信者' フィールドにメールアドレスを入力して下さい"
+
+#~ msgid "User email"
+#~ msgstr "ユーザ・Eメール"
+
+#~ msgid ""
+#~ "The email address of the user who fills the form will be used in the "
+#~ "field 'From'."
+#~ msgstr ""
+#~ "フォームを入力したユーザのEメール・アドレスは、'送信者'フィールドに使用さ"
+#~ "れます。"
+
+#~ msgid "This email address will be used in the 'From' field."
+#~ msgstr "このEメール・アドレスは、'送信者'フィールドに使用されます。"
+
+#~ msgid "Display fields"
+#~ msgstr "フィールドを表示"
+
+#~ msgid "Address"
+#~ msgstr "住所"
+
+#~ msgid "Phone"
+#~ msgstr "電話"
+
+#~ msgid "Attachment block"
+#~ msgstr "添付ブロック"
+
+#~ msgid "Users can attach the following file formats"
+#~ msgstr "ユーザは、以下のタイプのファイルを添付できる"
+
+#~ msgid "Captcha"
+#~ msgstr "Captcha"
+
+#~ msgid "(powered by ineosq.com)"
+#~ msgstr "(powered by ineosq.com)"
+
+#~ msgid "Download captcha"
+#~ msgstr "captchaをダウンロード"
+
+#, fuzzy
+#~ msgid "Display tips below the Attachment block"
+#~ msgstr "添付ブロックの下のチップス"
+
+#, fuzzy
+#~ msgid "Display 'Send me a copy' block"
+#~ msgstr "コピーブロックを自分に送る"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Email Address"
+#~ msgstr "Eメール・アドレス"
+
+#~ msgid "Subject"
+#~ msgstr "件名"
+
+#~ msgid "Message"
+#~ msgstr "メッセージ"
+
+#~ msgid "Display additional info in the email"
+#~ msgstr "メール中に追加情報を表示"
+
+#~ msgid "Sent from (ip address)"
+#~ msgstr "(IP-Adresse)から送られた"
+
+#, fuzzy
+#~ msgid "Example: Sent from (IP address):\t127.1.0.0"
+#~ msgstr "(IP-Adresse)から送られた"
+
+#~ msgid "Date/Time"
+#~ msgstr "日時"
+
+#~ msgid "Sent from (referer)"
+#~ msgstr "(referer)から送られている"
+
+#~ msgid "Using (user agent)"
+#~ msgstr "(user agent)使用"
+
+#~ msgid "Language settings for the field names in the form"
+#~ msgstr "フォームのフィールド名用の言語設定"
+
+#~ msgid "Add a language"
+#~ msgstr "言語の追加"
+
+#~ msgid "Change the names of the contact form fields and error messages"
+#~ msgstr "コンタクト・フォームのフィールドの名前及びエラーメッセージを変更"
+
+#~ msgid "English"
+#~ msgstr "英語"
+
+#~ msgid "Error message for the Name field"
+#~ msgstr "名前フィールド用のエラーメッセージ"
+
+#~ msgid "Error message for the Address field"
+#~ msgstr "住所フィールド用のエラーメッセージ"
+
+#~ msgid "Error message for the Email field"
+#~ msgstr "Eメール・フィールド用のエラーメッセージ"
+
+#~ msgid "Error message for the Phone field"
+#~ msgstr "電話フィールド用のエラーメッセージ"
+
+#~ msgid "Error message for the Subject field"
+#~ msgstr "件名フィールド用のエラーメッセージ"
+
+#~ msgid "Error message for the Message field"
+#~ msgstr "メッセージ・フィールド用のエラーメッセージ"
+
+#~ msgid "Error message about the file type for the Attachment field"
+#~ msgstr "添付フィールド用の拡張子タイプに関するエラーメッセージ"
+
+#~ msgid ""
+#~ "Error message while uploading a file for the Attachment field to the "
+#~ "server"
+#~ msgstr ""
+#~ "添付フィールド用のファイルをサーバにアップロード中のエラーメッセージ"
+
+#~ msgid "Error message while moving the file for the Attachment field"
+#~ msgstr "添付フィールド用のファイルを移動中のエラーメッセージ"
+
+#~ msgid ""
+#~ "Error message when file size limit for the Attachment field is exceeded"
+#~ msgstr "添付フィールド用のファイルサイズ制限を超した場合のエラーメッセージ"
+
+#~ msgid "Error message for the Captcha field"
+#~ msgstr "Captcha フィールド用のエラーメッセージ"
+
+#~ msgid "Error message for the whole form"
+#~ msgstr "全体フォーム用のエラーメッセージ"
+
+#~ msgid "for this language"
+#~ msgstr "この言語用"
+
+#~ msgid "Action after email is sent"
+#~ msgstr "メール送信後の行動"
+
+#~ msgid "Display text"
+#~ msgstr "テキストを表示"
+
+#~ msgid "Text"
+#~ msgstr "文字"
+
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgid "Contact Form Pro | Extra Settings"
+#~ msgstr "Contact Form Pro | 追加設定"
+
+#~ msgid ""
+#~ "This functionality is available in the Pro version of the plugin. For "
+#~ "more details, please follow the link"
+#~ msgstr ""
+#~ "この機能は、プラグインのProバージョンで利用できます。詳細は、リンクを参照"
+#~ "して下さい。"
+
+#~ msgid "Errors output"
+#~ msgstr "エラー出力"
+
+#~ msgid "Display error messages"
+#~ msgstr "エラーメッセージの表示"
+
+#~ msgid "Color of the input field errors."
+#~ msgstr "入力フィールド・エラーの色"
+
+#~ msgid "Display error messages & color of the input field errors"
+#~ msgstr "エラーメッセージと入力フィールド・エラーの色を表示"
+
+#~ msgid "Add placeholder to the input blocks"
+#~ msgstr "プレースホルダーを入力ブロックに追加"
+
+#~ msgid "Add tooltips"
+#~ msgstr "ツールチップの追加"
+
+#~ msgid "Email address"
+#~ msgstr "Eメール・アドレス"
+
+#~ msgid "Phone Number"
+#~ msgstr "電話番号"
+
+#~ msgid "Attachment"
+#~ msgstr "添付"
+
+#~ msgid "Style options"
+#~ msgstr "スタイル・オプション"
+
+#~ msgid "Text color"
+#~ msgstr "文字色"
+
+#~ msgid "Default"
+#~ msgstr "標準"
+
+#~ msgid "Label text color"
+#~ msgstr "ラベル文字色"
+
+#~ msgid "Placeholder color"
+#~ msgstr "プレースホルダ色"
+
+#~ msgid "Errors color"
+#~ msgstr "エラーの色"
+
+#~ msgid "Error text color"
+#~ msgstr "エラーテキストの色"
+
+#~ msgid "Background color of the input field errors"
+#~ msgstr "入力フィールド・エラーの背景色"
+
+#~ msgid "Border color of the input field errors"
+#~ msgstr "入力フィールド・エラーの罫線色"
+
+#~ msgid "Placeholder color of the input field errors"
+#~ msgstr "入力フィールド・エラー用のプレースホルダ色"
+
+#~ msgid "Input fields"
+#~ msgstr "フィールドを入力"
+
+#~ msgid "Input fields background color"
+#~ msgstr "フィールドの背景色の入力"
+
+#~ msgid "Text fields color"
+#~ msgstr "文字フィールド色"
+
+#~ msgid "Border width in px, numbers only"
+#~ msgstr "罫線幅(px単位)、数値のみ"
+
+#~ msgid "Border color"
+#~ msgstr "罫線色"
+
+#~ msgid "Width in px, numbers only"
+#~ msgstr "px単位の幅、数字のみ"
+
+#~ msgid "Button color"
+#~ msgstr "ボタンの色"
+
+#~ msgid "Button text color"
+#~ msgstr "ボタン文字の色"
+
+#~ msgid "Contact Form Pro | Preview"
+#~ msgstr "Contact Form Pro | プレビュー"
+
+#~ msgid "Show with errors"
+#~ msgstr "エラーで表示"
+
+#~ msgid "Please enter your full name..."
+#~ msgstr "貴方の氏名を入力して下さい..."
+
+#~ msgid "Please enter your address..."
+#~ msgstr "貴方の住所を入力して下さい..."
+
+#~ msgid "Please enter your email address..."
+#~ msgstr "貴方のEメール・アドレスを入力して下さい..."
+
+#~ msgid "Please enter your phone number..."
+#~ msgstr "貴方の電話番号を入力して下さい..."
+
+#~ msgid "Please enter subject..."
+#~ msgstr "件名を入力して下さい..."
+
+#~ msgid ""
+#~ "Supported file types: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, BMP, AI, "
+#~ "EPS, PS, RTF, PDF, DOC, DOCX, XLS, ZIP, RAR, WAV, MP3, PPT. Max file "
+#~ "size: 2MB"
+#~ msgstr ""
+#~ "サポートしてるファイル形式: HTML, TXT, CSS, GIF, PNG, JPEG, JPG, TIFF, "
+#~ "BMP, AI, EPS, PS, RTF, PDF, DOC, DOCX, XLS, ZIP, RAR, WAV, MP3, PPT. 最大"
+#~ "ファイルサイズ: 2MB"
+
+#~ msgid "You can attach the following file formats"
+#~ msgstr "貴方は、以下のタイプのファイルを添付できます"
+
+#~ msgid "Contact from"
+#~ msgstr "コンタクトフォーム"
+
+#~ msgid "Email"
+#~ msgstr "Eメール"
+
+#~ msgid "Site"
+#~ msgstr "サイト"
+
+#~ msgid ""
+#~ "If you can see this MIME, it means that the MIME type is not supported by "
+#~ "your email client!"
+#~ msgstr ""
+#~ "このMIMEを見ている場合は、貴方のクライアントはMIMEタイプを読めません。"
+
+#~ msgid "Contact Form Options"
+#~ msgstr "コンタクトフォーム オプション"
+
+#, fuzzy
+#~ msgid "Display Attachment tips"
+#~ msgstr "添付ブロックを表示"
+
+#~ msgid "Please enter a valid email address. Settings are not saved."
+#~ msgstr "正確なemailを入力して下さい。設定は保存されません。"
+
+#, fuzzy
+#~ msgid "E-Mail Address"
+#~ msgstr "E-Mail:"
+
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "Indirizzo e-mail:"
